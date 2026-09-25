@@ -1,0 +1,1 @@
+**Figure 3. Validation-based selection of the final RF-DETR model.** Validation COCO AP@50:95 for regular and exponential moving-average (EMA) model states across ten training epochs (indices 0–9). The epoch-index-4 EMA state attained the highest validation AP@50:95 (0.526) and was selected before evaluation on the held-out image-level test set. Only validation data are plotted.

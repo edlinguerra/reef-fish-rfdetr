@@ -1,0 +1,53 @@
+"operational_class","category_order","operational_category_type","training_support","validation_support","test_support","SAMP_training_support","iNaturalist_training_support"
+"unidentifiable",1,"auxiliary",1905,91,15,1738,167
+"Haemulon plumierii",2,"species_level",1060,11,15,1045,15
+"Haemulon juvenil",3,"life_stage_or_initial_phase",1025,13,9,1009,16
+"Anisotremus virginicus",4,"species_level",775,15,16,763,12
+"Abudefduf saxatilis",5,"species_level",771,13,13,716,55
+"Lutjanus griseus",6,"species_level",340,10,11,336,4
+"Ocyurus chrysurus",7,"species_level",329,13,13,315,14
+"Holacanthus spp",8,"genus_level_group",280,11,11,172,108
+"Epinephelus spp",9,"genus_level_group",221,11,10,4,217
+"Mycteroperca spp",10,"genus_level_group",179,10,10,3,176
+"Caranx latus",11,"species_level",174,10,10,172,2
+"Caranx ruber",12,"species_level",128,8,10,122,6
+"Scarus coeruleus",13,"species_level",128,10,10,127,1
+"Scarus juvenil",14,"life_stage_or_initial_phase",126,11,10,87,39
+"Sparisoma rubripinne FI",15,"life_stage_or_initial_phase",122,10,10,81,41
+"Diodon spp",16,"genus_level_group",110,10,10,21,89
+"Scarus iseri",17,"species_level",99,10,10,17,82
+"Haemulon sciurus",18,"species_level",93,11,10,31,62
+"Kyphosus spp",19,"genus_level_group",86,10,12,40,46
+"Sphyraena barracuda",20,"species_level",86,10,10,43,43
+"Acanthurus coeruleus",21,"species_level",83,10,10,14,69
+"Chaetodon ocellatus",22,"species_level",83,10,10,41,42
+"Caranx bartholomaei",23,"species_level",77,10,10,77,0
+"Lachnolaimus maximus",24,"species_level",69,10,10,31,38
+"Scarus coelestinus",25,"species_level",69,10,10,28,41
+"Haemulon flavolineatum",26,"species_level",68,9,9,4,64
+"Sparisoma viride FI",27,"life_stage_or_initial_phase",68,10,10,8,60
+"Pomacanthus paru",28,"species_level",65,10,10,25,40
+"Pomacanthus arcuatus",29,"species_level",63,10,10,22,41
+"Acanthurus chirurgus",30,"species_level",61,11,10,7,54
+"Haemulon plumierii juvenil",31,"life_stage_or_initial_phase",60,10,10,60,0
+"Nicholsina usta",32,"species_level",59,10,10,12,47
+"Halichoeres spp",33,"genus_level_group",58,10,10,16,42
+"Calamus spp",34,"genus_level_group",56,8,10,13,43
+"Ginglymostoma cirratum",35,"species_level",54,10,10,52,2
+"Sparisoma viride",36,"species_level",52,10,10,0,52
+"Azurina cyanea",37,"species_level",43,10,10,0,43
+"Sparisoma chrysopterum",38,"species_level",43,10,10,6,37
+"Lutjanus jocu",39,"species_level",40,10,10,0,40
+"Chaetodon striatus",40,"species_level",39,10,10,0,39
+"Chaetodon capistratus",41,"species_level",38,10,10,1,37
+"Bodianus rufus",42,"species_level",37,10,10,0,37
+"Urobatis jamaicensis",43,"species_level",37,10,10,4,33
+"Sparisoma aurofrenatum",44,"species_level",36,10,10,2,34
+"Lutjanus analis",45,"species_level",35,10,10,5,30
+"Chromis scotti",46,"species_level",34,10,10,0,34
+"Scarus vetula",47,"species_level",34,10,10,0,34
+"Scarus guacamaia",48,"species_level",33,10,10,0,33
+"Scarus taeniopterus",49,"species_level",33,10,10,1,32
+"Cephalopholis cruentata",50,"species_level",31,10,10,0,31
+"Chaetodon sedentarius",51,"species_level",31,10,10,0,31
+"Rhomboplites aurorubens",52,"species_level",30,10,10,0,30

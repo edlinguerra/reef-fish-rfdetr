@@ -1,0 +1,2917 @@
+gt,pred,n,gt_name,pred_name
+0,0,0,fish,fish
+0,1,0,fish,Abudefduf saxatilis
+0,10,0,fish,Caranx ruber
+0,11,0,fish,Cephalopholis cruentata
+0,12,0,fish,Chaetodon capistratus
+0,13,0,fish,Chaetodon ocellatus
+0,14,0,fish,Chaetodon sedentarius
+0,15,0,fish,Chaetodon striatus
+0,16,0,fish,Chromis scotti
+0,17,0,fish,Diodon spp
+0,18,0,fish,Epinephelus spp
+0,19,0,fish,Ginglymostoma cirratum
+0,2,0,fish,Acanthurus chirurgus
+0,20,0,fish,Haemulon flavolineatum
+0,21,0,fish,Haemulon juvenil
+0,22,0,fish,Haemulon plumierii
+0,23,0,fish,Haemulon plumierii juvenil
+0,24,0,fish,Haemulon sciurus
+0,25,0,fish,Halichoeres spp
+0,26,0,fish,Holacanthus spp
+0,27,0,fish,Kyphosus spp
+0,28,0,fish,Lachnolaimus maximus
+0,29,0,fish,Lutjanus analis
+0,3,0,fish,Acanthurus coeruleus
+0,30,0,fish,Lutjanus griseus
+0,31,0,fish,Lutjanus jocu
+0,32,0,fish,Mycteroperca spp
+0,33,0,fish,Nicholsina usta
+0,34,0,fish,Ocyurus chrysurus
+0,35,0,fish,Pomacanthus arcuatus
+0,36,0,fish,Pomacanthus paru
+0,37,0,fish,Rhomboplites aurorubens
+0,38,0,fish,Scarus coelestinus
+0,39,0,fish,Scarus coeruleus
+0,4,0,fish,Anisotremus virginicus
+0,40,0,fish,Scarus guacamaia
+0,41,0,fish,Scarus iseri
+0,42,0,fish,Scarus juvenil
+0,43,0,fish,Scarus taeniopterus
+0,44,0,fish,Scarus vetula
+0,45,0,fish,Sparisoma aurofrenatum
+0,46,0,fish,Sparisoma chrysopterum
+0,47,0,fish,Sparisoma rubripinne FI
+0,48,0,fish,Sparisoma viride
+0,49,0,fish,Sparisoma viride FI
+0,5,0,fish,Azurina cyanea
+0,50,0,fish,Sphyraena barracuda
+0,51,0,fish,Urobatis jamaicensis
+0,52,0,fish,unidentifiable
+0,6,0,fish,Bodianus rufus
+0,7,0,fish,Calamus spp
+0,8,0,fish,Caranx bartholomaei
+0,9,0,fish,Caranx latus
+0,background,0,fish,background
+1,0,0,Abudefduf saxatilis,fish
+1,1,85,Abudefduf saxatilis,Abudefduf saxatilis
+1,10,0,Abudefduf saxatilis,Caranx ruber
+1,11,0,Abudefduf saxatilis,Cephalopholis cruentata
+1,12,0,Abudefduf saxatilis,Chaetodon capistratus
+1,13,0,Abudefduf saxatilis,Chaetodon ocellatus
+1,14,0,Abudefduf saxatilis,Chaetodon sedentarius
+1,15,0,Abudefduf saxatilis,Chaetodon striatus
+1,16,0,Abudefduf saxatilis,Chromis scotti
+1,17,0,Abudefduf saxatilis,Diodon spp
+1,18,0,Abudefduf saxatilis,Epinephelus spp
+1,19,0,Abudefduf saxatilis,Ginglymostoma cirratum
+1,2,0,Abudefduf saxatilis,Acanthurus chirurgus
+1,20,0,Abudefduf saxatilis,Haemulon flavolineatum
+1,21,0,Abudefduf saxatilis,Haemulon juvenil
+1,22,0,Abudefduf saxatilis,Haemulon plumierii
+1,23,0,Abudefduf saxatilis,Haemulon plumierii juvenil
+1,24,0,Abudefduf saxatilis,Haemulon sciurus
+1,25,0,Abudefduf saxatilis,Halichoeres spp
+1,26,0,Abudefduf saxatilis,Holacanthus spp
+1,27,0,Abudefduf saxatilis,Kyphosus spp
+1,28,0,Abudefduf saxatilis,Lachnolaimus maximus
+1,29,0,Abudefduf saxatilis,Lutjanus analis
+1,3,0,Abudefduf saxatilis,Acanthurus coeruleus
+1,30,0,Abudefduf saxatilis,Lutjanus griseus
+1,31,0,Abudefduf saxatilis,Lutjanus jocu
+1,32,0,Abudefduf saxatilis,Mycteroperca spp
+1,33,0,Abudefduf saxatilis,Nicholsina usta
+1,34,0,Abudefduf saxatilis,Ocyurus chrysurus
+1,35,0,Abudefduf saxatilis,Pomacanthus arcuatus
+1,36,0,Abudefduf saxatilis,Pomacanthus paru
+1,37,0,Abudefduf saxatilis,Rhomboplites aurorubens
+1,38,0,Abudefduf saxatilis,Scarus coelestinus
+1,39,0,Abudefduf saxatilis,Scarus coeruleus
+1,4,0,Abudefduf saxatilis,Anisotremus virginicus
+1,40,0,Abudefduf saxatilis,Scarus guacamaia
+1,41,0,Abudefduf saxatilis,Scarus iseri
+1,42,0,Abudefduf saxatilis,Scarus juvenil
+1,43,0,Abudefduf saxatilis,Scarus taeniopterus
+1,44,0,Abudefduf saxatilis,Scarus vetula
+1,45,0,Abudefduf saxatilis,Sparisoma aurofrenatum
+1,46,0,Abudefduf saxatilis,Sparisoma chrysopterum
+1,47,0,Abudefduf saxatilis,Sparisoma rubripinne FI
+1,48,0,Abudefduf saxatilis,Sparisoma viride
+1,49,0,Abudefduf saxatilis,Sparisoma viride FI
+1,5,0,Abudefduf saxatilis,Azurina cyanea
+1,50,0,Abudefduf saxatilis,Sphyraena barracuda
+1,51,0,Abudefduf saxatilis,Urobatis jamaicensis
+1,52,0,Abudefduf saxatilis,unidentifiable
+1,6,0,Abudefduf saxatilis,Bodianus rufus
+1,7,0,Abudefduf saxatilis,Calamus spp
+1,8,0,Abudefduf saxatilis,Caranx bartholomaei
+1,9,0,Abudefduf saxatilis,Caranx latus
+1,background,20,Abudefduf saxatilis,background
+10,0,0,Caranx ruber,fish
+10,1,0,Caranx ruber,Abudefduf saxatilis
+10,10,22,Caranx ruber,Caranx ruber
+10,11,0,Caranx ruber,Cephalopholis cruentata
+10,12,0,Caranx ruber,Chaetodon capistratus
+10,13,0,Caranx ruber,Chaetodon ocellatus
+10,14,0,Caranx ruber,Chaetodon sedentarius
+10,15,0,Caranx ruber,Chaetodon striatus
+10,16,0,Caranx ruber,Chromis scotti
+10,17,0,Caranx ruber,Diodon spp
+10,18,0,Caranx ruber,Epinephelus spp
+10,19,0,Caranx ruber,Ginglymostoma cirratum
+10,2,0,Caranx ruber,Acanthurus chirurgus
+10,20,0,Caranx ruber,Haemulon flavolineatum
+10,21,0,Caranx ruber,Haemulon juvenil
+10,22,0,Caranx ruber,Haemulon plumierii
+10,23,0,Caranx ruber,Haemulon plumierii juvenil
+10,24,0,Caranx ruber,Haemulon sciurus
+10,25,0,Caranx ruber,Halichoeres spp
+10,26,0,Caranx ruber,Holacanthus spp
+10,27,0,Caranx ruber,Kyphosus spp
+10,28,0,Caranx ruber,Lachnolaimus maximus
+10,29,0,Caranx ruber,Lutjanus analis
+10,3,0,Caranx ruber,Acanthurus coeruleus
+10,30,0,Caranx ruber,Lutjanus griseus
+10,31,0,Caranx ruber,Lutjanus jocu
+10,32,0,Caranx ruber,Mycteroperca spp
+10,33,0,Caranx ruber,Nicholsina usta
+10,34,0,Caranx ruber,Ocyurus chrysurus
+10,35,0,Caranx ruber,Pomacanthus arcuatus
+10,36,0,Caranx ruber,Pomacanthus paru
+10,37,0,Caranx ruber,Rhomboplites aurorubens
+10,38,0,Caranx ruber,Scarus coelestinus
+10,39,0,Caranx ruber,Scarus coeruleus
+10,4,0,Caranx ruber,Anisotremus virginicus
+10,40,0,Caranx ruber,Scarus guacamaia
+10,41,0,Caranx ruber,Scarus iseri
+10,42,0,Caranx ruber,Scarus juvenil
+10,43,0,Caranx ruber,Scarus taeniopterus
+10,44,0,Caranx ruber,Scarus vetula
+10,45,0,Caranx ruber,Sparisoma aurofrenatum
+10,46,0,Caranx ruber,Sparisoma chrysopterum
+10,47,0,Caranx ruber,Sparisoma rubripinne FI
+10,48,0,Caranx ruber,Sparisoma viride
+10,49,0,Caranx ruber,Sparisoma viride FI
+10,5,0,Caranx ruber,Azurina cyanea
+10,50,0,Caranx ruber,Sphyraena barracuda
+10,51,0,Caranx ruber,Urobatis jamaicensis
+10,52,3,Caranx ruber,unidentifiable
+10,6,0,Caranx ruber,Bodianus rufus
+10,7,0,Caranx ruber,Calamus spp
+10,8,0,Caranx ruber,Caranx bartholomaei
+10,9,0,Caranx ruber,Caranx latus
+10,background,4,Caranx ruber,background
+11,0,0,Cephalopholis cruentata,fish
+11,1,0,Cephalopholis cruentata,Abudefduf saxatilis
+11,10,0,Cephalopholis cruentata,Caranx ruber
+11,11,12,Cephalopholis cruentata,Cephalopholis cruentata
+11,12,0,Cephalopholis cruentata,Chaetodon capistratus
+11,13,0,Cephalopholis cruentata,Chaetodon ocellatus
+11,14,0,Cephalopholis cruentata,Chaetodon sedentarius
+11,15,0,Cephalopholis cruentata,Chaetodon striatus
+11,16,0,Cephalopholis cruentata,Chromis scotti
+11,17,0,Cephalopholis cruentata,Diodon spp
+11,18,3,Cephalopholis cruentata,Epinephelus spp
+11,19,0,Cephalopholis cruentata,Ginglymostoma cirratum
+11,2,0,Cephalopholis cruentata,Acanthurus chirurgus
+11,20,0,Cephalopholis cruentata,Haemulon flavolineatum
+11,21,0,Cephalopholis cruentata,Haemulon juvenil
+11,22,0,Cephalopholis cruentata,Haemulon plumierii
+11,23,0,Cephalopholis cruentata,Haemulon plumierii juvenil
+11,24,0,Cephalopholis cruentata,Haemulon sciurus
+11,25,0,Cephalopholis cruentata,Halichoeres spp
+11,26,0,Cephalopholis cruentata,Holacanthus spp
+11,27,0,Cephalopholis cruentata,Kyphosus spp
+11,28,0,Cephalopholis cruentata,Lachnolaimus maximus
+11,29,0,Cephalopholis cruentata,Lutjanus analis
+11,3,0,Cephalopholis cruentata,Acanthurus coeruleus
+11,30,0,Cephalopholis cruentata,Lutjanus griseus
+11,31,0,Cephalopholis cruentata,Lutjanus jocu
+11,32,0,Cephalopholis cruentata,Mycteroperca spp
+11,33,0,Cephalopholis cruentata,Nicholsina usta
+11,34,0,Cephalopholis cruentata,Ocyurus chrysurus
+11,35,0,Cephalopholis cruentata,Pomacanthus arcuatus
+11,36,0,Cephalopholis cruentata,Pomacanthus paru
+11,37,0,Cephalopholis cruentata,Rhomboplites aurorubens
+11,38,0,Cephalopholis cruentata,Scarus coelestinus
+11,39,0,Cephalopholis cruentata,Scarus coeruleus
+11,4,0,Cephalopholis cruentata,Anisotremus virginicus
+11,40,0,Cephalopholis cruentata,Scarus guacamaia
+11,41,0,Cephalopholis cruentata,Scarus iseri
+11,42,0,Cephalopholis cruentata,Scarus juvenil
+11,43,0,Cephalopholis cruentata,Scarus taeniopterus
+11,44,0,Cephalopholis cruentata,Scarus vetula
+11,45,0,Cephalopholis cruentata,Sparisoma aurofrenatum
+11,46,0,Cephalopholis cruentata,Sparisoma chrysopterum
+11,47,0,Cephalopholis cruentata,Sparisoma rubripinne FI
+11,48,0,Cephalopholis cruentata,Sparisoma viride
+11,49,0,Cephalopholis cruentata,Sparisoma viride FI
+11,5,0,Cephalopholis cruentata,Azurina cyanea
+11,50,0,Cephalopholis cruentata,Sphyraena barracuda
+11,51,0,Cephalopholis cruentata,Urobatis jamaicensis
+11,52,0,Cephalopholis cruentata,unidentifiable
+11,6,0,Cephalopholis cruentata,Bodianus rufus
+11,7,0,Cephalopholis cruentata,Calamus spp
+11,8,0,Cephalopholis cruentata,Caranx bartholomaei
+11,9,0,Cephalopholis cruentata,Caranx latus
+11,background,10,Cephalopholis cruentata,background
+12,0,0,Chaetodon capistratus,fish
+12,1,0,Chaetodon capistratus,Abudefduf saxatilis
+12,10,0,Chaetodon capistratus,Caranx ruber
+12,11,0,Chaetodon capistratus,Cephalopholis cruentata
+12,12,14,Chaetodon capistratus,Chaetodon capistratus
+12,13,0,Chaetodon capistratus,Chaetodon ocellatus
+12,14,0,Chaetodon capistratus,Chaetodon sedentarius
+12,15,0,Chaetodon capistratus,Chaetodon striatus
+12,16,0,Chaetodon capistratus,Chromis scotti
+12,17,0,Chaetodon capistratus,Diodon spp
+12,18,0,Chaetodon capistratus,Epinephelus spp
+12,19,0,Chaetodon capistratus,Ginglymostoma cirratum
+12,2,0,Chaetodon capistratus,Acanthurus chirurgus
+12,20,0,Chaetodon capistratus,Haemulon flavolineatum
+12,21,0,Chaetodon capistratus,Haemulon juvenil
+12,22,0,Chaetodon capistratus,Haemulon plumierii
+12,23,0,Chaetodon capistratus,Haemulon plumierii juvenil
+12,24,0,Chaetodon capistratus,Haemulon sciurus
+12,25,0,Chaetodon capistratus,Halichoeres spp
+12,26,0,Chaetodon capistratus,Holacanthus spp
+12,27,0,Chaetodon capistratus,Kyphosus spp
+12,28,0,Chaetodon capistratus,Lachnolaimus maximus
+12,29,0,Chaetodon capistratus,Lutjanus analis
+12,3,0,Chaetodon capistratus,Acanthurus coeruleus
+12,30,0,Chaetodon capistratus,Lutjanus griseus
+12,31,0,Chaetodon capistratus,Lutjanus jocu
+12,32,0,Chaetodon capistratus,Mycteroperca spp
+12,33,0,Chaetodon capistratus,Nicholsina usta
+12,34,0,Chaetodon capistratus,Ocyurus chrysurus
+12,35,0,Chaetodon capistratus,Pomacanthus arcuatus
+12,36,0,Chaetodon capistratus,Pomacanthus paru
+12,37,0,Chaetodon capistratus,Rhomboplites aurorubens
+12,38,0,Chaetodon capistratus,Scarus coelestinus
+12,39,0,Chaetodon capistratus,Scarus coeruleus
+12,4,0,Chaetodon capistratus,Anisotremus virginicus
+12,40,0,Chaetodon capistratus,Scarus guacamaia
+12,41,0,Chaetodon capistratus,Scarus iseri
+12,42,0,Chaetodon capistratus,Scarus juvenil
+12,43,0,Chaetodon capistratus,Scarus taeniopterus
+12,44,0,Chaetodon capistratus,Scarus vetula
+12,45,0,Chaetodon capistratus,Sparisoma aurofrenatum
+12,46,0,Chaetodon capistratus,Sparisoma chrysopterum
+12,47,0,Chaetodon capistratus,Sparisoma rubripinne FI
+12,48,0,Chaetodon capistratus,Sparisoma viride
+12,49,0,Chaetodon capistratus,Sparisoma viride FI
+12,5,0,Chaetodon capistratus,Azurina cyanea
+12,50,0,Chaetodon capistratus,Sphyraena barracuda
+12,51,0,Chaetodon capistratus,Urobatis jamaicensis
+12,52,0,Chaetodon capistratus,unidentifiable
+12,6,0,Chaetodon capistratus,Bodianus rufus
+12,7,0,Chaetodon capistratus,Calamus spp
+12,8,0,Chaetodon capistratus,Caranx bartholomaei
+12,9,0,Chaetodon capistratus,Caranx latus
+12,background,1,Chaetodon capistratus,background
+13,0,0,Chaetodon ocellatus,fish
+13,1,0,Chaetodon ocellatus,Abudefduf saxatilis
+13,10,0,Chaetodon ocellatus,Caranx ruber
+13,11,0,Chaetodon ocellatus,Cephalopholis cruentata
+13,12,0,Chaetodon ocellatus,Chaetodon capistratus
+13,13,14,Chaetodon ocellatus,Chaetodon ocellatus
+13,14,0,Chaetodon ocellatus,Chaetodon sedentarius
+13,15,0,Chaetodon ocellatus,Chaetodon striatus
+13,16,0,Chaetodon ocellatus,Chromis scotti
+13,17,0,Chaetodon ocellatus,Diodon spp
+13,18,0,Chaetodon ocellatus,Epinephelus spp
+13,19,0,Chaetodon ocellatus,Ginglymostoma cirratum
+13,2,0,Chaetodon ocellatus,Acanthurus chirurgus
+13,20,0,Chaetodon ocellatus,Haemulon flavolineatum
+13,21,0,Chaetodon ocellatus,Haemulon juvenil
+13,22,0,Chaetodon ocellatus,Haemulon plumierii
+13,23,0,Chaetodon ocellatus,Haemulon plumierii juvenil
+13,24,0,Chaetodon ocellatus,Haemulon sciurus
+13,25,0,Chaetodon ocellatus,Halichoeres spp
+13,26,3,Chaetodon ocellatus,Holacanthus spp
+13,27,0,Chaetodon ocellatus,Kyphosus spp
+13,28,0,Chaetodon ocellatus,Lachnolaimus maximus
+13,29,0,Chaetodon ocellatus,Lutjanus analis
+13,3,0,Chaetodon ocellatus,Acanthurus coeruleus
+13,30,0,Chaetodon ocellatus,Lutjanus griseus
+13,31,0,Chaetodon ocellatus,Lutjanus jocu
+13,32,0,Chaetodon ocellatus,Mycteroperca spp
+13,33,0,Chaetodon ocellatus,Nicholsina usta
+13,34,1,Chaetodon ocellatus,Ocyurus chrysurus
+13,35,0,Chaetodon ocellatus,Pomacanthus arcuatus
+13,36,0,Chaetodon ocellatus,Pomacanthus paru
+13,37,0,Chaetodon ocellatus,Rhomboplites aurorubens
+13,38,0,Chaetodon ocellatus,Scarus coelestinus
+13,39,0,Chaetodon ocellatus,Scarus coeruleus
+13,4,2,Chaetodon ocellatus,Anisotremus virginicus
+13,40,0,Chaetodon ocellatus,Scarus guacamaia
+13,41,0,Chaetodon ocellatus,Scarus iseri
+13,42,0,Chaetodon ocellatus,Scarus juvenil
+13,43,0,Chaetodon ocellatus,Scarus taeniopterus
+13,44,0,Chaetodon ocellatus,Scarus vetula
+13,45,0,Chaetodon ocellatus,Sparisoma aurofrenatum
+13,46,0,Chaetodon ocellatus,Sparisoma chrysopterum
+13,47,0,Chaetodon ocellatus,Sparisoma rubripinne FI
+13,48,0,Chaetodon ocellatus,Sparisoma viride
+13,49,0,Chaetodon ocellatus,Sparisoma viride FI
+13,5,0,Chaetodon ocellatus,Azurina cyanea
+13,50,0,Chaetodon ocellatus,Sphyraena barracuda
+13,51,0,Chaetodon ocellatus,Urobatis jamaicensis
+13,52,0,Chaetodon ocellatus,unidentifiable
+13,6,0,Chaetodon ocellatus,Bodianus rufus
+13,7,0,Chaetodon ocellatus,Calamus spp
+13,8,0,Chaetodon ocellatus,Caranx bartholomaei
+13,9,0,Chaetodon ocellatus,Caranx latus
+13,background,6,Chaetodon ocellatus,background
+14,0,0,Chaetodon sedentarius,fish
+14,1,0,Chaetodon sedentarius,Abudefduf saxatilis
+14,10,0,Chaetodon sedentarius,Caranx ruber
+14,11,0,Chaetodon sedentarius,Cephalopholis cruentata
+14,12,0,Chaetodon sedentarius,Chaetodon capistratus
+14,13,1,Chaetodon sedentarius,Chaetodon ocellatus
+14,14,16,Chaetodon sedentarius,Chaetodon sedentarius
+14,15,0,Chaetodon sedentarius,Chaetodon striatus
+14,16,0,Chaetodon sedentarius,Chromis scotti
+14,17,0,Chaetodon sedentarius,Diodon spp
+14,18,0,Chaetodon sedentarius,Epinephelus spp
+14,19,0,Chaetodon sedentarius,Ginglymostoma cirratum
+14,2,0,Chaetodon sedentarius,Acanthurus chirurgus
+14,20,0,Chaetodon sedentarius,Haemulon flavolineatum
+14,21,0,Chaetodon sedentarius,Haemulon juvenil
+14,22,0,Chaetodon sedentarius,Haemulon plumierii
+14,23,0,Chaetodon sedentarius,Haemulon plumierii juvenil
+14,24,0,Chaetodon sedentarius,Haemulon sciurus
+14,25,0,Chaetodon sedentarius,Halichoeres spp
+14,26,0,Chaetodon sedentarius,Holacanthus spp
+14,27,0,Chaetodon sedentarius,Kyphosus spp
+14,28,0,Chaetodon sedentarius,Lachnolaimus maximus
+14,29,0,Chaetodon sedentarius,Lutjanus analis
+14,3,0,Chaetodon sedentarius,Acanthurus coeruleus
+14,30,0,Chaetodon sedentarius,Lutjanus griseus
+14,31,0,Chaetodon sedentarius,Lutjanus jocu
+14,32,0,Chaetodon sedentarius,Mycteroperca spp
+14,33,0,Chaetodon sedentarius,Nicholsina usta
+14,34,0,Chaetodon sedentarius,Ocyurus chrysurus
+14,35,0,Chaetodon sedentarius,Pomacanthus arcuatus
+14,36,0,Chaetodon sedentarius,Pomacanthus paru
+14,37,0,Chaetodon sedentarius,Rhomboplites aurorubens
+14,38,0,Chaetodon sedentarius,Scarus coelestinus
+14,39,0,Chaetodon sedentarius,Scarus coeruleus
+14,4,0,Chaetodon sedentarius,Anisotremus virginicus
+14,40,0,Chaetodon sedentarius,Scarus guacamaia
+14,41,0,Chaetodon sedentarius,Scarus iseri
+14,42,0,Chaetodon sedentarius,Scarus juvenil
+14,43,0,Chaetodon sedentarius,Scarus taeniopterus
+14,44,0,Chaetodon sedentarius,Scarus vetula
+14,45,0,Chaetodon sedentarius,Sparisoma aurofrenatum
+14,46,0,Chaetodon sedentarius,Sparisoma chrysopterum
+14,47,0,Chaetodon sedentarius,Sparisoma rubripinne FI
+14,48,0,Chaetodon sedentarius,Sparisoma viride
+14,49,0,Chaetodon sedentarius,Sparisoma viride FI
+14,5,0,Chaetodon sedentarius,Azurina cyanea
+14,50,0,Chaetodon sedentarius,Sphyraena barracuda
+14,51,0,Chaetodon sedentarius,Urobatis jamaicensis
+14,52,0,Chaetodon sedentarius,unidentifiable
+14,6,0,Chaetodon sedentarius,Bodianus rufus
+14,7,0,Chaetodon sedentarius,Calamus spp
+14,8,0,Chaetodon sedentarius,Caranx bartholomaei
+14,9,0,Chaetodon sedentarius,Caranx latus
+14,background,6,Chaetodon sedentarius,background
+15,0,0,Chaetodon striatus,fish
+15,1,0,Chaetodon striatus,Abudefduf saxatilis
+15,10,0,Chaetodon striatus,Caranx ruber
+15,11,0,Chaetodon striatus,Cephalopholis cruentata
+15,12,0,Chaetodon striatus,Chaetodon capistratus
+15,13,0,Chaetodon striatus,Chaetodon ocellatus
+15,14,0,Chaetodon striatus,Chaetodon sedentarius
+15,15,21,Chaetodon striatus,Chaetodon striatus
+15,16,0,Chaetodon striatus,Chromis scotti
+15,17,0,Chaetodon striatus,Diodon spp
+15,18,0,Chaetodon striatus,Epinephelus spp
+15,19,0,Chaetodon striatus,Ginglymostoma cirratum
+15,2,0,Chaetodon striatus,Acanthurus chirurgus
+15,20,0,Chaetodon striatus,Haemulon flavolineatum
+15,21,0,Chaetodon striatus,Haemulon juvenil
+15,22,0,Chaetodon striatus,Haemulon plumierii
+15,23,0,Chaetodon striatus,Haemulon plumierii juvenil
+15,24,0,Chaetodon striatus,Haemulon sciurus
+15,25,0,Chaetodon striatus,Halichoeres spp
+15,26,0,Chaetodon striatus,Holacanthus spp
+15,27,0,Chaetodon striatus,Kyphosus spp
+15,28,0,Chaetodon striatus,Lachnolaimus maximus
+15,29,0,Chaetodon striatus,Lutjanus analis
+15,3,0,Chaetodon striatus,Acanthurus coeruleus
+15,30,0,Chaetodon striatus,Lutjanus griseus
+15,31,0,Chaetodon striatus,Lutjanus jocu
+15,32,0,Chaetodon striatus,Mycteroperca spp
+15,33,0,Chaetodon striatus,Nicholsina usta
+15,34,0,Chaetodon striatus,Ocyurus chrysurus
+15,35,0,Chaetodon striatus,Pomacanthus arcuatus
+15,36,0,Chaetodon striatus,Pomacanthus paru
+15,37,0,Chaetodon striatus,Rhomboplites aurorubens
+15,38,0,Chaetodon striatus,Scarus coelestinus
+15,39,0,Chaetodon striatus,Scarus coeruleus
+15,4,0,Chaetodon striatus,Anisotremus virginicus
+15,40,0,Chaetodon striatus,Scarus guacamaia
+15,41,0,Chaetodon striatus,Scarus iseri
+15,42,0,Chaetodon striatus,Scarus juvenil
+15,43,0,Chaetodon striatus,Scarus taeniopterus
+15,44,0,Chaetodon striatus,Scarus vetula
+15,45,0,Chaetodon striatus,Sparisoma aurofrenatum
+15,46,0,Chaetodon striatus,Sparisoma chrysopterum
+15,47,0,Chaetodon striatus,Sparisoma rubripinne FI
+15,48,0,Chaetodon striatus,Sparisoma viride
+15,49,0,Chaetodon striatus,Sparisoma viride FI
+15,5,0,Chaetodon striatus,Azurina cyanea
+15,50,0,Chaetodon striatus,Sphyraena barracuda
+15,51,0,Chaetodon striatus,Urobatis jamaicensis
+15,52,0,Chaetodon striatus,unidentifiable
+15,6,0,Chaetodon striatus,Bodianus rufus
+15,7,0,Chaetodon striatus,Calamus spp
+15,8,0,Chaetodon striatus,Caranx bartholomaei
+15,9,0,Chaetodon striatus,Caranx latus
+15,background,4,Chaetodon striatus,background
+16,0,0,Chromis scotti,fish
+16,1,0,Chromis scotti,Abudefduf saxatilis
+16,10,0,Chromis scotti,Caranx ruber
+16,11,0,Chromis scotti,Cephalopholis cruentata
+16,12,0,Chromis scotti,Chaetodon capistratus
+16,13,0,Chromis scotti,Chaetodon ocellatus
+16,14,0,Chromis scotti,Chaetodon sedentarius
+16,15,0,Chromis scotti,Chaetodon striatus
+16,16,31,Chromis scotti,Chromis scotti
+16,17,0,Chromis scotti,Diodon spp
+16,18,0,Chromis scotti,Epinephelus spp
+16,19,0,Chromis scotti,Ginglymostoma cirratum
+16,2,0,Chromis scotti,Acanthurus chirurgus
+16,20,0,Chromis scotti,Haemulon flavolineatum
+16,21,0,Chromis scotti,Haemulon juvenil
+16,22,0,Chromis scotti,Haemulon plumierii
+16,23,0,Chromis scotti,Haemulon plumierii juvenil
+16,24,0,Chromis scotti,Haemulon sciurus
+16,25,0,Chromis scotti,Halichoeres spp
+16,26,0,Chromis scotti,Holacanthus spp
+16,27,0,Chromis scotti,Kyphosus spp
+16,28,0,Chromis scotti,Lachnolaimus maximus
+16,29,0,Chromis scotti,Lutjanus analis
+16,3,0,Chromis scotti,Acanthurus coeruleus
+16,30,0,Chromis scotti,Lutjanus griseus
+16,31,0,Chromis scotti,Lutjanus jocu
+16,32,0,Chromis scotti,Mycteroperca spp
+16,33,0,Chromis scotti,Nicholsina usta
+16,34,0,Chromis scotti,Ocyurus chrysurus
+16,35,0,Chromis scotti,Pomacanthus arcuatus
+16,36,0,Chromis scotti,Pomacanthus paru
+16,37,0,Chromis scotti,Rhomboplites aurorubens
+16,38,0,Chromis scotti,Scarus coelestinus
+16,39,0,Chromis scotti,Scarus coeruleus
+16,4,0,Chromis scotti,Anisotremus virginicus
+16,40,0,Chromis scotti,Scarus guacamaia
+16,41,0,Chromis scotti,Scarus iseri
+16,42,0,Chromis scotti,Scarus juvenil
+16,43,0,Chromis scotti,Scarus taeniopterus
+16,44,0,Chromis scotti,Scarus vetula
+16,45,0,Chromis scotti,Sparisoma aurofrenatum
+16,46,0,Chromis scotti,Sparisoma chrysopterum
+16,47,0,Chromis scotti,Sparisoma rubripinne FI
+16,48,0,Chromis scotti,Sparisoma viride
+16,49,0,Chromis scotti,Sparisoma viride FI
+16,5,0,Chromis scotti,Azurina cyanea
+16,50,0,Chromis scotti,Sphyraena barracuda
+16,51,0,Chromis scotti,Urobatis jamaicensis
+16,52,0,Chromis scotti,unidentifiable
+16,6,0,Chromis scotti,Bodianus rufus
+16,7,0,Chromis scotti,Calamus spp
+16,8,0,Chromis scotti,Caranx bartholomaei
+16,9,0,Chromis scotti,Caranx latus
+16,background,4,Chromis scotti,background
+17,0,0,Diodon spp,fish
+17,1,0,Diodon spp,Abudefduf saxatilis
+17,10,0,Diodon spp,Caranx ruber
+17,11,0,Diodon spp,Cephalopholis cruentata
+17,12,0,Diodon spp,Chaetodon capistratus
+17,13,0,Diodon spp,Chaetodon ocellatus
+17,14,0,Diodon spp,Chaetodon sedentarius
+17,15,0,Diodon spp,Chaetodon striatus
+17,16,0,Diodon spp,Chromis scotti
+17,17,26,Diodon spp,Diodon spp
+17,18,0,Diodon spp,Epinephelus spp
+17,19,0,Diodon spp,Ginglymostoma cirratum
+17,2,0,Diodon spp,Acanthurus chirurgus
+17,20,0,Diodon spp,Haemulon flavolineatum
+17,21,0,Diodon spp,Haemulon juvenil
+17,22,0,Diodon spp,Haemulon plumierii
+17,23,0,Diodon spp,Haemulon plumierii juvenil
+17,24,0,Diodon spp,Haemulon sciurus
+17,25,0,Diodon spp,Halichoeres spp
+17,26,0,Diodon spp,Holacanthus spp
+17,27,0,Diodon spp,Kyphosus spp
+17,28,0,Diodon spp,Lachnolaimus maximus
+17,29,0,Diodon spp,Lutjanus analis
+17,3,0,Diodon spp,Acanthurus coeruleus
+17,30,0,Diodon spp,Lutjanus griseus
+17,31,0,Diodon spp,Lutjanus jocu
+17,32,0,Diodon spp,Mycteroperca spp
+17,33,0,Diodon spp,Nicholsina usta
+17,34,0,Diodon spp,Ocyurus chrysurus
+17,35,0,Diodon spp,Pomacanthus arcuatus
+17,36,0,Diodon spp,Pomacanthus paru
+17,37,0,Diodon spp,Rhomboplites aurorubens
+17,38,0,Diodon spp,Scarus coelestinus
+17,39,0,Diodon spp,Scarus coeruleus
+17,4,0,Diodon spp,Anisotremus virginicus
+17,40,0,Diodon spp,Scarus guacamaia
+17,41,0,Diodon spp,Scarus iseri
+17,42,0,Diodon spp,Scarus juvenil
+17,43,0,Diodon spp,Scarus taeniopterus
+17,44,0,Diodon spp,Scarus vetula
+17,45,0,Diodon spp,Sparisoma aurofrenatum
+17,46,0,Diodon spp,Sparisoma chrysopterum
+17,47,0,Diodon spp,Sparisoma rubripinne FI
+17,48,0,Diodon spp,Sparisoma viride
+17,49,0,Diodon spp,Sparisoma viride FI
+17,5,0,Diodon spp,Azurina cyanea
+17,50,0,Diodon spp,Sphyraena barracuda
+17,51,0,Diodon spp,Urobatis jamaicensis
+17,52,0,Diodon spp,unidentifiable
+17,6,0,Diodon spp,Bodianus rufus
+17,7,0,Diodon spp,Calamus spp
+17,8,0,Diodon spp,Caranx bartholomaei
+17,9,0,Diodon spp,Caranx latus
+17,background,8,Diodon spp,background
+18,0,0,Epinephelus spp,fish
+18,1,0,Epinephelus spp,Abudefduf saxatilis
+18,10,0,Epinephelus spp,Caranx ruber
+18,11,0,Epinephelus spp,Cephalopholis cruentata
+18,12,0,Epinephelus spp,Chaetodon capistratus
+18,13,0,Epinephelus spp,Chaetodon ocellatus
+18,14,0,Epinephelus spp,Chaetodon sedentarius
+18,15,0,Epinephelus spp,Chaetodon striatus
+18,16,0,Epinephelus spp,Chromis scotti
+18,17,0,Epinephelus spp,Diodon spp
+18,18,19,Epinephelus spp,Epinephelus spp
+18,19,0,Epinephelus spp,Ginglymostoma cirratum
+18,2,0,Epinephelus spp,Acanthurus chirurgus
+18,20,0,Epinephelus spp,Haemulon flavolineatum
+18,21,0,Epinephelus spp,Haemulon juvenil
+18,22,0,Epinephelus spp,Haemulon plumierii
+18,23,0,Epinephelus spp,Haemulon plumierii juvenil
+18,24,0,Epinephelus spp,Haemulon sciurus
+18,25,0,Epinephelus spp,Halichoeres spp
+18,26,0,Epinephelus spp,Holacanthus spp
+18,27,0,Epinephelus spp,Kyphosus spp
+18,28,0,Epinephelus spp,Lachnolaimus maximus
+18,29,0,Epinephelus spp,Lutjanus analis
+18,3,0,Epinephelus spp,Acanthurus coeruleus
+18,30,0,Epinephelus spp,Lutjanus griseus
+18,31,0,Epinephelus spp,Lutjanus jocu
+18,32,3,Epinephelus spp,Mycteroperca spp
+18,33,0,Epinephelus spp,Nicholsina usta
+18,34,0,Epinephelus spp,Ocyurus chrysurus
+18,35,0,Epinephelus spp,Pomacanthus arcuatus
+18,36,0,Epinephelus spp,Pomacanthus paru
+18,37,0,Epinephelus spp,Rhomboplites aurorubens
+18,38,0,Epinephelus spp,Scarus coelestinus
+18,39,0,Epinephelus spp,Scarus coeruleus
+18,4,0,Epinephelus spp,Anisotremus virginicus
+18,40,0,Epinephelus spp,Scarus guacamaia
+18,41,0,Epinephelus spp,Scarus iseri
+18,42,0,Epinephelus spp,Scarus juvenil
+18,43,0,Epinephelus spp,Scarus taeniopterus
+18,44,0,Epinephelus spp,Scarus vetula
+18,45,0,Epinephelus spp,Sparisoma aurofrenatum
+18,46,0,Epinephelus spp,Sparisoma chrysopterum
+18,47,0,Epinephelus spp,Sparisoma rubripinne FI
+18,48,0,Epinephelus spp,Sparisoma viride
+18,49,0,Epinephelus spp,Sparisoma viride FI
+18,5,0,Epinephelus spp,Azurina cyanea
+18,50,0,Epinephelus spp,Sphyraena barracuda
+18,51,0,Epinephelus spp,Urobatis jamaicensis
+18,52,0,Epinephelus spp,unidentifiable
+18,6,0,Epinephelus spp,Bodianus rufus
+18,7,1,Epinephelus spp,Calamus spp
+18,8,0,Epinephelus spp,Caranx bartholomaei
+18,9,0,Epinephelus spp,Caranx latus
+18,background,6,Epinephelus spp,background
+19,0,0,Ginglymostoma cirratum,fish
+19,1,0,Ginglymostoma cirratum,Abudefduf saxatilis
+19,10,0,Ginglymostoma cirratum,Caranx ruber
+19,11,0,Ginglymostoma cirratum,Cephalopholis cruentata
+19,12,0,Ginglymostoma cirratum,Chaetodon capistratus
+19,13,0,Ginglymostoma cirratum,Chaetodon ocellatus
+19,14,0,Ginglymostoma cirratum,Chaetodon sedentarius
+19,15,0,Ginglymostoma cirratum,Chaetodon striatus
+19,16,0,Ginglymostoma cirratum,Chromis scotti
+19,17,0,Ginglymostoma cirratum,Diodon spp
+19,18,0,Ginglymostoma cirratum,Epinephelus spp
+19,19,16,Ginglymostoma cirratum,Ginglymostoma cirratum
+19,2,0,Ginglymostoma cirratum,Acanthurus chirurgus
+19,20,0,Ginglymostoma cirratum,Haemulon flavolineatum
+19,21,0,Ginglymostoma cirratum,Haemulon juvenil
+19,22,0,Ginglymostoma cirratum,Haemulon plumierii
+19,23,0,Ginglymostoma cirratum,Haemulon plumierii juvenil
+19,24,0,Ginglymostoma cirratum,Haemulon sciurus
+19,25,0,Ginglymostoma cirratum,Halichoeres spp
+19,26,0,Ginglymostoma cirratum,Holacanthus spp
+19,27,0,Ginglymostoma cirratum,Kyphosus spp
+19,28,0,Ginglymostoma cirratum,Lachnolaimus maximus
+19,29,0,Ginglymostoma cirratum,Lutjanus analis
+19,3,0,Ginglymostoma cirratum,Acanthurus coeruleus
+19,30,0,Ginglymostoma cirratum,Lutjanus griseus
+19,31,0,Ginglymostoma cirratum,Lutjanus jocu
+19,32,0,Ginglymostoma cirratum,Mycteroperca spp
+19,33,0,Ginglymostoma cirratum,Nicholsina usta
+19,34,0,Ginglymostoma cirratum,Ocyurus chrysurus
+19,35,0,Ginglymostoma cirratum,Pomacanthus arcuatus
+19,36,0,Ginglymostoma cirratum,Pomacanthus paru
+19,37,0,Ginglymostoma cirratum,Rhomboplites aurorubens
+19,38,0,Ginglymostoma cirratum,Scarus coelestinus
+19,39,0,Ginglymostoma cirratum,Scarus coeruleus
+19,4,0,Ginglymostoma cirratum,Anisotremus virginicus
+19,40,0,Ginglymostoma cirratum,Scarus guacamaia
+19,41,0,Ginglymostoma cirratum,Scarus iseri
+19,42,0,Ginglymostoma cirratum,Scarus juvenil
+19,43,0,Ginglymostoma cirratum,Scarus taeniopterus
+19,44,0,Ginglymostoma cirratum,Scarus vetula
+19,45,0,Ginglymostoma cirratum,Sparisoma aurofrenatum
+19,46,0,Ginglymostoma cirratum,Sparisoma chrysopterum
+19,47,0,Ginglymostoma cirratum,Sparisoma rubripinne FI
+19,48,0,Ginglymostoma cirratum,Sparisoma viride
+19,49,0,Ginglymostoma cirratum,Sparisoma viride FI
+19,5,0,Ginglymostoma cirratum,Azurina cyanea
+19,50,0,Ginglymostoma cirratum,Sphyraena barracuda
+19,51,0,Ginglymostoma cirratum,Urobatis jamaicensis
+19,52,1,Ginglymostoma cirratum,unidentifiable
+19,6,0,Ginglymostoma cirratum,Bodianus rufus
+19,7,0,Ginglymostoma cirratum,Calamus spp
+19,8,0,Ginglymostoma cirratum,Caranx bartholomaei
+19,9,0,Ginglymostoma cirratum,Caranx latus
+19,background,5,Ginglymostoma cirratum,background
+2,0,0,Acanthurus chirurgus,fish
+2,1,0,Acanthurus chirurgus,Abudefduf saxatilis
+2,10,0,Acanthurus chirurgus,Caranx ruber
+2,11,0,Acanthurus chirurgus,Cephalopholis cruentata
+2,12,0,Acanthurus chirurgus,Chaetodon capistratus
+2,13,0,Acanthurus chirurgus,Chaetodon ocellatus
+2,14,0,Acanthurus chirurgus,Chaetodon sedentarius
+2,15,0,Acanthurus chirurgus,Chaetodon striatus
+2,16,0,Acanthurus chirurgus,Chromis scotti
+2,17,0,Acanthurus chirurgus,Diodon spp
+2,18,0,Acanthurus chirurgus,Epinephelus spp
+2,19,0,Acanthurus chirurgus,Ginglymostoma cirratum
+2,2,17,Acanthurus chirurgus,Acanthurus chirurgus
+2,20,0,Acanthurus chirurgus,Haemulon flavolineatum
+2,21,0,Acanthurus chirurgus,Haemulon juvenil
+2,22,0,Acanthurus chirurgus,Haemulon plumierii
+2,23,0,Acanthurus chirurgus,Haemulon plumierii juvenil
+2,24,0,Acanthurus chirurgus,Haemulon sciurus
+2,25,0,Acanthurus chirurgus,Halichoeres spp
+2,26,0,Acanthurus chirurgus,Holacanthus spp
+2,27,0,Acanthurus chirurgus,Kyphosus spp
+2,28,0,Acanthurus chirurgus,Lachnolaimus maximus
+2,29,0,Acanthurus chirurgus,Lutjanus analis
+2,3,0,Acanthurus chirurgus,Acanthurus coeruleus
+2,30,0,Acanthurus chirurgus,Lutjanus griseus
+2,31,0,Acanthurus chirurgus,Lutjanus jocu
+2,32,0,Acanthurus chirurgus,Mycteroperca spp
+2,33,0,Acanthurus chirurgus,Nicholsina usta
+2,34,0,Acanthurus chirurgus,Ocyurus chrysurus
+2,35,1,Acanthurus chirurgus,Pomacanthus arcuatus
+2,36,0,Acanthurus chirurgus,Pomacanthus paru
+2,37,0,Acanthurus chirurgus,Rhomboplites aurorubens
+2,38,0,Acanthurus chirurgus,Scarus coelestinus
+2,39,0,Acanthurus chirurgus,Scarus coeruleus
+2,4,0,Acanthurus chirurgus,Anisotremus virginicus
+2,40,0,Acanthurus chirurgus,Scarus guacamaia
+2,41,0,Acanthurus chirurgus,Scarus iseri
+2,42,0,Acanthurus chirurgus,Scarus juvenil
+2,43,0,Acanthurus chirurgus,Scarus taeniopterus
+2,44,0,Acanthurus chirurgus,Scarus vetula
+2,45,0,Acanthurus chirurgus,Sparisoma aurofrenatum
+2,46,0,Acanthurus chirurgus,Sparisoma chrysopterum
+2,47,0,Acanthurus chirurgus,Sparisoma rubripinne FI
+2,48,0,Acanthurus chirurgus,Sparisoma viride
+2,49,0,Acanthurus chirurgus,Sparisoma viride FI
+2,5,0,Acanthurus chirurgus,Azurina cyanea
+2,50,0,Acanthurus chirurgus,Sphyraena barracuda
+2,51,0,Acanthurus chirurgus,Urobatis jamaicensis
+2,52,0,Acanthurus chirurgus,unidentifiable
+2,6,0,Acanthurus chirurgus,Bodianus rufus
+2,7,0,Acanthurus chirurgus,Calamus spp
+2,8,0,Acanthurus chirurgus,Caranx bartholomaei
+2,9,0,Acanthurus chirurgus,Caranx latus
+2,background,13,Acanthurus chirurgus,background
+20,0,0,Haemulon flavolineatum,fish
+20,1,0,Haemulon flavolineatum,Abudefduf saxatilis
+20,10,0,Haemulon flavolineatum,Caranx ruber
+20,11,0,Haemulon flavolineatum,Cephalopholis cruentata
+20,12,0,Haemulon flavolineatum,Chaetodon capistratus
+20,13,0,Haemulon flavolineatum,Chaetodon ocellatus
+20,14,0,Haemulon flavolineatum,Chaetodon sedentarius
+20,15,0,Haemulon flavolineatum,Chaetodon striatus
+20,16,0,Haemulon flavolineatum,Chromis scotti
+20,17,0,Haemulon flavolineatum,Diodon spp
+20,18,0,Haemulon flavolineatum,Epinephelus spp
+20,19,0,Haemulon flavolineatum,Ginglymostoma cirratum
+20,2,0,Haemulon flavolineatum,Acanthurus chirurgus
+20,20,21,Haemulon flavolineatum,Haemulon flavolineatum
+20,21,0,Haemulon flavolineatum,Haemulon juvenil
+20,22,0,Haemulon flavolineatum,Haemulon plumierii
+20,23,0,Haemulon flavolineatum,Haemulon plumierii juvenil
+20,24,1,Haemulon flavolineatum,Haemulon sciurus
+20,25,0,Haemulon flavolineatum,Halichoeres spp
+20,26,0,Haemulon flavolineatum,Holacanthus spp
+20,27,0,Haemulon flavolineatum,Kyphosus spp
+20,28,0,Haemulon flavolineatum,Lachnolaimus maximus
+20,29,0,Haemulon flavolineatum,Lutjanus analis
+20,3,0,Haemulon flavolineatum,Acanthurus coeruleus
+20,30,0,Haemulon flavolineatum,Lutjanus griseus
+20,31,0,Haemulon flavolineatum,Lutjanus jocu
+20,32,0,Haemulon flavolineatum,Mycteroperca spp
+20,33,0,Haemulon flavolineatum,Nicholsina usta
+20,34,0,Haemulon flavolineatum,Ocyurus chrysurus
+20,35,0,Haemulon flavolineatum,Pomacanthus arcuatus
+20,36,0,Haemulon flavolineatum,Pomacanthus paru
+20,37,0,Haemulon flavolineatum,Rhomboplites aurorubens
+20,38,0,Haemulon flavolineatum,Scarus coelestinus
+20,39,0,Haemulon flavolineatum,Scarus coeruleus
+20,4,0,Haemulon flavolineatum,Anisotremus virginicus
+20,40,0,Haemulon flavolineatum,Scarus guacamaia
+20,41,0,Haemulon flavolineatum,Scarus iseri
+20,42,0,Haemulon flavolineatum,Scarus juvenil
+20,43,0,Haemulon flavolineatum,Scarus taeniopterus
+20,44,0,Haemulon flavolineatum,Scarus vetula
+20,45,0,Haemulon flavolineatum,Sparisoma aurofrenatum
+20,46,0,Haemulon flavolineatum,Sparisoma chrysopterum
+20,47,0,Haemulon flavolineatum,Sparisoma rubripinne FI
+20,48,0,Haemulon flavolineatum,Sparisoma viride
+20,49,0,Haemulon flavolineatum,Sparisoma viride FI
+20,5,0,Haemulon flavolineatum,Azurina cyanea
+20,50,0,Haemulon flavolineatum,Sphyraena barracuda
+20,51,0,Haemulon flavolineatum,Urobatis jamaicensis
+20,52,0,Haemulon flavolineatum,unidentifiable
+20,6,0,Haemulon flavolineatum,Bodianus rufus
+20,7,0,Haemulon flavolineatum,Calamus spp
+20,8,0,Haemulon flavolineatum,Caranx bartholomaei
+20,9,0,Haemulon flavolineatum,Caranx latus
+20,background,11,Haemulon flavolineatum,background
+21,0,0,Haemulon juvenil,fish
+21,1,0,Haemulon juvenil,Abudefduf saxatilis
+21,10,0,Haemulon juvenil,Caranx ruber
+21,11,0,Haemulon juvenil,Cephalopholis cruentata
+21,12,0,Haemulon juvenil,Chaetodon capistratus
+21,13,0,Haemulon juvenil,Chaetodon ocellatus
+21,14,0,Haemulon juvenil,Chaetodon sedentarius
+21,15,0,Haemulon juvenil,Chaetodon striatus
+21,16,0,Haemulon juvenil,Chromis scotti
+21,17,0,Haemulon juvenil,Diodon spp
+21,18,0,Haemulon juvenil,Epinephelus spp
+21,19,0,Haemulon juvenil,Ginglymostoma cirratum
+21,2,0,Haemulon juvenil,Acanthurus chirurgus
+21,20,0,Haemulon juvenil,Haemulon flavolineatum
+21,21,106,Haemulon juvenil,Haemulon juvenil
+21,22,0,Haemulon juvenil,Haemulon plumierii
+21,23,0,Haemulon juvenil,Haemulon plumierii juvenil
+21,24,0,Haemulon juvenil,Haemulon sciurus
+21,25,0,Haemulon juvenil,Halichoeres spp
+21,26,0,Haemulon juvenil,Holacanthus spp
+21,27,0,Haemulon juvenil,Kyphosus spp
+21,28,0,Haemulon juvenil,Lachnolaimus maximus
+21,29,0,Haemulon juvenil,Lutjanus analis
+21,3,0,Haemulon juvenil,Acanthurus coeruleus
+21,30,0,Haemulon juvenil,Lutjanus griseus
+21,31,0,Haemulon juvenil,Lutjanus jocu
+21,32,0,Haemulon juvenil,Mycteroperca spp
+21,33,0,Haemulon juvenil,Nicholsina usta
+21,34,0,Haemulon juvenil,Ocyurus chrysurus
+21,35,0,Haemulon juvenil,Pomacanthus arcuatus
+21,36,0,Haemulon juvenil,Pomacanthus paru
+21,37,0,Haemulon juvenil,Rhomboplites aurorubens
+21,38,0,Haemulon juvenil,Scarus coelestinus
+21,39,0,Haemulon juvenil,Scarus coeruleus
+21,4,0,Haemulon juvenil,Anisotremus virginicus
+21,40,0,Haemulon juvenil,Scarus guacamaia
+21,41,0,Haemulon juvenil,Scarus iseri
+21,42,2,Haemulon juvenil,Scarus juvenil
+21,43,0,Haemulon juvenil,Scarus taeniopterus
+21,44,0,Haemulon juvenil,Scarus vetula
+21,45,0,Haemulon juvenil,Sparisoma aurofrenatum
+21,46,0,Haemulon juvenil,Sparisoma chrysopterum
+21,47,0,Haemulon juvenil,Sparisoma rubripinne FI
+21,48,0,Haemulon juvenil,Sparisoma viride
+21,49,0,Haemulon juvenil,Sparisoma viride FI
+21,5,0,Haemulon juvenil,Azurina cyanea
+21,50,0,Haemulon juvenil,Sphyraena barracuda
+21,51,0,Haemulon juvenil,Urobatis jamaicensis
+21,52,0,Haemulon juvenil,unidentifiable
+21,6,0,Haemulon juvenil,Bodianus rufus
+21,7,0,Haemulon juvenil,Calamus spp
+21,8,0,Haemulon juvenil,Caranx bartholomaei
+21,9,0,Haemulon juvenil,Caranx latus
+21,background,22,Haemulon juvenil,background
+22,0,0,Haemulon plumierii,fish
+22,1,0,Haemulon plumierii,Abudefduf saxatilis
+22,10,0,Haemulon plumierii,Caranx ruber
+22,11,0,Haemulon plumierii,Cephalopholis cruentata
+22,12,0,Haemulon plumierii,Chaetodon capistratus
+22,13,0,Haemulon plumierii,Chaetodon ocellatus
+22,14,0,Haemulon plumierii,Chaetodon sedentarius
+22,15,0,Haemulon plumierii,Chaetodon striatus
+22,16,0,Haemulon plumierii,Chromis scotti
+22,17,0,Haemulon plumierii,Diodon spp
+22,18,0,Haemulon plumierii,Epinephelus spp
+22,19,0,Haemulon plumierii,Ginglymostoma cirratum
+22,2,0,Haemulon plumierii,Acanthurus chirurgus
+22,20,0,Haemulon plumierii,Haemulon flavolineatum
+22,21,0,Haemulon plumierii,Haemulon juvenil
+22,22,53,Haemulon plumierii,Haemulon plumierii
+22,23,0,Haemulon plumierii,Haemulon plumierii juvenil
+22,24,0,Haemulon plumierii,Haemulon sciurus
+22,25,0,Haemulon plumierii,Halichoeres spp
+22,26,0,Haemulon plumierii,Holacanthus spp
+22,27,0,Haemulon plumierii,Kyphosus spp
+22,28,0,Haemulon plumierii,Lachnolaimus maximus
+22,29,0,Haemulon plumierii,Lutjanus analis
+22,3,0,Haemulon plumierii,Acanthurus coeruleus
+22,30,0,Haemulon plumierii,Lutjanus griseus
+22,31,0,Haemulon plumierii,Lutjanus jocu
+22,32,0,Haemulon plumierii,Mycteroperca spp
+22,33,0,Haemulon plumierii,Nicholsina usta
+22,34,0,Haemulon plumierii,Ocyurus chrysurus
+22,35,0,Haemulon plumierii,Pomacanthus arcuatus
+22,36,0,Haemulon plumierii,Pomacanthus paru
+22,37,0,Haemulon plumierii,Rhomboplites aurorubens
+22,38,0,Haemulon plumierii,Scarus coelestinus
+22,39,0,Haemulon plumierii,Scarus coeruleus
+22,4,0,Haemulon plumierii,Anisotremus virginicus
+22,40,0,Haemulon plumierii,Scarus guacamaia
+22,41,0,Haemulon plumierii,Scarus iseri
+22,42,0,Haemulon plumierii,Scarus juvenil
+22,43,0,Haemulon plumierii,Scarus taeniopterus
+22,44,0,Haemulon plumierii,Scarus vetula
+22,45,0,Haemulon plumierii,Sparisoma aurofrenatum
+22,46,0,Haemulon plumierii,Sparisoma chrysopterum
+22,47,0,Haemulon plumierii,Sparisoma rubripinne FI
+22,48,0,Haemulon plumierii,Sparisoma viride
+22,49,0,Haemulon plumierii,Sparisoma viride FI
+22,5,0,Haemulon plumierii,Azurina cyanea
+22,50,0,Haemulon plumierii,Sphyraena barracuda
+22,51,0,Haemulon plumierii,Urobatis jamaicensis
+22,52,2,Haemulon plumierii,unidentifiable
+22,6,0,Haemulon plumierii,Bodianus rufus
+22,7,0,Haemulon plumierii,Calamus spp
+22,8,0,Haemulon plumierii,Caranx bartholomaei
+22,9,0,Haemulon plumierii,Caranx latus
+22,background,19,Haemulon plumierii,background
+23,0,0,Haemulon plumierii juvenil,fish
+23,1,0,Haemulon plumierii juvenil,Abudefduf saxatilis
+23,10,0,Haemulon plumierii juvenil,Caranx ruber
+23,11,0,Haemulon plumierii juvenil,Cephalopholis cruentata
+23,12,0,Haemulon plumierii juvenil,Chaetodon capistratus
+23,13,0,Haemulon plumierii juvenil,Chaetodon ocellatus
+23,14,0,Haemulon plumierii juvenil,Chaetodon sedentarius
+23,15,0,Haemulon plumierii juvenil,Chaetodon striatus
+23,16,0,Haemulon plumierii juvenil,Chromis scotti
+23,17,0,Haemulon plumierii juvenil,Diodon spp
+23,18,0,Haemulon plumierii juvenil,Epinephelus spp
+23,19,0,Haemulon plumierii juvenil,Ginglymostoma cirratum
+23,2,0,Haemulon plumierii juvenil,Acanthurus chirurgus
+23,20,0,Haemulon plumierii juvenil,Haemulon flavolineatum
+23,21,0,Haemulon plumierii juvenil,Haemulon juvenil
+23,22,0,Haemulon plumierii juvenil,Haemulon plumierii
+23,23,9,Haemulon plumierii juvenil,Haemulon plumierii juvenil
+23,24,0,Haemulon plumierii juvenil,Haemulon sciurus
+23,25,0,Haemulon plumierii juvenil,Halichoeres spp
+23,26,0,Haemulon plumierii juvenil,Holacanthus spp
+23,27,0,Haemulon plumierii juvenil,Kyphosus spp
+23,28,0,Haemulon plumierii juvenil,Lachnolaimus maximus
+23,29,0,Haemulon plumierii juvenil,Lutjanus analis
+23,3,0,Haemulon plumierii juvenil,Acanthurus coeruleus
+23,30,0,Haemulon plumierii juvenil,Lutjanus griseus
+23,31,0,Haemulon plumierii juvenil,Lutjanus jocu
+23,32,0,Haemulon plumierii juvenil,Mycteroperca spp
+23,33,0,Haemulon plumierii juvenil,Nicholsina usta
+23,34,2,Haemulon plumierii juvenil,Ocyurus chrysurus
+23,35,0,Haemulon plumierii juvenil,Pomacanthus arcuatus
+23,36,0,Haemulon plumierii juvenil,Pomacanthus paru
+23,37,0,Haemulon plumierii juvenil,Rhomboplites aurorubens
+23,38,0,Haemulon plumierii juvenil,Scarus coelestinus
+23,39,0,Haemulon plumierii juvenil,Scarus coeruleus
+23,4,0,Haemulon plumierii juvenil,Anisotremus virginicus
+23,40,0,Haemulon plumierii juvenil,Scarus guacamaia
+23,41,0,Haemulon plumierii juvenil,Scarus iseri
+23,42,0,Haemulon plumierii juvenil,Scarus juvenil
+23,43,0,Haemulon plumierii juvenil,Scarus taeniopterus
+23,44,0,Haemulon plumierii juvenil,Scarus vetula
+23,45,0,Haemulon plumierii juvenil,Sparisoma aurofrenatum
+23,46,0,Haemulon plumierii juvenil,Sparisoma chrysopterum
+23,47,0,Haemulon plumierii juvenil,Sparisoma rubripinne FI
+23,48,0,Haemulon plumierii juvenil,Sparisoma viride
+23,49,0,Haemulon plumierii juvenil,Sparisoma viride FI
+23,5,0,Haemulon plumierii juvenil,Azurina cyanea
+23,50,0,Haemulon plumierii juvenil,Sphyraena barracuda
+23,51,0,Haemulon plumierii juvenil,Urobatis jamaicensis
+23,52,0,Haemulon plumierii juvenil,unidentifiable
+23,6,0,Haemulon plumierii juvenil,Bodianus rufus
+23,7,0,Haemulon plumierii juvenil,Calamus spp
+23,8,0,Haemulon plumierii juvenil,Caranx bartholomaei
+23,9,0,Haemulon plumierii juvenil,Caranx latus
+23,background,12,Haemulon plumierii juvenil,background
+24,0,0,Haemulon sciurus,fish
+24,1,0,Haemulon sciurus,Abudefduf saxatilis
+24,10,0,Haemulon sciurus,Caranx ruber
+24,11,0,Haemulon sciurus,Cephalopholis cruentata
+24,12,0,Haemulon sciurus,Chaetodon capistratus
+24,13,0,Haemulon sciurus,Chaetodon ocellatus
+24,14,0,Haemulon sciurus,Chaetodon sedentarius
+24,15,0,Haemulon sciurus,Chaetodon striatus
+24,16,0,Haemulon sciurus,Chromis scotti
+24,17,0,Haemulon sciurus,Diodon spp
+24,18,0,Haemulon sciurus,Epinephelus spp
+24,19,0,Haemulon sciurus,Ginglymostoma cirratum
+24,2,0,Haemulon sciurus,Acanthurus chirurgus
+24,20,1,Haemulon sciurus,Haemulon flavolineatum
+24,21,0,Haemulon sciurus,Haemulon juvenil
+24,22,2,Haemulon sciurus,Haemulon plumierii
+24,23,0,Haemulon sciurus,Haemulon plumierii juvenil
+24,24,16,Haemulon sciurus,Haemulon sciurus
+24,25,0,Haemulon sciurus,Halichoeres spp
+24,26,0,Haemulon sciurus,Holacanthus spp
+24,27,0,Haemulon sciurus,Kyphosus spp
+24,28,0,Haemulon sciurus,Lachnolaimus maximus
+24,29,0,Haemulon sciurus,Lutjanus analis
+24,3,0,Haemulon sciurus,Acanthurus coeruleus
+24,30,0,Haemulon sciurus,Lutjanus griseus
+24,31,0,Haemulon sciurus,Lutjanus jocu
+24,32,0,Haemulon sciurus,Mycteroperca spp
+24,33,0,Haemulon sciurus,Nicholsina usta
+24,34,0,Haemulon sciurus,Ocyurus chrysurus
+24,35,0,Haemulon sciurus,Pomacanthus arcuatus
+24,36,0,Haemulon sciurus,Pomacanthus paru
+24,37,0,Haemulon sciurus,Rhomboplites aurorubens
+24,38,0,Haemulon sciurus,Scarus coelestinus
+24,39,0,Haemulon sciurus,Scarus coeruleus
+24,4,0,Haemulon sciurus,Anisotremus virginicus
+24,40,0,Haemulon sciurus,Scarus guacamaia
+24,41,0,Haemulon sciurus,Scarus iseri
+24,42,0,Haemulon sciurus,Scarus juvenil
+24,43,0,Haemulon sciurus,Scarus taeniopterus
+24,44,0,Haemulon sciurus,Scarus vetula
+24,45,0,Haemulon sciurus,Sparisoma aurofrenatum
+24,46,0,Haemulon sciurus,Sparisoma chrysopterum
+24,47,0,Haemulon sciurus,Sparisoma rubripinne FI
+24,48,0,Haemulon sciurus,Sparisoma viride
+24,49,0,Haemulon sciurus,Sparisoma viride FI
+24,5,0,Haemulon sciurus,Azurina cyanea
+24,50,0,Haemulon sciurus,Sphyraena barracuda
+24,51,0,Haemulon sciurus,Urobatis jamaicensis
+24,52,0,Haemulon sciurus,unidentifiable
+24,6,0,Haemulon sciurus,Bodianus rufus
+24,7,0,Haemulon sciurus,Calamus spp
+24,8,0,Haemulon sciurus,Caranx bartholomaei
+24,9,0,Haemulon sciurus,Caranx latus
+24,background,5,Haemulon sciurus,background
+25,0,0,Halichoeres spp,fish
+25,1,0,Halichoeres spp,Abudefduf saxatilis
+25,10,0,Halichoeres spp,Caranx ruber
+25,11,0,Halichoeres spp,Cephalopholis cruentata
+25,12,0,Halichoeres spp,Chaetodon capistratus
+25,13,0,Halichoeres spp,Chaetodon ocellatus
+25,14,0,Halichoeres spp,Chaetodon sedentarius
+25,15,0,Halichoeres spp,Chaetodon striatus
+25,16,0,Halichoeres spp,Chromis scotti
+25,17,0,Halichoeres spp,Diodon spp
+25,18,0,Halichoeres spp,Epinephelus spp
+25,19,0,Halichoeres spp,Ginglymostoma cirratum
+25,2,0,Halichoeres spp,Acanthurus chirurgus
+25,20,0,Halichoeres spp,Haemulon flavolineatum
+25,21,2,Halichoeres spp,Haemulon juvenil
+25,22,0,Halichoeres spp,Haemulon plumierii
+25,23,0,Halichoeres spp,Haemulon plumierii juvenil
+25,24,0,Halichoeres spp,Haemulon sciurus
+25,25,14,Halichoeres spp,Halichoeres spp
+25,26,0,Halichoeres spp,Holacanthus spp
+25,27,0,Halichoeres spp,Kyphosus spp
+25,28,0,Halichoeres spp,Lachnolaimus maximus
+25,29,0,Halichoeres spp,Lutjanus analis
+25,3,0,Halichoeres spp,Acanthurus coeruleus
+25,30,0,Halichoeres spp,Lutjanus griseus
+25,31,0,Halichoeres spp,Lutjanus jocu
+25,32,0,Halichoeres spp,Mycteroperca spp
+25,33,0,Halichoeres spp,Nicholsina usta
+25,34,0,Halichoeres spp,Ocyurus chrysurus
+25,35,0,Halichoeres spp,Pomacanthus arcuatus
+25,36,0,Halichoeres spp,Pomacanthus paru
+25,37,0,Halichoeres spp,Rhomboplites aurorubens
+25,38,0,Halichoeres spp,Scarus coelestinus
+25,39,0,Halichoeres spp,Scarus coeruleus
+25,4,0,Halichoeres spp,Anisotremus virginicus
+25,40,0,Halichoeres spp,Scarus guacamaia
+25,41,0,Halichoeres spp,Scarus iseri
+25,42,0,Halichoeres spp,Scarus juvenil
+25,43,0,Halichoeres spp,Scarus taeniopterus
+25,44,0,Halichoeres spp,Scarus vetula
+25,45,0,Halichoeres spp,Sparisoma aurofrenatum
+25,46,0,Halichoeres spp,Sparisoma chrysopterum
+25,47,0,Halichoeres spp,Sparisoma rubripinne FI
+25,48,0,Halichoeres spp,Sparisoma viride
+25,49,0,Halichoeres spp,Sparisoma viride FI
+25,5,0,Halichoeres spp,Azurina cyanea
+25,50,0,Halichoeres spp,Sphyraena barracuda
+25,51,0,Halichoeres spp,Urobatis jamaicensis
+25,52,0,Halichoeres spp,unidentifiable
+25,6,0,Halichoeres spp,Bodianus rufus
+25,7,0,Halichoeres spp,Calamus spp
+25,8,0,Halichoeres spp,Caranx bartholomaei
+25,9,0,Halichoeres spp,Caranx latus
+25,background,1,Halichoeres spp,background
+26,0,0,Holacanthus spp,fish
+26,1,0,Holacanthus spp,Abudefduf saxatilis
+26,10,0,Holacanthus spp,Caranx ruber
+26,11,0,Holacanthus spp,Cephalopholis cruentata
+26,12,0,Holacanthus spp,Chaetodon capistratus
+26,13,0,Holacanthus spp,Chaetodon ocellatus
+26,14,0,Holacanthus spp,Chaetodon sedentarius
+26,15,0,Holacanthus spp,Chaetodon striatus
+26,16,0,Holacanthus spp,Chromis scotti
+26,17,0,Holacanthus spp,Diodon spp
+26,18,0,Holacanthus spp,Epinephelus spp
+26,19,0,Holacanthus spp,Ginglymostoma cirratum
+26,2,0,Holacanthus spp,Acanthurus chirurgus
+26,20,0,Holacanthus spp,Haemulon flavolineatum
+26,21,0,Holacanthus spp,Haemulon juvenil
+26,22,4,Holacanthus spp,Haemulon plumierii
+26,23,0,Holacanthus spp,Haemulon plumierii juvenil
+26,24,0,Holacanthus spp,Haemulon sciurus
+26,25,0,Holacanthus spp,Halichoeres spp
+26,26,16,Holacanthus spp,Holacanthus spp
+26,27,0,Holacanthus spp,Kyphosus spp
+26,28,0,Holacanthus spp,Lachnolaimus maximus
+26,29,0,Holacanthus spp,Lutjanus analis
+26,3,0,Holacanthus spp,Acanthurus coeruleus
+26,30,0,Holacanthus spp,Lutjanus griseus
+26,31,0,Holacanthus spp,Lutjanus jocu
+26,32,0,Holacanthus spp,Mycteroperca spp
+26,33,0,Holacanthus spp,Nicholsina usta
+26,34,0,Holacanthus spp,Ocyurus chrysurus
+26,35,0,Holacanthus spp,Pomacanthus arcuatus
+26,36,0,Holacanthus spp,Pomacanthus paru
+26,37,0,Holacanthus spp,Rhomboplites aurorubens
+26,38,0,Holacanthus spp,Scarus coelestinus
+26,39,0,Holacanthus spp,Scarus coeruleus
+26,4,0,Holacanthus spp,Anisotremus virginicus
+26,40,0,Holacanthus spp,Scarus guacamaia
+26,41,0,Holacanthus spp,Scarus iseri
+26,42,0,Holacanthus spp,Scarus juvenil
+26,43,0,Holacanthus spp,Scarus taeniopterus
+26,44,0,Holacanthus spp,Scarus vetula
+26,45,0,Holacanthus spp,Sparisoma aurofrenatum
+26,46,0,Holacanthus spp,Sparisoma chrysopterum
+26,47,0,Holacanthus spp,Sparisoma rubripinne FI
+26,48,0,Holacanthus spp,Sparisoma viride
+26,49,0,Holacanthus spp,Sparisoma viride FI
+26,5,0,Holacanthus spp,Azurina cyanea
+26,50,0,Holacanthus spp,Sphyraena barracuda
+26,51,0,Holacanthus spp,Urobatis jamaicensis
+26,52,0,Holacanthus spp,unidentifiable
+26,6,0,Holacanthus spp,Bodianus rufus
+26,7,0,Holacanthus spp,Calamus spp
+26,8,0,Holacanthus spp,Caranx bartholomaei
+26,9,0,Holacanthus spp,Caranx latus
+26,background,3,Holacanthus spp,background
+27,0,0,Kyphosus spp,fish
+27,1,0,Kyphosus spp,Abudefduf saxatilis
+27,10,0,Kyphosus spp,Caranx ruber
+27,11,0,Kyphosus spp,Cephalopholis cruentata
+27,12,0,Kyphosus spp,Chaetodon capistratus
+27,13,0,Kyphosus spp,Chaetodon ocellatus
+27,14,0,Kyphosus spp,Chaetodon sedentarius
+27,15,0,Kyphosus spp,Chaetodon striatus
+27,16,0,Kyphosus spp,Chromis scotti
+27,17,0,Kyphosus spp,Diodon spp
+27,18,0,Kyphosus spp,Epinephelus spp
+27,19,0,Kyphosus spp,Ginglymostoma cirratum
+27,2,0,Kyphosus spp,Acanthurus chirurgus
+27,20,0,Kyphosus spp,Haemulon flavolineatum
+27,21,0,Kyphosus spp,Haemulon juvenil
+27,22,0,Kyphosus spp,Haemulon plumierii
+27,23,0,Kyphosus spp,Haemulon plumierii juvenil
+27,24,0,Kyphosus spp,Haemulon sciurus
+27,25,0,Kyphosus spp,Halichoeres spp
+27,26,0,Kyphosus spp,Holacanthus spp
+27,27,19,Kyphosus spp,Kyphosus spp
+27,28,0,Kyphosus spp,Lachnolaimus maximus
+27,29,0,Kyphosus spp,Lutjanus analis
+27,3,0,Kyphosus spp,Acanthurus coeruleus
+27,30,7,Kyphosus spp,Lutjanus griseus
+27,31,0,Kyphosus spp,Lutjanus jocu
+27,32,0,Kyphosus spp,Mycteroperca spp
+27,33,0,Kyphosus spp,Nicholsina usta
+27,34,0,Kyphosus spp,Ocyurus chrysurus
+27,35,0,Kyphosus spp,Pomacanthus arcuatus
+27,36,0,Kyphosus spp,Pomacanthus paru
+27,37,0,Kyphosus spp,Rhomboplites aurorubens
+27,38,0,Kyphosus spp,Scarus coelestinus
+27,39,0,Kyphosus spp,Scarus coeruleus
+27,4,0,Kyphosus spp,Anisotremus virginicus
+27,40,0,Kyphosus spp,Scarus guacamaia
+27,41,0,Kyphosus spp,Scarus iseri
+27,42,0,Kyphosus spp,Scarus juvenil
+27,43,0,Kyphosus spp,Scarus taeniopterus
+27,44,0,Kyphosus spp,Scarus vetula
+27,45,0,Kyphosus spp,Sparisoma aurofrenatum
+27,46,0,Kyphosus spp,Sparisoma chrysopterum
+27,47,0,Kyphosus spp,Sparisoma rubripinne FI
+27,48,0,Kyphosus spp,Sparisoma viride
+27,49,0,Kyphosus spp,Sparisoma viride FI
+27,5,0,Kyphosus spp,Azurina cyanea
+27,50,0,Kyphosus spp,Sphyraena barracuda
+27,51,0,Kyphosus spp,Urobatis jamaicensis
+27,52,0,Kyphosus spp,unidentifiable
+27,6,0,Kyphosus spp,Bodianus rufus
+27,7,0,Kyphosus spp,Calamus spp
+27,8,0,Kyphosus spp,Caranx bartholomaei
+27,9,0,Kyphosus spp,Caranx latus
+27,background,22,Kyphosus spp,background
+28,0,0,Lachnolaimus maximus,fish
+28,1,0,Lachnolaimus maximus,Abudefduf saxatilis
+28,10,0,Lachnolaimus maximus,Caranx ruber
+28,11,0,Lachnolaimus maximus,Cephalopholis cruentata
+28,12,0,Lachnolaimus maximus,Chaetodon capistratus
+28,13,0,Lachnolaimus maximus,Chaetodon ocellatus
+28,14,0,Lachnolaimus maximus,Chaetodon sedentarius
+28,15,0,Lachnolaimus maximus,Chaetodon striatus
+28,16,0,Lachnolaimus maximus,Chromis scotti
+28,17,0,Lachnolaimus maximus,Diodon spp
+28,18,0,Lachnolaimus maximus,Epinephelus spp
+28,19,0,Lachnolaimus maximus,Ginglymostoma cirratum
+28,2,0,Lachnolaimus maximus,Acanthurus chirurgus
+28,20,0,Lachnolaimus maximus,Haemulon flavolineatum
+28,21,0,Lachnolaimus maximus,Haemulon juvenil
+28,22,2,Lachnolaimus maximus,Haemulon plumierii
+28,23,0,Lachnolaimus maximus,Haemulon plumierii juvenil
+28,24,0,Lachnolaimus maximus,Haemulon sciurus
+28,25,0,Lachnolaimus maximus,Halichoeres spp
+28,26,0,Lachnolaimus maximus,Holacanthus spp
+28,27,0,Lachnolaimus maximus,Kyphosus spp
+28,28,18,Lachnolaimus maximus,Lachnolaimus maximus
+28,29,0,Lachnolaimus maximus,Lutjanus analis
+28,3,0,Lachnolaimus maximus,Acanthurus coeruleus
+28,30,0,Lachnolaimus maximus,Lutjanus griseus
+28,31,0,Lachnolaimus maximus,Lutjanus jocu
+28,32,0,Lachnolaimus maximus,Mycteroperca spp
+28,33,0,Lachnolaimus maximus,Nicholsina usta
+28,34,0,Lachnolaimus maximus,Ocyurus chrysurus
+28,35,0,Lachnolaimus maximus,Pomacanthus arcuatus
+28,36,0,Lachnolaimus maximus,Pomacanthus paru
+28,37,0,Lachnolaimus maximus,Rhomboplites aurorubens
+28,38,0,Lachnolaimus maximus,Scarus coelestinus
+28,39,0,Lachnolaimus maximus,Scarus coeruleus
+28,4,0,Lachnolaimus maximus,Anisotremus virginicus
+28,40,0,Lachnolaimus maximus,Scarus guacamaia
+28,41,0,Lachnolaimus maximus,Scarus iseri
+28,42,0,Lachnolaimus maximus,Scarus juvenil
+28,43,0,Lachnolaimus maximus,Scarus taeniopterus
+28,44,0,Lachnolaimus maximus,Scarus vetula
+28,45,0,Lachnolaimus maximus,Sparisoma aurofrenatum
+28,46,0,Lachnolaimus maximus,Sparisoma chrysopterum
+28,47,0,Lachnolaimus maximus,Sparisoma rubripinne FI
+28,48,0,Lachnolaimus maximus,Sparisoma viride
+28,49,0,Lachnolaimus maximus,Sparisoma viride FI
+28,5,0,Lachnolaimus maximus,Azurina cyanea
+28,50,0,Lachnolaimus maximus,Sphyraena barracuda
+28,51,0,Lachnolaimus maximus,Urobatis jamaicensis
+28,52,0,Lachnolaimus maximus,unidentifiable
+28,6,0,Lachnolaimus maximus,Bodianus rufus
+28,7,0,Lachnolaimus maximus,Calamus spp
+28,8,0,Lachnolaimus maximus,Caranx bartholomaei
+28,9,0,Lachnolaimus maximus,Caranx latus
+28,background,16,Lachnolaimus maximus,background
+29,0,0,Lutjanus analis,fish
+29,1,0,Lutjanus analis,Abudefduf saxatilis
+29,10,0,Lutjanus analis,Caranx ruber
+29,11,0,Lutjanus analis,Cephalopholis cruentata
+29,12,0,Lutjanus analis,Chaetodon capistratus
+29,13,0,Lutjanus analis,Chaetodon ocellatus
+29,14,0,Lutjanus analis,Chaetodon sedentarius
+29,15,0,Lutjanus analis,Chaetodon striatus
+29,16,0,Lutjanus analis,Chromis scotti
+29,17,0,Lutjanus analis,Diodon spp
+29,18,0,Lutjanus analis,Epinephelus spp
+29,19,0,Lutjanus analis,Ginglymostoma cirratum
+29,2,0,Lutjanus analis,Acanthurus chirurgus
+29,20,0,Lutjanus analis,Haemulon flavolineatum
+29,21,0,Lutjanus analis,Haemulon juvenil
+29,22,0,Lutjanus analis,Haemulon plumierii
+29,23,0,Lutjanus analis,Haemulon plumierii juvenil
+29,24,0,Lutjanus analis,Haemulon sciurus
+29,25,0,Lutjanus analis,Halichoeres spp
+29,26,0,Lutjanus analis,Holacanthus spp
+29,27,0,Lutjanus analis,Kyphosus spp
+29,28,0,Lutjanus analis,Lachnolaimus maximus
+29,29,21,Lutjanus analis,Lutjanus analis
+29,3,0,Lutjanus analis,Acanthurus coeruleus
+29,30,0,Lutjanus analis,Lutjanus griseus
+29,31,0,Lutjanus analis,Lutjanus jocu
+29,32,0,Lutjanus analis,Mycteroperca spp
+29,33,0,Lutjanus analis,Nicholsina usta
+29,34,0,Lutjanus analis,Ocyurus chrysurus
+29,35,0,Lutjanus analis,Pomacanthus arcuatus
+29,36,0,Lutjanus analis,Pomacanthus paru
+29,37,0,Lutjanus analis,Rhomboplites aurorubens
+29,38,0,Lutjanus analis,Scarus coelestinus
+29,39,0,Lutjanus analis,Scarus coeruleus
+29,4,0,Lutjanus analis,Anisotremus virginicus
+29,40,0,Lutjanus analis,Scarus guacamaia
+29,41,0,Lutjanus analis,Scarus iseri
+29,42,0,Lutjanus analis,Scarus juvenil
+29,43,0,Lutjanus analis,Scarus taeniopterus
+29,44,0,Lutjanus analis,Scarus vetula
+29,45,0,Lutjanus analis,Sparisoma aurofrenatum
+29,46,0,Lutjanus analis,Sparisoma chrysopterum
+29,47,0,Lutjanus analis,Sparisoma rubripinne FI
+29,48,0,Lutjanus analis,Sparisoma viride
+29,49,0,Lutjanus analis,Sparisoma viride FI
+29,5,0,Lutjanus analis,Azurina cyanea
+29,50,0,Lutjanus analis,Sphyraena barracuda
+29,51,0,Lutjanus analis,Urobatis jamaicensis
+29,52,0,Lutjanus analis,unidentifiable
+29,6,0,Lutjanus analis,Bodianus rufus
+29,7,0,Lutjanus analis,Calamus spp
+29,8,0,Lutjanus analis,Caranx bartholomaei
+29,9,0,Lutjanus analis,Caranx latus
+29,background,5,Lutjanus analis,background
+3,0,0,Acanthurus coeruleus,fish
+3,1,0,Acanthurus coeruleus,Abudefduf saxatilis
+3,10,0,Acanthurus coeruleus,Caranx ruber
+3,11,0,Acanthurus coeruleus,Cephalopholis cruentata
+3,12,0,Acanthurus coeruleus,Chaetodon capistratus
+3,13,0,Acanthurus coeruleus,Chaetodon ocellatus
+3,14,0,Acanthurus coeruleus,Chaetodon sedentarius
+3,15,0,Acanthurus coeruleus,Chaetodon striatus
+3,16,0,Acanthurus coeruleus,Chromis scotti
+3,17,0,Acanthurus coeruleus,Diodon spp
+3,18,0,Acanthurus coeruleus,Epinephelus spp
+3,19,0,Acanthurus coeruleus,Ginglymostoma cirratum
+3,2,0,Acanthurus coeruleus,Acanthurus chirurgus
+3,20,0,Acanthurus coeruleus,Haemulon flavolineatum
+3,21,0,Acanthurus coeruleus,Haemulon juvenil
+3,22,0,Acanthurus coeruleus,Haemulon plumierii
+3,23,0,Acanthurus coeruleus,Haemulon plumierii juvenil
+3,24,0,Acanthurus coeruleus,Haemulon sciurus
+3,25,0,Acanthurus coeruleus,Halichoeres spp
+3,26,0,Acanthurus coeruleus,Holacanthus spp
+3,27,0,Acanthurus coeruleus,Kyphosus spp
+3,28,0,Acanthurus coeruleus,Lachnolaimus maximus
+3,29,0,Acanthurus coeruleus,Lutjanus analis
+3,3,23,Acanthurus coeruleus,Acanthurus coeruleus
+3,30,0,Acanthurus coeruleus,Lutjanus griseus
+3,31,0,Acanthurus coeruleus,Lutjanus jocu
+3,32,0,Acanthurus coeruleus,Mycteroperca spp
+3,33,0,Acanthurus coeruleus,Nicholsina usta
+3,34,0,Acanthurus coeruleus,Ocyurus chrysurus
+3,35,0,Acanthurus coeruleus,Pomacanthus arcuatus
+3,36,0,Acanthurus coeruleus,Pomacanthus paru
+3,37,0,Acanthurus coeruleus,Rhomboplites aurorubens
+3,38,0,Acanthurus coeruleus,Scarus coelestinus
+3,39,0,Acanthurus coeruleus,Scarus coeruleus
+3,4,0,Acanthurus coeruleus,Anisotremus virginicus
+3,40,0,Acanthurus coeruleus,Scarus guacamaia
+3,41,0,Acanthurus coeruleus,Scarus iseri
+3,42,0,Acanthurus coeruleus,Scarus juvenil
+3,43,0,Acanthurus coeruleus,Scarus taeniopterus
+3,44,1,Acanthurus coeruleus,Scarus vetula
+3,45,0,Acanthurus coeruleus,Sparisoma aurofrenatum
+3,46,0,Acanthurus coeruleus,Sparisoma chrysopterum
+3,47,0,Acanthurus coeruleus,Sparisoma rubripinne FI
+3,48,0,Acanthurus coeruleus,Sparisoma viride
+3,49,0,Acanthurus coeruleus,Sparisoma viride FI
+3,5,0,Acanthurus coeruleus,Azurina cyanea
+3,50,0,Acanthurus coeruleus,Sphyraena barracuda
+3,51,0,Acanthurus coeruleus,Urobatis jamaicensis
+3,52,0,Acanthurus coeruleus,unidentifiable
+3,6,0,Acanthurus coeruleus,Bodianus rufus
+3,7,0,Acanthurus coeruleus,Calamus spp
+3,8,0,Acanthurus coeruleus,Caranx bartholomaei
+3,9,0,Acanthurus coeruleus,Caranx latus
+3,background,5,Acanthurus coeruleus,background
+30,0,0,Lutjanus griseus,fish
+30,1,0,Lutjanus griseus,Abudefduf saxatilis
+30,10,0,Lutjanus griseus,Caranx ruber
+30,11,0,Lutjanus griseus,Cephalopholis cruentata
+30,12,0,Lutjanus griseus,Chaetodon capistratus
+30,13,0,Lutjanus griseus,Chaetodon ocellatus
+30,14,0,Lutjanus griseus,Chaetodon sedentarius
+30,15,0,Lutjanus griseus,Chaetodon striatus
+30,16,0,Lutjanus griseus,Chromis scotti
+30,17,0,Lutjanus griseus,Diodon spp
+30,18,0,Lutjanus griseus,Epinephelus spp
+30,19,0,Lutjanus griseus,Ginglymostoma cirratum
+30,2,0,Lutjanus griseus,Acanthurus chirurgus
+30,20,0,Lutjanus griseus,Haemulon flavolineatum
+30,21,0,Lutjanus griseus,Haemulon juvenil
+30,22,2,Lutjanus griseus,Haemulon plumierii
+30,23,0,Lutjanus griseus,Haemulon plumierii juvenil
+30,24,0,Lutjanus griseus,Haemulon sciurus
+30,25,0,Lutjanus griseus,Halichoeres spp
+30,26,0,Lutjanus griseus,Holacanthus spp
+30,27,0,Lutjanus griseus,Kyphosus spp
+30,28,0,Lutjanus griseus,Lachnolaimus maximus
+30,29,0,Lutjanus griseus,Lutjanus analis
+30,3,0,Lutjanus griseus,Acanthurus coeruleus
+30,30,68,Lutjanus griseus,Lutjanus griseus
+30,31,0,Lutjanus griseus,Lutjanus jocu
+30,32,0,Lutjanus griseus,Mycteroperca spp
+30,33,0,Lutjanus griseus,Nicholsina usta
+30,34,0,Lutjanus griseus,Ocyurus chrysurus
+30,35,0,Lutjanus griseus,Pomacanthus arcuatus
+30,36,0,Lutjanus griseus,Pomacanthus paru
+30,37,0,Lutjanus griseus,Rhomboplites aurorubens
+30,38,0,Lutjanus griseus,Scarus coelestinus
+30,39,0,Lutjanus griseus,Scarus coeruleus
+30,4,0,Lutjanus griseus,Anisotremus virginicus
+30,40,0,Lutjanus griseus,Scarus guacamaia
+30,41,0,Lutjanus griseus,Scarus iseri
+30,42,0,Lutjanus griseus,Scarus juvenil
+30,43,0,Lutjanus griseus,Scarus taeniopterus
+30,44,0,Lutjanus griseus,Scarus vetula
+30,45,0,Lutjanus griseus,Sparisoma aurofrenatum
+30,46,0,Lutjanus griseus,Sparisoma chrysopterum
+30,47,0,Lutjanus griseus,Sparisoma rubripinne FI
+30,48,0,Lutjanus griseus,Sparisoma viride
+30,49,0,Lutjanus griseus,Sparisoma viride FI
+30,5,0,Lutjanus griseus,Azurina cyanea
+30,50,0,Lutjanus griseus,Sphyraena barracuda
+30,51,0,Lutjanus griseus,Urobatis jamaicensis
+30,52,0,Lutjanus griseus,unidentifiable
+30,6,0,Lutjanus griseus,Bodianus rufus
+30,7,0,Lutjanus griseus,Calamus spp
+30,8,0,Lutjanus griseus,Caranx bartholomaei
+30,9,0,Lutjanus griseus,Caranx latus
+30,background,24,Lutjanus griseus,background
+31,0,0,Lutjanus jocu,fish
+31,1,0,Lutjanus jocu,Abudefduf saxatilis
+31,10,0,Lutjanus jocu,Caranx ruber
+31,11,0,Lutjanus jocu,Cephalopholis cruentata
+31,12,0,Lutjanus jocu,Chaetodon capistratus
+31,13,0,Lutjanus jocu,Chaetodon ocellatus
+31,14,0,Lutjanus jocu,Chaetodon sedentarius
+31,15,0,Lutjanus jocu,Chaetodon striatus
+31,16,0,Lutjanus jocu,Chromis scotti
+31,17,0,Lutjanus jocu,Diodon spp
+31,18,0,Lutjanus jocu,Epinephelus spp
+31,19,0,Lutjanus jocu,Ginglymostoma cirratum
+31,2,0,Lutjanus jocu,Acanthurus chirurgus
+31,20,0,Lutjanus jocu,Haemulon flavolineatum
+31,21,0,Lutjanus jocu,Haemulon juvenil
+31,22,0,Lutjanus jocu,Haemulon plumierii
+31,23,0,Lutjanus jocu,Haemulon plumierii juvenil
+31,24,0,Lutjanus jocu,Haemulon sciurus
+31,25,0,Lutjanus jocu,Halichoeres spp
+31,26,0,Lutjanus jocu,Holacanthus spp
+31,27,0,Lutjanus jocu,Kyphosus spp
+31,28,0,Lutjanus jocu,Lachnolaimus maximus
+31,29,0,Lutjanus jocu,Lutjanus analis
+31,3,0,Lutjanus jocu,Acanthurus coeruleus
+31,30,0,Lutjanus jocu,Lutjanus griseus
+31,31,19,Lutjanus jocu,Lutjanus jocu
+31,32,0,Lutjanus jocu,Mycteroperca spp
+31,33,0,Lutjanus jocu,Nicholsina usta
+31,34,0,Lutjanus jocu,Ocyurus chrysurus
+31,35,0,Lutjanus jocu,Pomacanthus arcuatus
+31,36,0,Lutjanus jocu,Pomacanthus paru
+31,37,0,Lutjanus jocu,Rhomboplites aurorubens
+31,38,0,Lutjanus jocu,Scarus coelestinus
+31,39,0,Lutjanus jocu,Scarus coeruleus
+31,4,0,Lutjanus jocu,Anisotremus virginicus
+31,40,0,Lutjanus jocu,Scarus guacamaia
+31,41,0,Lutjanus jocu,Scarus iseri
+31,42,0,Lutjanus jocu,Scarus juvenil
+31,43,0,Lutjanus jocu,Scarus taeniopterus
+31,44,0,Lutjanus jocu,Scarus vetula
+31,45,0,Lutjanus jocu,Sparisoma aurofrenatum
+31,46,0,Lutjanus jocu,Sparisoma chrysopterum
+31,47,0,Lutjanus jocu,Sparisoma rubripinne FI
+31,48,0,Lutjanus jocu,Sparisoma viride
+31,49,0,Lutjanus jocu,Sparisoma viride FI
+31,5,0,Lutjanus jocu,Azurina cyanea
+31,50,0,Lutjanus jocu,Sphyraena barracuda
+31,51,0,Lutjanus jocu,Urobatis jamaicensis
+31,52,0,Lutjanus jocu,unidentifiable
+31,6,0,Lutjanus jocu,Bodianus rufus
+31,7,0,Lutjanus jocu,Calamus spp
+31,8,0,Lutjanus jocu,Caranx bartholomaei
+31,9,0,Lutjanus jocu,Caranx latus
+31,background,3,Lutjanus jocu,background
+32,0,0,Mycteroperca spp,fish
+32,1,0,Mycteroperca spp,Abudefduf saxatilis
+32,10,0,Mycteroperca spp,Caranx ruber
+32,11,0,Mycteroperca spp,Cephalopholis cruentata
+32,12,0,Mycteroperca spp,Chaetodon capistratus
+32,13,0,Mycteroperca spp,Chaetodon ocellatus
+32,14,0,Mycteroperca spp,Chaetodon sedentarius
+32,15,0,Mycteroperca spp,Chaetodon striatus
+32,16,0,Mycteroperca spp,Chromis scotti
+32,17,0,Mycteroperca spp,Diodon spp
+32,18,0,Mycteroperca spp,Epinephelus spp
+32,19,0,Mycteroperca spp,Ginglymostoma cirratum
+32,2,0,Mycteroperca spp,Acanthurus chirurgus
+32,20,0,Mycteroperca spp,Haemulon flavolineatum
+32,21,0,Mycteroperca spp,Haemulon juvenil
+32,22,0,Mycteroperca spp,Haemulon plumierii
+32,23,0,Mycteroperca spp,Haemulon plumierii juvenil
+32,24,0,Mycteroperca spp,Haemulon sciurus
+32,25,0,Mycteroperca spp,Halichoeres spp
+32,26,0,Mycteroperca spp,Holacanthus spp
+32,27,0,Mycteroperca spp,Kyphosus spp
+32,28,0,Mycteroperca spp,Lachnolaimus maximus
+32,29,0,Mycteroperca spp,Lutjanus analis
+32,3,0,Mycteroperca spp,Acanthurus coeruleus
+32,30,0,Mycteroperca spp,Lutjanus griseus
+32,31,0,Mycteroperca spp,Lutjanus jocu
+32,32,16,Mycteroperca spp,Mycteroperca spp
+32,33,0,Mycteroperca spp,Nicholsina usta
+32,34,0,Mycteroperca spp,Ocyurus chrysurus
+32,35,0,Mycteroperca spp,Pomacanthus arcuatus
+32,36,0,Mycteroperca spp,Pomacanthus paru
+32,37,0,Mycteroperca spp,Rhomboplites aurorubens
+32,38,0,Mycteroperca spp,Scarus coelestinus
+32,39,0,Mycteroperca spp,Scarus coeruleus
+32,4,0,Mycteroperca spp,Anisotremus virginicus
+32,40,0,Mycteroperca spp,Scarus guacamaia
+32,41,0,Mycteroperca spp,Scarus iseri
+32,42,0,Mycteroperca spp,Scarus juvenil
+32,43,0,Mycteroperca spp,Scarus taeniopterus
+32,44,0,Mycteroperca spp,Scarus vetula
+32,45,0,Mycteroperca spp,Sparisoma aurofrenatum
+32,46,0,Mycteroperca spp,Sparisoma chrysopterum
+32,47,0,Mycteroperca spp,Sparisoma rubripinne FI
+32,48,0,Mycteroperca spp,Sparisoma viride
+32,49,0,Mycteroperca spp,Sparisoma viride FI
+32,5,0,Mycteroperca spp,Azurina cyanea
+32,50,0,Mycteroperca spp,Sphyraena barracuda
+32,51,0,Mycteroperca spp,Urobatis jamaicensis
+32,52,0,Mycteroperca spp,unidentifiable
+32,6,0,Mycteroperca spp,Bodianus rufus
+32,7,0,Mycteroperca spp,Calamus spp
+32,8,0,Mycteroperca spp,Caranx bartholomaei
+32,9,0,Mycteroperca spp,Caranx latus
+32,background,8,Mycteroperca spp,background
+33,0,0,Nicholsina usta,fish
+33,1,0,Nicholsina usta,Abudefduf saxatilis
+33,10,0,Nicholsina usta,Caranx ruber
+33,11,0,Nicholsina usta,Cephalopholis cruentata
+33,12,0,Nicholsina usta,Chaetodon capistratus
+33,13,0,Nicholsina usta,Chaetodon ocellatus
+33,14,0,Nicholsina usta,Chaetodon sedentarius
+33,15,0,Nicholsina usta,Chaetodon striatus
+33,16,0,Nicholsina usta,Chromis scotti
+33,17,0,Nicholsina usta,Diodon spp
+33,18,1,Nicholsina usta,Epinephelus spp
+33,19,0,Nicholsina usta,Ginglymostoma cirratum
+33,2,0,Nicholsina usta,Acanthurus chirurgus
+33,20,0,Nicholsina usta,Haemulon flavolineatum
+33,21,0,Nicholsina usta,Haemulon juvenil
+33,22,0,Nicholsina usta,Haemulon plumierii
+33,23,0,Nicholsina usta,Haemulon plumierii juvenil
+33,24,0,Nicholsina usta,Haemulon sciurus
+33,25,0,Nicholsina usta,Halichoeres spp
+33,26,0,Nicholsina usta,Holacanthus spp
+33,27,0,Nicholsina usta,Kyphosus spp
+33,28,0,Nicholsina usta,Lachnolaimus maximus
+33,29,0,Nicholsina usta,Lutjanus analis
+33,3,0,Nicholsina usta,Acanthurus coeruleus
+33,30,0,Nicholsina usta,Lutjanus griseus
+33,31,0,Nicholsina usta,Lutjanus jocu
+33,32,0,Nicholsina usta,Mycteroperca spp
+33,33,6,Nicholsina usta,Nicholsina usta
+33,34,0,Nicholsina usta,Ocyurus chrysurus
+33,35,0,Nicholsina usta,Pomacanthus arcuatus
+33,36,0,Nicholsina usta,Pomacanthus paru
+33,37,0,Nicholsina usta,Rhomboplites aurorubens
+33,38,0,Nicholsina usta,Scarus coelestinus
+33,39,0,Nicholsina usta,Scarus coeruleus
+33,4,0,Nicholsina usta,Anisotremus virginicus
+33,40,0,Nicholsina usta,Scarus guacamaia
+33,41,2,Nicholsina usta,Scarus iseri
+33,42,0,Nicholsina usta,Scarus juvenil
+33,43,0,Nicholsina usta,Scarus taeniopterus
+33,44,0,Nicholsina usta,Scarus vetula
+33,45,0,Nicholsina usta,Sparisoma aurofrenatum
+33,46,0,Nicholsina usta,Sparisoma chrysopterum
+33,47,0,Nicholsina usta,Sparisoma rubripinne FI
+33,48,0,Nicholsina usta,Sparisoma viride
+33,49,0,Nicholsina usta,Sparisoma viride FI
+33,5,0,Nicholsina usta,Azurina cyanea
+33,50,0,Nicholsina usta,Sphyraena barracuda
+33,51,0,Nicholsina usta,Urobatis jamaicensis
+33,52,0,Nicholsina usta,unidentifiable
+33,6,0,Nicholsina usta,Bodianus rufus
+33,7,0,Nicholsina usta,Calamus spp
+33,8,0,Nicholsina usta,Caranx bartholomaei
+33,9,0,Nicholsina usta,Caranx latus
+33,background,16,Nicholsina usta,background
+34,0,0,Ocyurus chrysurus,fish
+34,1,0,Ocyurus chrysurus,Abudefduf saxatilis
+34,10,0,Ocyurus chrysurus,Caranx ruber
+34,11,0,Ocyurus chrysurus,Cephalopholis cruentata
+34,12,0,Ocyurus chrysurus,Chaetodon capistratus
+34,13,0,Ocyurus chrysurus,Chaetodon ocellatus
+34,14,0,Ocyurus chrysurus,Chaetodon sedentarius
+34,15,0,Ocyurus chrysurus,Chaetodon striatus
+34,16,0,Ocyurus chrysurus,Chromis scotti
+34,17,0,Ocyurus chrysurus,Diodon spp
+34,18,0,Ocyurus chrysurus,Epinephelus spp
+34,19,0,Ocyurus chrysurus,Ginglymostoma cirratum
+34,2,0,Ocyurus chrysurus,Acanthurus chirurgus
+34,20,0,Ocyurus chrysurus,Haemulon flavolineatum
+34,21,0,Ocyurus chrysurus,Haemulon juvenil
+34,22,0,Ocyurus chrysurus,Haemulon plumierii
+34,23,0,Ocyurus chrysurus,Haemulon plumierii juvenil
+34,24,0,Ocyurus chrysurus,Haemulon sciurus
+34,25,0,Ocyurus chrysurus,Halichoeres spp
+34,26,0,Ocyurus chrysurus,Holacanthus spp
+34,27,0,Ocyurus chrysurus,Kyphosus spp
+34,28,0,Ocyurus chrysurus,Lachnolaimus maximus
+34,29,0,Ocyurus chrysurus,Lutjanus analis
+34,3,0,Ocyurus chrysurus,Acanthurus coeruleus
+34,30,0,Ocyurus chrysurus,Lutjanus griseus
+34,31,0,Ocyurus chrysurus,Lutjanus jocu
+34,32,0,Ocyurus chrysurus,Mycteroperca spp
+34,33,0,Ocyurus chrysurus,Nicholsina usta
+34,34,38,Ocyurus chrysurus,Ocyurus chrysurus
+34,35,0,Ocyurus chrysurus,Pomacanthus arcuatus
+34,36,0,Ocyurus chrysurus,Pomacanthus paru
+34,37,0,Ocyurus chrysurus,Rhomboplites aurorubens
+34,38,0,Ocyurus chrysurus,Scarus coelestinus
+34,39,0,Ocyurus chrysurus,Scarus coeruleus
+34,4,0,Ocyurus chrysurus,Anisotremus virginicus
+34,40,0,Ocyurus chrysurus,Scarus guacamaia
+34,41,0,Ocyurus chrysurus,Scarus iseri
+34,42,0,Ocyurus chrysurus,Scarus juvenil
+34,43,0,Ocyurus chrysurus,Scarus taeniopterus
+34,44,0,Ocyurus chrysurus,Scarus vetula
+34,45,0,Ocyurus chrysurus,Sparisoma aurofrenatum
+34,46,0,Ocyurus chrysurus,Sparisoma chrysopterum
+34,47,0,Ocyurus chrysurus,Sparisoma rubripinne FI
+34,48,0,Ocyurus chrysurus,Sparisoma viride
+34,49,0,Ocyurus chrysurus,Sparisoma viride FI
+34,5,0,Ocyurus chrysurus,Azurina cyanea
+34,50,0,Ocyurus chrysurus,Sphyraena barracuda
+34,51,0,Ocyurus chrysurus,Urobatis jamaicensis
+34,52,0,Ocyurus chrysurus,unidentifiable
+34,6,0,Ocyurus chrysurus,Bodianus rufus
+34,7,0,Ocyurus chrysurus,Calamus spp
+34,8,0,Ocyurus chrysurus,Caranx bartholomaei
+34,9,0,Ocyurus chrysurus,Caranx latus
+34,background,8,Ocyurus chrysurus,background
+35,0,0,Pomacanthus arcuatus,fish
+35,1,0,Pomacanthus arcuatus,Abudefduf saxatilis
+35,10,0,Pomacanthus arcuatus,Caranx ruber
+35,11,0,Pomacanthus arcuatus,Cephalopholis cruentata
+35,12,0,Pomacanthus arcuatus,Chaetodon capistratus
+35,13,0,Pomacanthus arcuatus,Chaetodon ocellatus
+35,14,0,Pomacanthus arcuatus,Chaetodon sedentarius
+35,15,0,Pomacanthus arcuatus,Chaetodon striatus
+35,16,0,Pomacanthus arcuatus,Chromis scotti
+35,17,0,Pomacanthus arcuatus,Diodon spp
+35,18,0,Pomacanthus arcuatus,Epinephelus spp
+35,19,0,Pomacanthus arcuatus,Ginglymostoma cirratum
+35,2,0,Pomacanthus arcuatus,Acanthurus chirurgus
+35,20,0,Pomacanthus arcuatus,Haemulon flavolineatum
+35,21,0,Pomacanthus arcuatus,Haemulon juvenil
+35,22,0,Pomacanthus arcuatus,Haemulon plumierii
+35,23,0,Pomacanthus arcuatus,Haemulon plumierii juvenil
+35,24,0,Pomacanthus arcuatus,Haemulon sciurus
+35,25,0,Pomacanthus arcuatus,Halichoeres spp
+35,26,0,Pomacanthus arcuatus,Holacanthus spp
+35,27,0,Pomacanthus arcuatus,Kyphosus spp
+35,28,0,Pomacanthus arcuatus,Lachnolaimus maximus
+35,29,0,Pomacanthus arcuatus,Lutjanus analis
+35,3,0,Pomacanthus arcuatus,Acanthurus coeruleus
+35,30,0,Pomacanthus arcuatus,Lutjanus griseus
+35,31,0,Pomacanthus arcuatus,Lutjanus jocu
+35,32,0,Pomacanthus arcuatus,Mycteroperca spp
+35,33,0,Pomacanthus arcuatus,Nicholsina usta
+35,34,0,Pomacanthus arcuatus,Ocyurus chrysurus
+35,35,14,Pomacanthus arcuatus,Pomacanthus arcuatus
+35,36,0,Pomacanthus arcuatus,Pomacanthus paru
+35,37,0,Pomacanthus arcuatus,Rhomboplites aurorubens
+35,38,0,Pomacanthus arcuatus,Scarus coelestinus
+35,39,0,Pomacanthus arcuatus,Scarus coeruleus
+35,4,0,Pomacanthus arcuatus,Anisotremus virginicus
+35,40,0,Pomacanthus arcuatus,Scarus guacamaia
+35,41,0,Pomacanthus arcuatus,Scarus iseri
+35,42,0,Pomacanthus arcuatus,Scarus juvenil
+35,43,0,Pomacanthus arcuatus,Scarus taeniopterus
+35,44,0,Pomacanthus arcuatus,Scarus vetula
+35,45,0,Pomacanthus arcuatus,Sparisoma aurofrenatum
+35,46,0,Pomacanthus arcuatus,Sparisoma chrysopterum
+35,47,0,Pomacanthus arcuatus,Sparisoma rubripinne FI
+35,48,0,Pomacanthus arcuatus,Sparisoma viride
+35,49,0,Pomacanthus arcuatus,Sparisoma viride FI
+35,5,0,Pomacanthus arcuatus,Azurina cyanea
+35,50,0,Pomacanthus arcuatus,Sphyraena barracuda
+35,51,0,Pomacanthus arcuatus,Urobatis jamaicensis
+35,52,0,Pomacanthus arcuatus,unidentifiable
+35,6,0,Pomacanthus arcuatus,Bodianus rufus
+35,7,0,Pomacanthus arcuatus,Calamus spp
+35,8,0,Pomacanthus arcuatus,Caranx bartholomaei
+35,9,0,Pomacanthus arcuatus,Caranx latus
+35,background,12,Pomacanthus arcuatus,background
+36,0,0,Pomacanthus paru,fish
+36,1,0,Pomacanthus paru,Abudefduf saxatilis
+36,10,0,Pomacanthus paru,Caranx ruber
+36,11,0,Pomacanthus paru,Cephalopholis cruentata
+36,12,0,Pomacanthus paru,Chaetodon capistratus
+36,13,0,Pomacanthus paru,Chaetodon ocellatus
+36,14,0,Pomacanthus paru,Chaetodon sedentarius
+36,15,0,Pomacanthus paru,Chaetodon striatus
+36,16,0,Pomacanthus paru,Chromis scotti
+36,17,0,Pomacanthus paru,Diodon spp
+36,18,0,Pomacanthus paru,Epinephelus spp
+36,19,0,Pomacanthus paru,Ginglymostoma cirratum
+36,2,0,Pomacanthus paru,Acanthurus chirurgus
+36,20,0,Pomacanthus paru,Haemulon flavolineatum
+36,21,0,Pomacanthus paru,Haemulon juvenil
+36,22,0,Pomacanthus paru,Haemulon plumierii
+36,23,0,Pomacanthus paru,Haemulon plumierii juvenil
+36,24,0,Pomacanthus paru,Haemulon sciurus
+36,25,0,Pomacanthus paru,Halichoeres spp
+36,26,0,Pomacanthus paru,Holacanthus spp
+36,27,0,Pomacanthus paru,Kyphosus spp
+36,28,0,Pomacanthus paru,Lachnolaimus maximus
+36,29,0,Pomacanthus paru,Lutjanus analis
+36,3,0,Pomacanthus paru,Acanthurus coeruleus
+36,30,2,Pomacanthus paru,Lutjanus griseus
+36,31,0,Pomacanthus paru,Lutjanus jocu
+36,32,0,Pomacanthus paru,Mycteroperca spp
+36,33,0,Pomacanthus paru,Nicholsina usta
+36,34,0,Pomacanthus paru,Ocyurus chrysurus
+36,35,0,Pomacanthus paru,Pomacanthus arcuatus
+36,36,12,Pomacanthus paru,Pomacanthus paru
+36,37,0,Pomacanthus paru,Rhomboplites aurorubens
+36,38,0,Pomacanthus paru,Scarus coelestinus
+36,39,0,Pomacanthus paru,Scarus coeruleus
+36,4,0,Pomacanthus paru,Anisotremus virginicus
+36,40,0,Pomacanthus paru,Scarus guacamaia
+36,41,0,Pomacanthus paru,Scarus iseri
+36,42,0,Pomacanthus paru,Scarus juvenil
+36,43,0,Pomacanthus paru,Scarus taeniopterus
+36,44,0,Pomacanthus paru,Scarus vetula
+36,45,0,Pomacanthus paru,Sparisoma aurofrenatum
+36,46,0,Pomacanthus paru,Sparisoma chrysopterum
+36,47,0,Pomacanthus paru,Sparisoma rubripinne FI
+36,48,0,Pomacanthus paru,Sparisoma viride
+36,49,0,Pomacanthus paru,Sparisoma viride FI
+36,5,0,Pomacanthus paru,Azurina cyanea
+36,50,0,Pomacanthus paru,Sphyraena barracuda
+36,51,0,Pomacanthus paru,Urobatis jamaicensis
+36,52,0,Pomacanthus paru,unidentifiable
+36,6,0,Pomacanthus paru,Bodianus rufus
+36,7,0,Pomacanthus paru,Calamus spp
+36,8,0,Pomacanthus paru,Caranx bartholomaei
+36,9,0,Pomacanthus paru,Caranx latus
+36,background,7,Pomacanthus paru,background
+37,0,0,Rhomboplites aurorubens,fish
+37,1,0,Rhomboplites aurorubens,Abudefduf saxatilis
+37,10,0,Rhomboplites aurorubens,Caranx ruber
+37,11,0,Rhomboplites aurorubens,Cephalopholis cruentata
+37,12,0,Rhomboplites aurorubens,Chaetodon capistratus
+37,13,0,Rhomboplites aurorubens,Chaetodon ocellatus
+37,14,0,Rhomboplites aurorubens,Chaetodon sedentarius
+37,15,0,Rhomboplites aurorubens,Chaetodon striatus
+37,16,0,Rhomboplites aurorubens,Chromis scotti
+37,17,0,Rhomboplites aurorubens,Diodon spp
+37,18,0,Rhomboplites aurorubens,Epinephelus spp
+37,19,0,Rhomboplites aurorubens,Ginglymostoma cirratum
+37,2,0,Rhomboplites aurorubens,Acanthurus chirurgus
+37,20,0,Rhomboplites aurorubens,Haemulon flavolineatum
+37,21,0,Rhomboplites aurorubens,Haemulon juvenil
+37,22,0,Rhomboplites aurorubens,Haemulon plumierii
+37,23,0,Rhomboplites aurorubens,Haemulon plumierii juvenil
+37,24,0,Rhomboplites aurorubens,Haemulon sciurus
+37,25,0,Rhomboplites aurorubens,Halichoeres spp
+37,26,0,Rhomboplites aurorubens,Holacanthus spp
+37,27,0,Rhomboplites aurorubens,Kyphosus spp
+37,28,0,Rhomboplites aurorubens,Lachnolaimus maximus
+37,29,0,Rhomboplites aurorubens,Lutjanus analis
+37,3,0,Rhomboplites aurorubens,Acanthurus coeruleus
+37,30,0,Rhomboplites aurorubens,Lutjanus griseus
+37,31,0,Rhomboplites aurorubens,Lutjanus jocu
+37,32,0,Rhomboplites aurorubens,Mycteroperca spp
+37,33,0,Rhomboplites aurorubens,Nicholsina usta
+37,34,0,Rhomboplites aurorubens,Ocyurus chrysurus
+37,35,0,Rhomboplites aurorubens,Pomacanthus arcuatus
+37,36,0,Rhomboplites aurorubens,Pomacanthus paru
+37,37,37,Rhomboplites aurorubens,Rhomboplites aurorubens
+37,38,0,Rhomboplites aurorubens,Scarus coelestinus
+37,39,0,Rhomboplites aurorubens,Scarus coeruleus
+37,4,0,Rhomboplites aurorubens,Anisotremus virginicus
+37,40,0,Rhomboplites aurorubens,Scarus guacamaia
+37,41,0,Rhomboplites aurorubens,Scarus iseri
+37,42,0,Rhomboplites aurorubens,Scarus juvenil
+37,43,0,Rhomboplites aurorubens,Scarus taeniopterus
+37,44,0,Rhomboplites aurorubens,Scarus vetula
+37,45,0,Rhomboplites aurorubens,Sparisoma aurofrenatum
+37,46,0,Rhomboplites aurorubens,Sparisoma chrysopterum
+37,47,0,Rhomboplites aurorubens,Sparisoma rubripinne FI
+37,48,0,Rhomboplites aurorubens,Sparisoma viride
+37,49,0,Rhomboplites aurorubens,Sparisoma viride FI
+37,5,0,Rhomboplites aurorubens,Azurina cyanea
+37,50,0,Rhomboplites aurorubens,Sphyraena barracuda
+37,51,0,Rhomboplites aurorubens,Urobatis jamaicensis
+37,52,0,Rhomboplites aurorubens,unidentifiable
+37,6,0,Rhomboplites aurorubens,Bodianus rufus
+37,7,0,Rhomboplites aurorubens,Calamus spp
+37,8,0,Rhomboplites aurorubens,Caranx bartholomaei
+37,9,0,Rhomboplites aurorubens,Caranx latus
+37,background,21,Rhomboplites aurorubens,background
+38,0,0,Scarus coelestinus,fish
+38,1,0,Scarus coelestinus,Abudefduf saxatilis
+38,10,0,Scarus coelestinus,Caranx ruber
+38,11,0,Scarus coelestinus,Cephalopholis cruentata
+38,12,0,Scarus coelestinus,Chaetodon capistratus
+38,13,0,Scarus coelestinus,Chaetodon ocellatus
+38,14,0,Scarus coelestinus,Chaetodon sedentarius
+38,15,0,Scarus coelestinus,Chaetodon striatus
+38,16,0,Scarus coelestinus,Chromis scotti
+38,17,0,Scarus coelestinus,Diodon spp
+38,18,0,Scarus coelestinus,Epinephelus spp
+38,19,0,Scarus coelestinus,Ginglymostoma cirratum
+38,2,0,Scarus coelestinus,Acanthurus chirurgus
+38,20,0,Scarus coelestinus,Haemulon flavolineatum
+38,21,0,Scarus coelestinus,Haemulon juvenil
+38,22,0,Scarus coelestinus,Haemulon plumierii
+38,23,0,Scarus coelestinus,Haemulon plumierii juvenil
+38,24,0,Scarus coelestinus,Haemulon sciurus
+38,25,0,Scarus coelestinus,Halichoeres spp
+38,26,0,Scarus coelestinus,Holacanthus spp
+38,27,0,Scarus coelestinus,Kyphosus spp
+38,28,0,Scarus coelestinus,Lachnolaimus maximus
+38,29,0,Scarus coelestinus,Lutjanus analis
+38,3,0,Scarus coelestinus,Acanthurus coeruleus
+38,30,0,Scarus coelestinus,Lutjanus griseus
+38,31,0,Scarus coelestinus,Lutjanus jocu
+38,32,0,Scarus coelestinus,Mycteroperca spp
+38,33,0,Scarus coelestinus,Nicholsina usta
+38,34,0,Scarus coelestinus,Ocyurus chrysurus
+38,35,0,Scarus coelestinus,Pomacanthus arcuatus
+38,36,0,Scarus coelestinus,Pomacanthus paru
+38,37,0,Scarus coelestinus,Rhomboplites aurorubens
+38,38,16,Scarus coelestinus,Scarus coelestinus
+38,39,0,Scarus coelestinus,Scarus coeruleus
+38,4,0,Scarus coelestinus,Anisotremus virginicus
+38,40,0,Scarus coelestinus,Scarus guacamaia
+38,41,0,Scarus coelestinus,Scarus iseri
+38,42,0,Scarus coelestinus,Scarus juvenil
+38,43,0,Scarus coelestinus,Scarus taeniopterus
+38,44,0,Scarus coelestinus,Scarus vetula
+38,45,0,Scarus coelestinus,Sparisoma aurofrenatum
+38,46,0,Scarus coelestinus,Sparisoma chrysopterum
+38,47,0,Scarus coelestinus,Sparisoma rubripinne FI
+38,48,0,Scarus coelestinus,Sparisoma viride
+38,49,0,Scarus coelestinus,Sparisoma viride FI
+38,5,0,Scarus coelestinus,Azurina cyanea
+38,50,0,Scarus coelestinus,Sphyraena barracuda
+38,51,0,Scarus coelestinus,Urobatis jamaicensis
+38,52,2,Scarus coelestinus,unidentifiable
+38,6,0,Scarus coelestinus,Bodianus rufus
+38,7,0,Scarus coelestinus,Calamus spp
+38,8,0,Scarus coelestinus,Caranx bartholomaei
+38,9,0,Scarus coelestinus,Caranx latus
+38,background,3,Scarus coelestinus,background
+39,0,0,Scarus coeruleus,fish
+39,1,0,Scarus coeruleus,Abudefduf saxatilis
+39,10,0,Scarus coeruleus,Caranx ruber
+39,11,0,Scarus coeruleus,Cephalopholis cruentata
+39,12,0,Scarus coeruleus,Chaetodon capistratus
+39,13,0,Scarus coeruleus,Chaetodon ocellatus
+39,14,0,Scarus coeruleus,Chaetodon sedentarius
+39,15,0,Scarus coeruleus,Chaetodon striatus
+39,16,0,Scarus coeruleus,Chromis scotti
+39,17,0,Scarus coeruleus,Diodon spp
+39,18,0,Scarus coeruleus,Epinephelus spp
+39,19,0,Scarus coeruleus,Ginglymostoma cirratum
+39,2,0,Scarus coeruleus,Acanthurus chirurgus
+39,20,0,Scarus coeruleus,Haemulon flavolineatum
+39,21,0,Scarus coeruleus,Haemulon juvenil
+39,22,0,Scarus coeruleus,Haemulon plumierii
+39,23,0,Scarus coeruleus,Haemulon plumierii juvenil
+39,24,0,Scarus coeruleus,Haemulon sciurus
+39,25,0,Scarus coeruleus,Halichoeres spp
+39,26,0,Scarus coeruleus,Holacanthus spp
+39,27,0,Scarus coeruleus,Kyphosus spp
+39,28,0,Scarus coeruleus,Lachnolaimus maximus
+39,29,0,Scarus coeruleus,Lutjanus analis
+39,3,0,Scarus coeruleus,Acanthurus coeruleus
+39,30,0,Scarus coeruleus,Lutjanus griseus
+39,31,0,Scarus coeruleus,Lutjanus jocu
+39,32,0,Scarus coeruleus,Mycteroperca spp
+39,33,0,Scarus coeruleus,Nicholsina usta
+39,34,0,Scarus coeruleus,Ocyurus chrysurus
+39,35,0,Scarus coeruleus,Pomacanthus arcuatus
+39,36,0,Scarus coeruleus,Pomacanthus paru
+39,37,0,Scarus coeruleus,Rhomboplites aurorubens
+39,38,0,Scarus coeruleus,Scarus coelestinus
+39,39,23,Scarus coeruleus,Scarus coeruleus
+39,4,0,Scarus coeruleus,Anisotremus virginicus
+39,40,0,Scarus coeruleus,Scarus guacamaia
+39,41,6,Scarus coeruleus,Scarus iseri
+39,42,0,Scarus coeruleus,Scarus juvenil
+39,43,0,Scarus coeruleus,Scarus taeniopterus
+39,44,0,Scarus coeruleus,Scarus vetula
+39,45,0,Scarus coeruleus,Sparisoma aurofrenatum
+39,46,0,Scarus coeruleus,Sparisoma chrysopterum
+39,47,0,Scarus coeruleus,Sparisoma rubripinne FI
+39,48,0,Scarus coeruleus,Sparisoma viride
+39,49,0,Scarus coeruleus,Sparisoma viride FI
+39,5,0,Scarus coeruleus,Azurina cyanea
+39,50,0,Scarus coeruleus,Sphyraena barracuda
+39,51,0,Scarus coeruleus,Urobatis jamaicensis
+39,52,0,Scarus coeruleus,unidentifiable
+39,6,0,Scarus coeruleus,Bodianus rufus
+39,7,0,Scarus coeruleus,Calamus spp
+39,8,0,Scarus coeruleus,Caranx bartholomaei
+39,9,0,Scarus coeruleus,Caranx latus
+39,background,2,Scarus coeruleus,background
+4,0,0,Anisotremus virginicus,fish
+4,1,1,Anisotremus virginicus,Abudefduf saxatilis
+4,10,0,Anisotremus virginicus,Caranx ruber
+4,11,0,Anisotremus virginicus,Cephalopholis cruentata
+4,12,0,Anisotremus virginicus,Chaetodon capistratus
+4,13,0,Anisotremus virginicus,Chaetodon ocellatus
+4,14,0,Anisotremus virginicus,Chaetodon sedentarius
+4,15,0,Anisotremus virginicus,Chaetodon striatus
+4,16,0,Anisotremus virginicus,Chromis scotti
+4,17,0,Anisotremus virginicus,Diodon spp
+4,18,0,Anisotremus virginicus,Epinephelus spp
+4,19,0,Anisotremus virginicus,Ginglymostoma cirratum
+4,2,0,Anisotremus virginicus,Acanthurus chirurgus
+4,20,0,Anisotremus virginicus,Haemulon flavolineatum
+4,21,0,Anisotremus virginicus,Haemulon juvenil
+4,22,0,Anisotremus virginicus,Haemulon plumierii
+4,23,0,Anisotremus virginicus,Haemulon plumierii juvenil
+4,24,0,Anisotremus virginicus,Haemulon sciurus
+4,25,0,Anisotremus virginicus,Halichoeres spp
+4,26,0,Anisotremus virginicus,Holacanthus spp
+4,27,0,Anisotremus virginicus,Kyphosus spp
+4,28,0,Anisotremus virginicus,Lachnolaimus maximus
+4,29,0,Anisotremus virginicus,Lutjanus analis
+4,3,0,Anisotremus virginicus,Acanthurus coeruleus
+4,30,0,Anisotremus virginicus,Lutjanus griseus
+4,31,0,Anisotremus virginicus,Lutjanus jocu
+4,32,0,Anisotremus virginicus,Mycteroperca spp
+4,33,0,Anisotremus virginicus,Nicholsina usta
+4,34,2,Anisotremus virginicus,Ocyurus chrysurus
+4,35,0,Anisotremus virginicus,Pomacanthus arcuatus
+4,36,0,Anisotremus virginicus,Pomacanthus paru
+4,37,0,Anisotremus virginicus,Rhomboplites aurorubens
+4,38,0,Anisotremus virginicus,Scarus coelestinus
+4,39,0,Anisotremus virginicus,Scarus coeruleus
+4,4,30,Anisotremus virginicus,Anisotremus virginicus
+4,40,0,Anisotremus virginicus,Scarus guacamaia
+4,41,0,Anisotremus virginicus,Scarus iseri
+4,42,0,Anisotremus virginicus,Scarus juvenil
+4,43,0,Anisotremus virginicus,Scarus taeniopterus
+4,44,0,Anisotremus virginicus,Scarus vetula
+4,45,0,Anisotremus virginicus,Sparisoma aurofrenatum
+4,46,0,Anisotremus virginicus,Sparisoma chrysopterum
+4,47,0,Anisotremus virginicus,Sparisoma rubripinne FI
+4,48,0,Anisotremus virginicus,Sparisoma viride
+4,49,0,Anisotremus virginicus,Sparisoma viride FI
+4,5,0,Anisotremus virginicus,Azurina cyanea
+4,50,0,Anisotremus virginicus,Sphyraena barracuda
+4,51,0,Anisotremus virginicus,Urobatis jamaicensis
+4,52,0,Anisotremus virginicus,unidentifiable
+4,6,0,Anisotremus virginicus,Bodianus rufus
+4,7,0,Anisotremus virginicus,Calamus spp
+4,8,0,Anisotremus virginicus,Caranx bartholomaei
+4,9,0,Anisotremus virginicus,Caranx latus
+4,background,3,Anisotremus virginicus,background
+40,0,0,Scarus guacamaia,fish
+40,1,0,Scarus guacamaia,Abudefduf saxatilis
+40,10,0,Scarus guacamaia,Caranx ruber
+40,11,0,Scarus guacamaia,Cephalopholis cruentata
+40,12,0,Scarus guacamaia,Chaetodon capistratus
+40,13,0,Scarus guacamaia,Chaetodon ocellatus
+40,14,0,Scarus guacamaia,Chaetodon sedentarius
+40,15,0,Scarus guacamaia,Chaetodon striatus
+40,16,0,Scarus guacamaia,Chromis scotti
+40,17,0,Scarus guacamaia,Diodon spp
+40,18,1,Scarus guacamaia,Epinephelus spp
+40,19,0,Scarus guacamaia,Ginglymostoma cirratum
+40,2,0,Scarus guacamaia,Acanthurus chirurgus
+40,20,0,Scarus guacamaia,Haemulon flavolineatum
+40,21,0,Scarus guacamaia,Haemulon juvenil
+40,22,0,Scarus guacamaia,Haemulon plumierii
+40,23,0,Scarus guacamaia,Haemulon plumierii juvenil
+40,24,0,Scarus guacamaia,Haemulon sciurus
+40,25,0,Scarus guacamaia,Halichoeres spp
+40,26,0,Scarus guacamaia,Holacanthus spp
+40,27,0,Scarus guacamaia,Kyphosus spp
+40,28,0,Scarus guacamaia,Lachnolaimus maximus
+40,29,0,Scarus guacamaia,Lutjanus analis
+40,3,0,Scarus guacamaia,Acanthurus coeruleus
+40,30,0,Scarus guacamaia,Lutjanus griseus
+40,31,0,Scarus guacamaia,Lutjanus jocu
+40,32,0,Scarus guacamaia,Mycteroperca spp
+40,33,0,Scarus guacamaia,Nicholsina usta
+40,34,0,Scarus guacamaia,Ocyurus chrysurus
+40,35,0,Scarus guacamaia,Pomacanthus arcuatus
+40,36,0,Scarus guacamaia,Pomacanthus paru
+40,37,0,Scarus guacamaia,Rhomboplites aurorubens
+40,38,0,Scarus guacamaia,Scarus coelestinus
+40,39,0,Scarus guacamaia,Scarus coeruleus
+40,4,0,Scarus guacamaia,Anisotremus virginicus
+40,40,20,Scarus guacamaia,Scarus guacamaia
+40,41,0,Scarus guacamaia,Scarus iseri
+40,42,0,Scarus guacamaia,Scarus juvenil
+40,43,0,Scarus guacamaia,Scarus taeniopterus
+40,44,0,Scarus guacamaia,Scarus vetula
+40,45,0,Scarus guacamaia,Sparisoma aurofrenatum
+40,46,0,Scarus guacamaia,Sparisoma chrysopterum
+40,47,0,Scarus guacamaia,Sparisoma rubripinne FI
+40,48,0,Scarus guacamaia,Sparisoma viride
+40,49,0,Scarus guacamaia,Sparisoma viride FI
+40,5,0,Scarus guacamaia,Azurina cyanea
+40,50,0,Scarus guacamaia,Sphyraena barracuda
+40,51,0,Scarus guacamaia,Urobatis jamaicensis
+40,52,0,Scarus guacamaia,unidentifiable
+40,6,0,Scarus guacamaia,Bodianus rufus
+40,7,0,Scarus guacamaia,Calamus spp
+40,8,0,Scarus guacamaia,Caranx bartholomaei
+40,9,0,Scarus guacamaia,Caranx latus
+40,background,9,Scarus guacamaia,background
+41,0,0,Scarus iseri,fish
+41,1,0,Scarus iseri,Abudefduf saxatilis
+41,10,0,Scarus iseri,Caranx ruber
+41,11,0,Scarus iseri,Cephalopholis cruentata
+41,12,0,Scarus iseri,Chaetodon capistratus
+41,13,0,Scarus iseri,Chaetodon ocellatus
+41,14,0,Scarus iseri,Chaetodon sedentarius
+41,15,0,Scarus iseri,Chaetodon striatus
+41,16,0,Scarus iseri,Chromis scotti
+41,17,0,Scarus iseri,Diodon spp
+41,18,0,Scarus iseri,Epinephelus spp
+41,19,0,Scarus iseri,Ginglymostoma cirratum
+41,2,0,Scarus iseri,Acanthurus chirurgus
+41,20,0,Scarus iseri,Haemulon flavolineatum
+41,21,0,Scarus iseri,Haemulon juvenil
+41,22,0,Scarus iseri,Haemulon plumierii
+41,23,0,Scarus iseri,Haemulon plumierii juvenil
+41,24,0,Scarus iseri,Haemulon sciurus
+41,25,0,Scarus iseri,Halichoeres spp
+41,26,0,Scarus iseri,Holacanthus spp
+41,27,0,Scarus iseri,Kyphosus spp
+41,28,0,Scarus iseri,Lachnolaimus maximus
+41,29,0,Scarus iseri,Lutjanus analis
+41,3,0,Scarus iseri,Acanthurus coeruleus
+41,30,0,Scarus iseri,Lutjanus griseus
+41,31,0,Scarus iseri,Lutjanus jocu
+41,32,0,Scarus iseri,Mycteroperca spp
+41,33,0,Scarus iseri,Nicholsina usta
+41,34,0,Scarus iseri,Ocyurus chrysurus
+41,35,0,Scarus iseri,Pomacanthus arcuatus
+41,36,0,Scarus iseri,Pomacanthus paru
+41,37,0,Scarus iseri,Rhomboplites aurorubens
+41,38,0,Scarus iseri,Scarus coelestinus
+41,39,0,Scarus iseri,Scarus coeruleus
+41,4,0,Scarus iseri,Anisotremus virginicus
+41,40,0,Scarus iseri,Scarus guacamaia
+41,41,13,Scarus iseri,Scarus iseri
+41,42,3,Scarus iseri,Scarus juvenil
+41,43,0,Scarus iseri,Scarus taeniopterus
+41,44,0,Scarus iseri,Scarus vetula
+41,45,0,Scarus iseri,Sparisoma aurofrenatum
+41,46,0,Scarus iseri,Sparisoma chrysopterum
+41,47,0,Scarus iseri,Sparisoma rubripinne FI
+41,48,0,Scarus iseri,Sparisoma viride
+41,49,0,Scarus iseri,Sparisoma viride FI
+41,5,0,Scarus iseri,Azurina cyanea
+41,50,0,Scarus iseri,Sphyraena barracuda
+41,51,0,Scarus iseri,Urobatis jamaicensis
+41,52,0,Scarus iseri,unidentifiable
+41,6,0,Scarus iseri,Bodianus rufus
+41,7,0,Scarus iseri,Calamus spp
+41,8,0,Scarus iseri,Caranx bartholomaei
+41,9,0,Scarus iseri,Caranx latus
+41,background,6,Scarus iseri,background
+42,0,0,Scarus juvenil,fish
+42,1,0,Scarus juvenil,Abudefduf saxatilis
+42,10,0,Scarus juvenil,Caranx ruber
+42,11,0,Scarus juvenil,Cephalopholis cruentata
+42,12,0,Scarus juvenil,Chaetodon capistratus
+42,13,0,Scarus juvenil,Chaetodon ocellatus
+42,14,0,Scarus juvenil,Chaetodon sedentarius
+42,15,0,Scarus juvenil,Chaetodon striatus
+42,16,0,Scarus juvenil,Chromis scotti
+42,17,0,Scarus juvenil,Diodon spp
+42,18,0,Scarus juvenil,Epinephelus spp
+42,19,0,Scarus juvenil,Ginglymostoma cirratum
+42,2,0,Scarus juvenil,Acanthurus chirurgus
+42,20,0,Scarus juvenil,Haemulon flavolineatum
+42,21,2,Scarus juvenil,Haemulon juvenil
+42,22,0,Scarus juvenil,Haemulon plumierii
+42,23,0,Scarus juvenil,Haemulon plumierii juvenil
+42,24,0,Scarus juvenil,Haemulon sciurus
+42,25,0,Scarus juvenil,Halichoeres spp
+42,26,0,Scarus juvenil,Holacanthus spp
+42,27,0,Scarus juvenil,Kyphosus spp
+42,28,0,Scarus juvenil,Lachnolaimus maximus
+42,29,0,Scarus juvenil,Lutjanus analis
+42,3,0,Scarus juvenil,Acanthurus coeruleus
+42,30,0,Scarus juvenil,Lutjanus griseus
+42,31,0,Scarus juvenil,Lutjanus jocu
+42,32,0,Scarus juvenil,Mycteroperca spp
+42,33,0,Scarus juvenil,Nicholsina usta
+42,34,0,Scarus juvenil,Ocyurus chrysurus
+42,35,0,Scarus juvenil,Pomacanthus arcuatus
+42,36,0,Scarus juvenil,Pomacanthus paru
+42,37,0,Scarus juvenil,Rhomboplites aurorubens
+42,38,0,Scarus juvenil,Scarus coelestinus
+42,39,0,Scarus juvenil,Scarus coeruleus
+42,4,0,Scarus juvenil,Anisotremus virginicus
+42,40,0,Scarus juvenil,Scarus guacamaia
+42,41,0,Scarus juvenil,Scarus iseri
+42,42,5,Scarus juvenil,Scarus juvenil
+42,43,0,Scarus juvenil,Scarus taeniopterus
+42,44,0,Scarus juvenil,Scarus vetula
+42,45,0,Scarus juvenil,Sparisoma aurofrenatum
+42,46,0,Scarus juvenil,Sparisoma chrysopterum
+42,47,0,Scarus juvenil,Sparisoma rubripinne FI
+42,48,0,Scarus juvenil,Sparisoma viride
+42,49,0,Scarus juvenil,Sparisoma viride FI
+42,5,0,Scarus juvenil,Azurina cyanea
+42,50,0,Scarus juvenil,Sphyraena barracuda
+42,51,0,Scarus juvenil,Urobatis jamaicensis
+42,52,4,Scarus juvenil,unidentifiable
+42,6,0,Scarus juvenil,Bodianus rufus
+42,7,0,Scarus juvenil,Calamus spp
+42,8,0,Scarus juvenil,Caranx bartholomaei
+42,9,0,Scarus juvenil,Caranx latus
+42,background,9,Scarus juvenil,background
+43,0,0,Scarus taeniopterus,fish
+43,1,0,Scarus taeniopterus,Abudefduf saxatilis
+43,10,0,Scarus taeniopterus,Caranx ruber
+43,11,0,Scarus taeniopterus,Cephalopholis cruentata
+43,12,0,Scarus taeniopterus,Chaetodon capistratus
+43,13,0,Scarus taeniopterus,Chaetodon ocellatus
+43,14,0,Scarus taeniopterus,Chaetodon sedentarius
+43,15,0,Scarus taeniopterus,Chaetodon striatus
+43,16,0,Scarus taeniopterus,Chromis scotti
+43,17,0,Scarus taeniopterus,Diodon spp
+43,18,0,Scarus taeniopterus,Epinephelus spp
+43,19,0,Scarus taeniopterus,Ginglymostoma cirratum
+43,2,0,Scarus taeniopterus,Acanthurus chirurgus
+43,20,0,Scarus taeniopterus,Haemulon flavolineatum
+43,21,0,Scarus taeniopterus,Haemulon juvenil
+43,22,0,Scarus taeniopterus,Haemulon plumierii
+43,23,0,Scarus taeniopterus,Haemulon plumierii juvenil
+43,24,0,Scarus taeniopterus,Haemulon sciurus
+43,25,0,Scarus taeniopterus,Halichoeres spp
+43,26,0,Scarus taeniopterus,Holacanthus spp
+43,27,0,Scarus taeniopterus,Kyphosus spp
+43,28,0,Scarus taeniopterus,Lachnolaimus maximus
+43,29,0,Scarus taeniopterus,Lutjanus analis
+43,3,0,Scarus taeniopterus,Acanthurus coeruleus
+43,30,0,Scarus taeniopterus,Lutjanus griseus
+43,31,0,Scarus taeniopterus,Lutjanus jocu
+43,32,0,Scarus taeniopterus,Mycteroperca spp
+43,33,0,Scarus taeniopterus,Nicholsina usta
+43,34,0,Scarus taeniopterus,Ocyurus chrysurus
+43,35,0,Scarus taeniopterus,Pomacanthus arcuatus
+43,36,0,Scarus taeniopterus,Pomacanthus paru
+43,37,0,Scarus taeniopterus,Rhomboplites aurorubens
+43,38,0,Scarus taeniopterus,Scarus coelestinus
+43,39,0,Scarus taeniopterus,Scarus coeruleus
+43,4,0,Scarus taeniopterus,Anisotremus virginicus
+43,40,0,Scarus taeniopterus,Scarus guacamaia
+43,41,2,Scarus taeniopterus,Scarus iseri
+43,42,0,Scarus taeniopterus,Scarus juvenil
+43,43,13,Scarus taeniopterus,Scarus taeniopterus
+43,44,1,Scarus taeniopterus,Scarus vetula
+43,45,0,Scarus taeniopterus,Sparisoma aurofrenatum
+43,46,0,Scarus taeniopterus,Sparisoma chrysopterum
+43,47,0,Scarus taeniopterus,Sparisoma rubripinne FI
+43,48,0,Scarus taeniopterus,Sparisoma viride
+43,49,0,Scarus taeniopterus,Sparisoma viride FI
+43,5,0,Scarus taeniopterus,Azurina cyanea
+43,50,0,Scarus taeniopterus,Sphyraena barracuda
+43,51,0,Scarus taeniopterus,Urobatis jamaicensis
+43,52,0,Scarus taeniopterus,unidentifiable
+43,6,0,Scarus taeniopterus,Bodianus rufus
+43,7,0,Scarus taeniopterus,Calamus spp
+43,8,0,Scarus taeniopterus,Caranx bartholomaei
+43,9,0,Scarus taeniopterus,Caranx latus
+43,background,5,Scarus taeniopterus,background
+44,0,0,Scarus vetula,fish
+44,1,0,Scarus vetula,Abudefduf saxatilis
+44,10,0,Scarus vetula,Caranx ruber
+44,11,0,Scarus vetula,Cephalopholis cruentata
+44,12,0,Scarus vetula,Chaetodon capistratus
+44,13,0,Scarus vetula,Chaetodon ocellatus
+44,14,0,Scarus vetula,Chaetodon sedentarius
+44,15,0,Scarus vetula,Chaetodon striatus
+44,16,0,Scarus vetula,Chromis scotti
+44,17,0,Scarus vetula,Diodon spp
+44,18,0,Scarus vetula,Epinephelus spp
+44,19,0,Scarus vetula,Ginglymostoma cirratum
+44,2,0,Scarus vetula,Acanthurus chirurgus
+44,20,0,Scarus vetula,Haemulon flavolineatum
+44,21,0,Scarus vetula,Haemulon juvenil
+44,22,0,Scarus vetula,Haemulon plumierii
+44,23,0,Scarus vetula,Haemulon plumierii juvenil
+44,24,0,Scarus vetula,Haemulon sciurus
+44,25,0,Scarus vetula,Halichoeres spp
+44,26,0,Scarus vetula,Holacanthus spp
+44,27,0,Scarus vetula,Kyphosus spp
+44,28,0,Scarus vetula,Lachnolaimus maximus
+44,29,0,Scarus vetula,Lutjanus analis
+44,3,0,Scarus vetula,Acanthurus coeruleus
+44,30,0,Scarus vetula,Lutjanus griseus
+44,31,0,Scarus vetula,Lutjanus jocu
+44,32,0,Scarus vetula,Mycteroperca spp
+44,33,0,Scarus vetula,Nicholsina usta
+44,34,0,Scarus vetula,Ocyurus chrysurus
+44,35,0,Scarus vetula,Pomacanthus arcuatus
+44,36,0,Scarus vetula,Pomacanthus paru
+44,37,0,Scarus vetula,Rhomboplites aurorubens
+44,38,2,Scarus vetula,Scarus coelestinus
+44,39,0,Scarus vetula,Scarus coeruleus
+44,4,0,Scarus vetula,Anisotremus virginicus
+44,40,2,Scarus vetula,Scarus guacamaia
+44,41,0,Scarus vetula,Scarus iseri
+44,42,0,Scarus vetula,Scarus juvenil
+44,43,0,Scarus vetula,Scarus taeniopterus
+44,44,6,Scarus vetula,Scarus vetula
+44,45,0,Scarus vetula,Sparisoma aurofrenatum
+44,46,2,Scarus vetula,Sparisoma chrysopterum
+44,47,0,Scarus vetula,Sparisoma rubripinne FI
+44,48,3,Scarus vetula,Sparisoma viride
+44,49,0,Scarus vetula,Sparisoma viride FI
+44,5,0,Scarus vetula,Azurina cyanea
+44,50,0,Scarus vetula,Sphyraena barracuda
+44,51,0,Scarus vetula,Urobatis jamaicensis
+44,52,0,Scarus vetula,unidentifiable
+44,6,0,Scarus vetula,Bodianus rufus
+44,7,0,Scarus vetula,Calamus spp
+44,8,0,Scarus vetula,Caranx bartholomaei
+44,9,0,Scarus vetula,Caranx latus
+44,background,8,Scarus vetula,background
+45,0,0,Sparisoma aurofrenatum,fish
+45,1,0,Sparisoma aurofrenatum,Abudefduf saxatilis
+45,10,0,Sparisoma aurofrenatum,Caranx ruber
+45,11,0,Sparisoma aurofrenatum,Cephalopholis cruentata
+45,12,0,Sparisoma aurofrenatum,Chaetodon capistratus
+45,13,0,Sparisoma aurofrenatum,Chaetodon ocellatus
+45,14,0,Sparisoma aurofrenatum,Chaetodon sedentarius
+45,15,0,Sparisoma aurofrenatum,Chaetodon striatus
+45,16,0,Sparisoma aurofrenatum,Chromis scotti
+45,17,0,Sparisoma aurofrenatum,Diodon spp
+45,18,0,Sparisoma aurofrenatum,Epinephelus spp
+45,19,0,Sparisoma aurofrenatum,Ginglymostoma cirratum
+45,2,0,Sparisoma aurofrenatum,Acanthurus chirurgus
+45,20,0,Sparisoma aurofrenatum,Haemulon flavolineatum
+45,21,0,Sparisoma aurofrenatum,Haemulon juvenil
+45,22,0,Sparisoma aurofrenatum,Haemulon plumierii
+45,23,0,Sparisoma aurofrenatum,Haemulon plumierii juvenil
+45,24,0,Sparisoma aurofrenatum,Haemulon sciurus
+45,25,0,Sparisoma aurofrenatum,Halichoeres spp
+45,26,0,Sparisoma aurofrenatum,Holacanthus spp
+45,27,0,Sparisoma aurofrenatum,Kyphosus spp
+45,28,0,Sparisoma aurofrenatum,Lachnolaimus maximus
+45,29,0,Sparisoma aurofrenatum,Lutjanus analis
+45,3,0,Sparisoma aurofrenatum,Acanthurus coeruleus
+45,30,0,Sparisoma aurofrenatum,Lutjanus griseus
+45,31,0,Sparisoma aurofrenatum,Lutjanus jocu
+45,32,0,Sparisoma aurofrenatum,Mycteroperca spp
+45,33,0,Sparisoma aurofrenatum,Nicholsina usta
+45,34,0,Sparisoma aurofrenatum,Ocyurus chrysurus
+45,35,0,Sparisoma aurofrenatum,Pomacanthus arcuatus
+45,36,0,Sparisoma aurofrenatum,Pomacanthus paru
+45,37,0,Sparisoma aurofrenatum,Rhomboplites aurorubens
+45,38,0,Sparisoma aurofrenatum,Scarus coelestinus
+45,39,0,Sparisoma aurofrenatum,Scarus coeruleus
+45,4,0,Sparisoma aurofrenatum,Anisotremus virginicus
+45,40,0,Sparisoma aurofrenatum,Scarus guacamaia
+45,41,0,Sparisoma aurofrenatum,Scarus iseri
+45,42,0,Sparisoma aurofrenatum,Scarus juvenil
+45,43,0,Sparisoma aurofrenatum,Scarus taeniopterus
+45,44,0,Sparisoma aurofrenatum,Scarus vetula
+45,45,16,Sparisoma aurofrenatum,Sparisoma aurofrenatum
+45,46,1,Sparisoma aurofrenatum,Sparisoma chrysopterum
+45,47,0,Sparisoma aurofrenatum,Sparisoma rubripinne FI
+45,48,2,Sparisoma aurofrenatum,Sparisoma viride
+45,49,0,Sparisoma aurofrenatum,Sparisoma viride FI
+45,5,0,Sparisoma aurofrenatum,Azurina cyanea
+45,50,0,Sparisoma aurofrenatum,Sphyraena barracuda
+45,51,0,Sparisoma aurofrenatum,Urobatis jamaicensis
+45,52,0,Sparisoma aurofrenatum,unidentifiable
+45,6,0,Sparisoma aurofrenatum,Bodianus rufus
+45,7,0,Sparisoma aurofrenatum,Calamus spp
+45,8,0,Sparisoma aurofrenatum,Caranx bartholomaei
+45,9,0,Sparisoma aurofrenatum,Caranx latus
+45,background,7,Sparisoma aurofrenatum,background
+46,0,0,Sparisoma chrysopterum,fish
+46,1,0,Sparisoma chrysopterum,Abudefduf saxatilis
+46,10,0,Sparisoma chrysopterum,Caranx ruber
+46,11,0,Sparisoma chrysopterum,Cephalopholis cruentata
+46,12,0,Sparisoma chrysopterum,Chaetodon capistratus
+46,13,0,Sparisoma chrysopterum,Chaetodon ocellatus
+46,14,0,Sparisoma chrysopterum,Chaetodon sedentarius
+46,15,0,Sparisoma chrysopterum,Chaetodon striatus
+46,16,0,Sparisoma chrysopterum,Chromis scotti
+46,17,0,Sparisoma chrysopterum,Diodon spp
+46,18,0,Sparisoma chrysopterum,Epinephelus spp
+46,19,0,Sparisoma chrysopterum,Ginglymostoma cirratum
+46,2,0,Sparisoma chrysopterum,Acanthurus chirurgus
+46,20,0,Sparisoma chrysopterum,Haemulon flavolineatum
+46,21,0,Sparisoma chrysopterum,Haemulon juvenil
+46,22,0,Sparisoma chrysopterum,Haemulon plumierii
+46,23,0,Sparisoma chrysopterum,Haemulon plumierii juvenil
+46,24,0,Sparisoma chrysopterum,Haemulon sciurus
+46,25,0,Sparisoma chrysopterum,Halichoeres spp
+46,26,0,Sparisoma chrysopterum,Holacanthus spp
+46,27,0,Sparisoma chrysopterum,Kyphosus spp
+46,28,0,Sparisoma chrysopterum,Lachnolaimus maximus
+46,29,0,Sparisoma chrysopterum,Lutjanus analis
+46,3,0,Sparisoma chrysopterum,Acanthurus coeruleus
+46,30,0,Sparisoma chrysopterum,Lutjanus griseus
+46,31,0,Sparisoma chrysopterum,Lutjanus jocu
+46,32,0,Sparisoma chrysopterum,Mycteroperca spp
+46,33,0,Sparisoma chrysopterum,Nicholsina usta
+46,34,0,Sparisoma chrysopterum,Ocyurus chrysurus
+46,35,0,Sparisoma chrysopterum,Pomacanthus arcuatus
+46,36,0,Sparisoma chrysopterum,Pomacanthus paru
+46,37,0,Sparisoma chrysopterum,Rhomboplites aurorubens
+46,38,0,Sparisoma chrysopterum,Scarus coelestinus
+46,39,0,Sparisoma chrysopterum,Scarus coeruleus
+46,4,0,Sparisoma chrysopterum,Anisotremus virginicus
+46,40,0,Sparisoma chrysopterum,Scarus guacamaia
+46,41,0,Sparisoma chrysopterum,Scarus iseri
+46,42,0,Sparisoma chrysopterum,Scarus juvenil
+46,43,0,Sparisoma chrysopterum,Scarus taeniopterus
+46,44,0,Sparisoma chrysopterum,Scarus vetula
+46,45,0,Sparisoma chrysopterum,Sparisoma aurofrenatum
+46,46,12,Sparisoma chrysopterum,Sparisoma chrysopterum
+46,47,0,Sparisoma chrysopterum,Sparisoma rubripinne FI
+46,48,1,Sparisoma chrysopterum,Sparisoma viride
+46,49,0,Sparisoma chrysopterum,Sparisoma viride FI
+46,5,0,Sparisoma chrysopterum,Azurina cyanea
+46,50,0,Sparisoma chrysopterum,Sphyraena barracuda
+46,51,0,Sparisoma chrysopterum,Urobatis jamaicensis
+46,52,0,Sparisoma chrysopterum,unidentifiable
+46,6,0,Sparisoma chrysopterum,Bodianus rufus
+46,7,0,Sparisoma chrysopterum,Calamus spp
+46,8,0,Sparisoma chrysopterum,Caranx bartholomaei
+46,9,0,Sparisoma chrysopterum,Caranx latus
+46,background,8,Sparisoma chrysopterum,background
+47,0,0,Sparisoma rubripinne FI,fish
+47,1,0,Sparisoma rubripinne FI,Abudefduf saxatilis
+47,10,0,Sparisoma rubripinne FI,Caranx ruber
+47,11,0,Sparisoma rubripinne FI,Cephalopholis cruentata
+47,12,0,Sparisoma rubripinne FI,Chaetodon capistratus
+47,13,0,Sparisoma rubripinne FI,Chaetodon ocellatus
+47,14,0,Sparisoma rubripinne FI,Chaetodon sedentarius
+47,15,0,Sparisoma rubripinne FI,Chaetodon striatus
+47,16,0,Sparisoma rubripinne FI,Chromis scotti
+47,17,0,Sparisoma rubripinne FI,Diodon spp
+47,18,0,Sparisoma rubripinne FI,Epinephelus spp
+47,19,0,Sparisoma rubripinne FI,Ginglymostoma cirratum
+47,2,0,Sparisoma rubripinne FI,Acanthurus chirurgus
+47,20,0,Sparisoma rubripinne FI,Haemulon flavolineatum
+47,21,0,Sparisoma rubripinne FI,Haemulon juvenil
+47,22,0,Sparisoma rubripinne FI,Haemulon plumierii
+47,23,0,Sparisoma rubripinne FI,Haemulon plumierii juvenil
+47,24,0,Sparisoma rubripinne FI,Haemulon sciurus
+47,25,0,Sparisoma rubripinne FI,Halichoeres spp
+47,26,0,Sparisoma rubripinne FI,Holacanthus spp
+47,27,0,Sparisoma rubripinne FI,Kyphosus spp
+47,28,0,Sparisoma rubripinne FI,Lachnolaimus maximus
+47,29,0,Sparisoma rubripinne FI,Lutjanus analis
+47,3,0,Sparisoma rubripinne FI,Acanthurus coeruleus
+47,30,0,Sparisoma rubripinne FI,Lutjanus griseus
+47,31,0,Sparisoma rubripinne FI,Lutjanus jocu
+47,32,0,Sparisoma rubripinne FI,Mycteroperca spp
+47,33,0,Sparisoma rubripinne FI,Nicholsina usta
+47,34,4,Sparisoma rubripinne FI,Ocyurus chrysurus
+47,35,0,Sparisoma rubripinne FI,Pomacanthus arcuatus
+47,36,0,Sparisoma rubripinne FI,Pomacanthus paru
+47,37,0,Sparisoma rubripinne FI,Rhomboplites aurorubens
+47,38,0,Sparisoma rubripinne FI,Scarus coelestinus
+47,39,0,Sparisoma rubripinne FI,Scarus coeruleus
+47,4,0,Sparisoma rubripinne FI,Anisotremus virginicus
+47,40,0,Sparisoma rubripinne FI,Scarus guacamaia
+47,41,0,Sparisoma rubripinne FI,Scarus iseri
+47,42,0,Sparisoma rubripinne FI,Scarus juvenil
+47,43,0,Sparisoma rubripinne FI,Scarus taeniopterus
+47,44,0,Sparisoma rubripinne FI,Scarus vetula
+47,45,0,Sparisoma rubripinne FI,Sparisoma aurofrenatum
+47,46,0,Sparisoma rubripinne FI,Sparisoma chrysopterum
+47,47,16,Sparisoma rubripinne FI,Sparisoma rubripinne FI
+47,48,0,Sparisoma rubripinne FI,Sparisoma viride
+47,49,0,Sparisoma rubripinne FI,Sparisoma viride FI
+47,5,0,Sparisoma rubripinne FI,Azurina cyanea
+47,50,0,Sparisoma rubripinne FI,Sphyraena barracuda
+47,51,0,Sparisoma rubripinne FI,Urobatis jamaicensis
+47,52,0,Sparisoma rubripinne FI,unidentifiable
+47,6,0,Sparisoma rubripinne FI,Bodianus rufus
+47,7,0,Sparisoma rubripinne FI,Calamus spp
+47,8,0,Sparisoma rubripinne FI,Caranx bartholomaei
+47,9,0,Sparisoma rubripinne FI,Caranx latus
+47,background,3,Sparisoma rubripinne FI,background
+48,0,0,Sparisoma viride,fish
+48,1,0,Sparisoma viride,Abudefduf saxatilis
+48,10,0,Sparisoma viride,Caranx ruber
+48,11,0,Sparisoma viride,Cephalopholis cruentata
+48,12,0,Sparisoma viride,Chaetodon capistratus
+48,13,0,Sparisoma viride,Chaetodon ocellatus
+48,14,0,Sparisoma viride,Chaetodon sedentarius
+48,15,0,Sparisoma viride,Chaetodon striatus
+48,16,0,Sparisoma viride,Chromis scotti
+48,17,0,Sparisoma viride,Diodon spp
+48,18,0,Sparisoma viride,Epinephelus spp
+48,19,0,Sparisoma viride,Ginglymostoma cirratum
+48,2,0,Sparisoma viride,Acanthurus chirurgus
+48,20,0,Sparisoma viride,Haemulon flavolineatum
+48,21,0,Sparisoma viride,Haemulon juvenil
+48,22,0,Sparisoma viride,Haemulon plumierii
+48,23,0,Sparisoma viride,Haemulon plumierii juvenil
+48,24,0,Sparisoma viride,Haemulon sciurus
+48,25,0,Sparisoma viride,Halichoeres spp
+48,26,0,Sparisoma viride,Holacanthus spp
+48,27,0,Sparisoma viride,Kyphosus spp
+48,28,0,Sparisoma viride,Lachnolaimus maximus
+48,29,0,Sparisoma viride,Lutjanus analis
+48,3,0,Sparisoma viride,Acanthurus coeruleus
+48,30,0,Sparisoma viride,Lutjanus griseus
+48,31,0,Sparisoma viride,Lutjanus jocu
+48,32,0,Sparisoma viride,Mycteroperca spp
+48,33,0,Sparisoma viride,Nicholsina usta
+48,34,0,Sparisoma viride,Ocyurus chrysurus
+48,35,0,Sparisoma viride,Pomacanthus arcuatus
+48,36,0,Sparisoma viride,Pomacanthus paru
+48,37,0,Sparisoma viride,Rhomboplites aurorubens
+48,38,0,Sparisoma viride,Scarus coelestinus
+48,39,0,Sparisoma viride,Scarus coeruleus
+48,4,0,Sparisoma viride,Anisotremus virginicus
+48,40,0,Sparisoma viride,Scarus guacamaia
+48,41,0,Sparisoma viride,Scarus iseri
+48,42,0,Sparisoma viride,Scarus juvenil
+48,43,0,Sparisoma viride,Scarus taeniopterus
+48,44,0,Sparisoma viride,Scarus vetula
+48,45,0,Sparisoma viride,Sparisoma aurofrenatum
+48,46,0,Sparisoma viride,Sparisoma chrysopterum
+48,47,0,Sparisoma viride,Sparisoma rubripinne FI
+48,48,11,Sparisoma viride,Sparisoma viride
+48,49,0,Sparisoma viride,Sparisoma viride FI
+48,5,0,Sparisoma viride,Azurina cyanea
+48,50,0,Sparisoma viride,Sphyraena barracuda
+48,51,0,Sparisoma viride,Urobatis jamaicensis
+48,52,0,Sparisoma viride,unidentifiable
+48,6,0,Sparisoma viride,Bodianus rufus
+48,7,0,Sparisoma viride,Calamus spp
+48,8,0,Sparisoma viride,Caranx bartholomaei
+48,9,0,Sparisoma viride,Caranx latus
+48,background,7,Sparisoma viride,background
+49,0,0,Sparisoma viride FI,fish
+49,1,0,Sparisoma viride FI,Abudefduf saxatilis
+49,10,0,Sparisoma viride FI,Caranx ruber
+49,11,0,Sparisoma viride FI,Cephalopholis cruentata
+49,12,0,Sparisoma viride FI,Chaetodon capistratus
+49,13,0,Sparisoma viride FI,Chaetodon ocellatus
+49,14,0,Sparisoma viride FI,Chaetodon sedentarius
+49,15,0,Sparisoma viride FI,Chaetodon striatus
+49,16,0,Sparisoma viride FI,Chromis scotti
+49,17,0,Sparisoma viride FI,Diodon spp
+49,18,0,Sparisoma viride FI,Epinephelus spp
+49,19,0,Sparisoma viride FI,Ginglymostoma cirratum
+49,2,0,Sparisoma viride FI,Acanthurus chirurgus
+49,20,0,Sparisoma viride FI,Haemulon flavolineatum
+49,21,0,Sparisoma viride FI,Haemulon juvenil
+49,22,0,Sparisoma viride FI,Haemulon plumierii
+49,23,0,Sparisoma viride FI,Haemulon plumierii juvenil
+49,24,0,Sparisoma viride FI,Haemulon sciurus
+49,25,0,Sparisoma viride FI,Halichoeres spp
+49,26,0,Sparisoma viride FI,Holacanthus spp
+49,27,0,Sparisoma viride FI,Kyphosus spp
+49,28,0,Sparisoma viride FI,Lachnolaimus maximus
+49,29,0,Sparisoma viride FI,Lutjanus analis
+49,3,0,Sparisoma viride FI,Acanthurus coeruleus
+49,30,0,Sparisoma viride FI,Lutjanus griseus
+49,31,0,Sparisoma viride FI,Lutjanus jocu
+49,32,0,Sparisoma viride FI,Mycteroperca spp
+49,33,0,Sparisoma viride FI,Nicholsina usta
+49,34,0,Sparisoma viride FI,Ocyurus chrysurus
+49,35,0,Sparisoma viride FI,Pomacanthus arcuatus
+49,36,0,Sparisoma viride FI,Pomacanthus paru
+49,37,0,Sparisoma viride FI,Rhomboplites aurorubens
+49,38,0,Sparisoma viride FI,Scarus coelestinus
+49,39,0,Sparisoma viride FI,Scarus coeruleus
+49,4,0,Sparisoma viride FI,Anisotremus virginicus
+49,40,0,Sparisoma viride FI,Scarus guacamaia
+49,41,0,Sparisoma viride FI,Scarus iseri
+49,42,0,Sparisoma viride FI,Scarus juvenil
+49,43,0,Sparisoma viride FI,Scarus taeniopterus
+49,44,0,Sparisoma viride FI,Scarus vetula
+49,45,0,Sparisoma viride FI,Sparisoma aurofrenatum
+49,46,0,Sparisoma viride FI,Sparisoma chrysopterum
+49,47,0,Sparisoma viride FI,Sparisoma rubripinne FI
+49,48,0,Sparisoma viride FI,Sparisoma viride
+49,49,13,Sparisoma viride FI,Sparisoma viride FI
+49,5,0,Sparisoma viride FI,Azurina cyanea
+49,50,0,Sparisoma viride FI,Sphyraena barracuda
+49,51,0,Sparisoma viride FI,Urobatis jamaicensis
+49,52,0,Sparisoma viride FI,unidentifiable
+49,6,0,Sparisoma viride FI,Bodianus rufus
+49,7,0,Sparisoma viride FI,Calamus spp
+49,8,0,Sparisoma viride FI,Caranx bartholomaei
+49,9,0,Sparisoma viride FI,Caranx latus
+49,background,5,Sparisoma viride FI,background
+5,0,0,Azurina cyanea,fish
+5,1,0,Azurina cyanea,Abudefduf saxatilis
+5,10,0,Azurina cyanea,Caranx ruber
+5,11,0,Azurina cyanea,Cephalopholis cruentata
+5,12,0,Azurina cyanea,Chaetodon capistratus
+5,13,0,Azurina cyanea,Chaetodon ocellatus
+5,14,0,Azurina cyanea,Chaetodon sedentarius
+5,15,0,Azurina cyanea,Chaetodon striatus
+5,16,0,Azurina cyanea,Chromis scotti
+5,17,0,Azurina cyanea,Diodon spp
+5,18,0,Azurina cyanea,Epinephelus spp
+5,19,0,Azurina cyanea,Ginglymostoma cirratum
+5,2,0,Azurina cyanea,Acanthurus chirurgus
+5,20,0,Azurina cyanea,Haemulon flavolineatum
+5,21,0,Azurina cyanea,Haemulon juvenil
+5,22,0,Azurina cyanea,Haemulon plumierii
+5,23,0,Azurina cyanea,Haemulon plumierii juvenil
+5,24,0,Azurina cyanea,Haemulon sciurus
+5,25,0,Azurina cyanea,Halichoeres spp
+5,26,0,Azurina cyanea,Holacanthus spp
+5,27,0,Azurina cyanea,Kyphosus spp
+5,28,0,Azurina cyanea,Lachnolaimus maximus
+5,29,0,Azurina cyanea,Lutjanus analis
+5,3,0,Azurina cyanea,Acanthurus coeruleus
+5,30,0,Azurina cyanea,Lutjanus griseus
+5,31,0,Azurina cyanea,Lutjanus jocu
+5,32,0,Azurina cyanea,Mycteroperca spp
+5,33,0,Azurina cyanea,Nicholsina usta
+5,34,0,Azurina cyanea,Ocyurus chrysurus
+5,35,0,Azurina cyanea,Pomacanthus arcuatus
+5,36,0,Azurina cyanea,Pomacanthus paru
+5,37,0,Azurina cyanea,Rhomboplites aurorubens
+5,38,0,Azurina cyanea,Scarus coelestinus
+5,39,0,Azurina cyanea,Scarus coeruleus
+5,4,0,Azurina cyanea,Anisotremus virginicus
+5,40,0,Azurina cyanea,Scarus guacamaia
+5,41,0,Azurina cyanea,Scarus iseri
+5,42,0,Azurina cyanea,Scarus juvenil
+5,43,0,Azurina cyanea,Scarus taeniopterus
+5,44,0,Azurina cyanea,Scarus vetula
+5,45,0,Azurina cyanea,Sparisoma aurofrenatum
+5,46,0,Azurina cyanea,Sparisoma chrysopterum
+5,47,0,Azurina cyanea,Sparisoma rubripinne FI
+5,48,0,Azurina cyanea,Sparisoma viride
+5,49,0,Azurina cyanea,Sparisoma viride FI
+5,5,15,Azurina cyanea,Azurina cyanea
+5,50,0,Azurina cyanea,Sphyraena barracuda
+5,51,0,Azurina cyanea,Urobatis jamaicensis
+5,52,0,Azurina cyanea,unidentifiable
+5,6,0,Azurina cyanea,Bodianus rufus
+5,7,0,Azurina cyanea,Calamus spp
+5,8,0,Azurina cyanea,Caranx bartholomaei
+5,9,0,Azurina cyanea,Caranx latus
+5,background,6,Azurina cyanea,background
+50,0,0,Sphyraena barracuda,fish
+50,1,0,Sphyraena barracuda,Abudefduf saxatilis
+50,10,0,Sphyraena barracuda,Caranx ruber
+50,11,0,Sphyraena barracuda,Cephalopholis cruentata
+50,12,0,Sphyraena barracuda,Chaetodon capistratus
+50,13,0,Sphyraena barracuda,Chaetodon ocellatus
+50,14,0,Sphyraena barracuda,Chaetodon sedentarius
+50,15,0,Sphyraena barracuda,Chaetodon striatus
+50,16,0,Sphyraena barracuda,Chromis scotti
+50,17,0,Sphyraena barracuda,Diodon spp
+50,18,0,Sphyraena barracuda,Epinephelus spp
+50,19,0,Sphyraena barracuda,Ginglymostoma cirratum
+50,2,0,Sphyraena barracuda,Acanthurus chirurgus
+50,20,0,Sphyraena barracuda,Haemulon flavolineatum
+50,21,0,Sphyraena barracuda,Haemulon juvenil
+50,22,0,Sphyraena barracuda,Haemulon plumierii
+50,23,0,Sphyraena barracuda,Haemulon plumierii juvenil
+50,24,0,Sphyraena barracuda,Haemulon sciurus
+50,25,0,Sphyraena barracuda,Halichoeres spp
+50,26,0,Sphyraena barracuda,Holacanthus spp
+50,27,0,Sphyraena barracuda,Kyphosus spp
+50,28,0,Sphyraena barracuda,Lachnolaimus maximus
+50,29,0,Sphyraena barracuda,Lutjanus analis
+50,3,0,Sphyraena barracuda,Acanthurus coeruleus
+50,30,0,Sphyraena barracuda,Lutjanus griseus
+50,31,0,Sphyraena barracuda,Lutjanus jocu
+50,32,0,Sphyraena barracuda,Mycteroperca spp
+50,33,0,Sphyraena barracuda,Nicholsina usta
+50,34,0,Sphyraena barracuda,Ocyurus chrysurus
+50,35,0,Sphyraena barracuda,Pomacanthus arcuatus
+50,36,0,Sphyraena barracuda,Pomacanthus paru
+50,37,0,Sphyraena barracuda,Rhomboplites aurorubens
+50,38,0,Sphyraena barracuda,Scarus coelestinus
+50,39,0,Sphyraena barracuda,Scarus coeruleus
+50,4,0,Sphyraena barracuda,Anisotremus virginicus
+50,40,0,Sphyraena barracuda,Scarus guacamaia
+50,41,0,Sphyraena barracuda,Scarus iseri
+50,42,0,Sphyraena barracuda,Scarus juvenil
+50,43,0,Sphyraena barracuda,Scarus taeniopterus
+50,44,0,Sphyraena barracuda,Scarus vetula
+50,45,0,Sphyraena barracuda,Sparisoma aurofrenatum
+50,46,0,Sphyraena barracuda,Sparisoma chrysopterum
+50,47,0,Sphyraena barracuda,Sparisoma rubripinne FI
+50,48,0,Sphyraena barracuda,Sparisoma viride
+50,49,0,Sphyraena barracuda,Sparisoma viride FI
+50,5,0,Sphyraena barracuda,Azurina cyanea
+50,50,18,Sphyraena barracuda,Sphyraena barracuda
+50,51,0,Sphyraena barracuda,Urobatis jamaicensis
+50,52,0,Sphyraena barracuda,unidentifiable
+50,6,0,Sphyraena barracuda,Bodianus rufus
+50,7,0,Sphyraena barracuda,Calamus spp
+50,8,0,Sphyraena barracuda,Caranx bartholomaei
+50,9,0,Sphyraena barracuda,Caranx latus
+50,background,4,Sphyraena barracuda,background
+51,0,0,Urobatis jamaicensis,fish
+51,1,0,Urobatis jamaicensis,Abudefduf saxatilis
+51,10,0,Urobatis jamaicensis,Caranx ruber
+51,11,0,Urobatis jamaicensis,Cephalopholis cruentata
+51,12,0,Urobatis jamaicensis,Chaetodon capistratus
+51,13,0,Urobatis jamaicensis,Chaetodon ocellatus
+51,14,0,Urobatis jamaicensis,Chaetodon sedentarius
+51,15,0,Urobatis jamaicensis,Chaetodon striatus
+51,16,0,Urobatis jamaicensis,Chromis scotti
+51,17,1,Urobatis jamaicensis,Diodon spp
+51,18,0,Urobatis jamaicensis,Epinephelus spp
+51,19,0,Urobatis jamaicensis,Ginglymostoma cirratum
+51,2,0,Urobatis jamaicensis,Acanthurus chirurgus
+51,20,0,Urobatis jamaicensis,Haemulon flavolineatum
+51,21,0,Urobatis jamaicensis,Haemulon juvenil
+51,22,0,Urobatis jamaicensis,Haemulon plumierii
+51,23,0,Urobatis jamaicensis,Haemulon plumierii juvenil
+51,24,0,Urobatis jamaicensis,Haemulon sciurus
+51,25,0,Urobatis jamaicensis,Halichoeres spp
+51,26,0,Urobatis jamaicensis,Holacanthus spp
+51,27,0,Urobatis jamaicensis,Kyphosus spp
+51,28,0,Urobatis jamaicensis,Lachnolaimus maximus
+51,29,0,Urobatis jamaicensis,Lutjanus analis
+51,3,0,Urobatis jamaicensis,Acanthurus coeruleus
+51,30,0,Urobatis jamaicensis,Lutjanus griseus
+51,31,0,Urobatis jamaicensis,Lutjanus jocu
+51,32,0,Urobatis jamaicensis,Mycteroperca spp
+51,33,0,Urobatis jamaicensis,Nicholsina usta
+51,34,0,Urobatis jamaicensis,Ocyurus chrysurus
+51,35,0,Urobatis jamaicensis,Pomacanthus arcuatus
+51,36,0,Urobatis jamaicensis,Pomacanthus paru
+51,37,0,Urobatis jamaicensis,Rhomboplites aurorubens
+51,38,0,Urobatis jamaicensis,Scarus coelestinus
+51,39,0,Urobatis jamaicensis,Scarus coeruleus
+51,4,0,Urobatis jamaicensis,Anisotremus virginicus
+51,40,0,Urobatis jamaicensis,Scarus guacamaia
+51,41,0,Urobatis jamaicensis,Scarus iseri
+51,42,0,Urobatis jamaicensis,Scarus juvenil
+51,43,0,Urobatis jamaicensis,Scarus taeniopterus
+51,44,0,Urobatis jamaicensis,Scarus vetula
+51,45,0,Urobatis jamaicensis,Sparisoma aurofrenatum
+51,46,0,Urobatis jamaicensis,Sparisoma chrysopterum
+51,47,0,Urobatis jamaicensis,Sparisoma rubripinne FI
+51,48,0,Urobatis jamaicensis,Sparisoma viride
+51,49,0,Urobatis jamaicensis,Sparisoma viride FI
+51,5,0,Urobatis jamaicensis,Azurina cyanea
+51,50,0,Urobatis jamaicensis,Sphyraena barracuda
+51,51,14,Urobatis jamaicensis,Urobatis jamaicensis
+51,52,0,Urobatis jamaicensis,unidentifiable
+51,6,0,Urobatis jamaicensis,Bodianus rufus
+51,7,0,Urobatis jamaicensis,Calamus spp
+51,8,0,Urobatis jamaicensis,Caranx bartholomaei
+51,9,0,Urobatis jamaicensis,Caranx latus
+51,background,8,Urobatis jamaicensis,background
+52,0,0,unidentifiable,fish
+52,1,0,unidentifiable,Abudefduf saxatilis
+52,10,0,unidentifiable,Caranx ruber
+52,11,0,unidentifiable,Cephalopholis cruentata
+52,12,0,unidentifiable,Chaetodon capistratus
+52,13,0,unidentifiable,Chaetodon ocellatus
+52,14,0,unidentifiable,Chaetodon sedentarius
+52,15,0,unidentifiable,Chaetodon striatus
+52,16,0,unidentifiable,Chromis scotti
+52,17,0,unidentifiable,Diodon spp
+52,18,0,unidentifiable,Epinephelus spp
+52,19,0,unidentifiable,Ginglymostoma cirratum
+52,2,0,unidentifiable,Acanthurus chirurgus
+52,20,0,unidentifiable,Haemulon flavolineatum
+52,21,0,unidentifiable,Haemulon juvenil
+52,22,0,unidentifiable,Haemulon plumierii
+52,23,0,unidentifiable,Haemulon plumierii juvenil
+52,24,0,unidentifiable,Haemulon sciurus
+52,25,0,unidentifiable,Halichoeres spp
+52,26,0,unidentifiable,Holacanthus spp
+52,27,0,unidentifiable,Kyphosus spp
+52,28,0,unidentifiable,Lachnolaimus maximus
+52,29,0,unidentifiable,Lutjanus analis
+52,3,0,unidentifiable,Acanthurus coeruleus
+52,30,0,unidentifiable,Lutjanus griseus
+52,31,0,unidentifiable,Lutjanus jocu
+52,32,0,unidentifiable,Mycteroperca spp
+52,33,0,unidentifiable,Nicholsina usta
+52,34,2,unidentifiable,Ocyurus chrysurus
+52,35,0,unidentifiable,Pomacanthus arcuatus
+52,36,0,unidentifiable,Pomacanthus paru
+52,37,3,unidentifiable,Rhomboplites aurorubens
+52,38,0,unidentifiable,Scarus coelestinus
+52,39,0,unidentifiable,Scarus coeruleus
+52,4,0,unidentifiable,Anisotremus virginicus
+52,40,0,unidentifiable,Scarus guacamaia
+52,41,0,unidentifiable,Scarus iseri
+52,42,0,unidentifiable,Scarus juvenil
+52,43,0,unidentifiable,Scarus taeniopterus
+52,44,0,unidentifiable,Scarus vetula
+52,45,0,unidentifiable,Sparisoma aurofrenatum
+52,46,0,unidentifiable,Sparisoma chrysopterum
+52,47,0,unidentifiable,Sparisoma rubripinne FI
+52,48,0,unidentifiable,Sparisoma viride
+52,49,0,unidentifiable,Sparisoma viride FI
+52,5,0,unidentifiable,Azurina cyanea
+52,50,0,unidentifiable,Sphyraena barracuda
+52,51,0,unidentifiable,Urobatis jamaicensis
+52,52,4,unidentifiable,unidentifiable
+52,6,0,unidentifiable,Bodianus rufus
+52,7,0,unidentifiable,Calamus spp
+52,8,0,unidentifiable,Caranx bartholomaei
+52,9,0,unidentifiable,Caranx latus
+52,background,37,unidentifiable,background
+6,0,0,Bodianus rufus,fish
+6,1,0,Bodianus rufus,Abudefduf saxatilis
+6,10,0,Bodianus rufus,Caranx ruber
+6,11,0,Bodianus rufus,Cephalopholis cruentata
+6,12,0,Bodianus rufus,Chaetodon capistratus
+6,13,0,Bodianus rufus,Chaetodon ocellatus
+6,14,0,Bodianus rufus,Chaetodon sedentarius
+6,15,0,Bodianus rufus,Chaetodon striatus
+6,16,0,Bodianus rufus,Chromis scotti
+6,17,0,Bodianus rufus,Diodon spp
+6,18,0,Bodianus rufus,Epinephelus spp
+6,19,0,Bodianus rufus,Ginglymostoma cirratum
+6,2,0,Bodianus rufus,Acanthurus chirurgus
+6,20,0,Bodianus rufus,Haemulon flavolineatum
+6,21,0,Bodianus rufus,Haemulon juvenil
+6,22,0,Bodianus rufus,Haemulon plumierii
+6,23,0,Bodianus rufus,Haemulon plumierii juvenil
+6,24,0,Bodianus rufus,Haemulon sciurus
+6,25,1,Bodianus rufus,Halichoeres spp
+6,26,1,Bodianus rufus,Holacanthus spp
+6,27,0,Bodianus rufus,Kyphosus spp
+6,28,0,Bodianus rufus,Lachnolaimus maximus
+6,29,0,Bodianus rufus,Lutjanus analis
+6,3,0,Bodianus rufus,Acanthurus coeruleus
+6,30,0,Bodianus rufus,Lutjanus griseus
+6,31,0,Bodianus rufus,Lutjanus jocu
+6,32,0,Bodianus rufus,Mycteroperca spp
+6,33,0,Bodianus rufus,Nicholsina usta
+6,34,0,Bodianus rufus,Ocyurus chrysurus
+6,35,0,Bodianus rufus,Pomacanthus arcuatus
+6,36,0,Bodianus rufus,Pomacanthus paru
+6,37,0,Bodianus rufus,Rhomboplites aurorubens
+6,38,0,Bodianus rufus,Scarus coelestinus
+6,39,0,Bodianus rufus,Scarus coeruleus
+6,4,0,Bodianus rufus,Anisotremus virginicus
+6,40,0,Bodianus rufus,Scarus guacamaia
+6,41,0,Bodianus rufus,Scarus iseri
+6,42,0,Bodianus rufus,Scarus juvenil
+6,43,0,Bodianus rufus,Scarus taeniopterus
+6,44,0,Bodianus rufus,Scarus vetula
+6,45,2,Bodianus rufus,Sparisoma aurofrenatum
+6,46,0,Bodianus rufus,Sparisoma chrysopterum
+6,47,0,Bodianus rufus,Sparisoma rubripinne FI
+6,48,0,Bodianus rufus,Sparisoma viride
+6,49,0,Bodianus rufus,Sparisoma viride FI
+6,5,0,Bodianus rufus,Azurina cyanea
+6,50,0,Bodianus rufus,Sphyraena barracuda
+6,51,0,Bodianus rufus,Urobatis jamaicensis
+6,52,0,Bodianus rufus,unidentifiable
+6,6,11,Bodianus rufus,Bodianus rufus
+6,7,0,Bodianus rufus,Calamus spp
+6,8,0,Bodianus rufus,Caranx bartholomaei
+6,9,0,Bodianus rufus,Caranx latus
+6,background,13,Bodianus rufus,background
+7,0,0,Calamus spp,fish
+7,1,0,Calamus spp,Abudefduf saxatilis
+7,10,1,Calamus spp,Caranx ruber
+7,11,0,Calamus spp,Cephalopholis cruentata
+7,12,0,Calamus spp,Chaetodon capistratus
+7,13,0,Calamus spp,Chaetodon ocellatus
+7,14,0,Calamus spp,Chaetodon sedentarius
+7,15,0,Calamus spp,Chaetodon striatus
+7,16,0,Calamus spp,Chromis scotti
+7,17,0,Calamus spp,Diodon spp
+7,18,0,Calamus spp,Epinephelus spp
+7,19,0,Calamus spp,Ginglymostoma cirratum
+7,2,0,Calamus spp,Acanthurus chirurgus
+7,20,0,Calamus spp,Haemulon flavolineatum
+7,21,0,Calamus spp,Haemulon juvenil
+7,22,2,Calamus spp,Haemulon plumierii
+7,23,0,Calamus spp,Haemulon plumierii juvenil
+7,24,0,Calamus spp,Haemulon sciurus
+7,25,0,Calamus spp,Halichoeres spp
+7,26,2,Calamus spp,Holacanthus spp
+7,27,0,Calamus spp,Kyphosus spp
+7,28,0,Calamus spp,Lachnolaimus maximus
+7,29,0,Calamus spp,Lutjanus analis
+7,3,0,Calamus spp,Acanthurus coeruleus
+7,30,0,Calamus spp,Lutjanus griseus
+7,31,0,Calamus spp,Lutjanus jocu
+7,32,0,Calamus spp,Mycteroperca spp
+7,33,0,Calamus spp,Nicholsina usta
+7,34,0,Calamus spp,Ocyurus chrysurus
+7,35,0,Calamus spp,Pomacanthus arcuatus
+7,36,0,Calamus spp,Pomacanthus paru
+7,37,0,Calamus spp,Rhomboplites aurorubens
+7,38,0,Calamus spp,Scarus coelestinus
+7,39,0,Calamus spp,Scarus coeruleus
+7,4,0,Calamus spp,Anisotremus virginicus
+7,40,0,Calamus spp,Scarus guacamaia
+7,41,0,Calamus spp,Scarus iseri
+7,42,0,Calamus spp,Scarus juvenil
+7,43,0,Calamus spp,Scarus taeniopterus
+7,44,0,Calamus spp,Scarus vetula
+7,45,0,Calamus spp,Sparisoma aurofrenatum
+7,46,0,Calamus spp,Sparisoma chrysopterum
+7,47,0,Calamus spp,Sparisoma rubripinne FI
+7,48,0,Calamus spp,Sparisoma viride
+7,49,0,Calamus spp,Sparisoma viride FI
+7,5,0,Calamus spp,Azurina cyanea
+7,50,0,Calamus spp,Sphyraena barracuda
+7,51,0,Calamus spp,Urobatis jamaicensis
+7,52,2,Calamus spp,unidentifiable
+7,6,0,Calamus spp,Bodianus rufus
+7,7,11,Calamus spp,Calamus spp
+7,8,0,Calamus spp,Caranx bartholomaei
+7,9,0,Calamus spp,Caranx latus
+7,background,5,Calamus spp,background
+8,0,0,Caranx bartholomaei,fish
+8,1,0,Caranx bartholomaei,Abudefduf saxatilis
+8,10,0,Caranx bartholomaei,Caranx ruber
+8,11,0,Caranx bartholomaei,Cephalopholis cruentata
+8,12,0,Caranx bartholomaei,Chaetodon capistratus
+8,13,0,Caranx bartholomaei,Chaetodon ocellatus
+8,14,0,Caranx bartholomaei,Chaetodon sedentarius
+8,15,0,Caranx bartholomaei,Chaetodon striatus
+8,16,0,Caranx bartholomaei,Chromis scotti
+8,17,0,Caranx bartholomaei,Diodon spp
+8,18,0,Caranx bartholomaei,Epinephelus spp
+8,19,0,Caranx bartholomaei,Ginglymostoma cirratum
+8,2,0,Caranx bartholomaei,Acanthurus chirurgus
+8,20,0,Caranx bartholomaei,Haemulon flavolineatum
+8,21,0,Caranx bartholomaei,Haemulon juvenil
+8,22,0,Caranx bartholomaei,Haemulon plumierii
+8,23,0,Caranx bartholomaei,Haemulon plumierii juvenil
+8,24,0,Caranx bartholomaei,Haemulon sciurus
+8,25,0,Caranx bartholomaei,Halichoeres spp
+8,26,2,Caranx bartholomaei,Holacanthus spp
+8,27,0,Caranx bartholomaei,Kyphosus spp
+8,28,0,Caranx bartholomaei,Lachnolaimus maximus
+8,29,0,Caranx bartholomaei,Lutjanus analis
+8,3,0,Caranx bartholomaei,Acanthurus coeruleus
+8,30,0,Caranx bartholomaei,Lutjanus griseus
+8,31,0,Caranx bartholomaei,Lutjanus jocu
+8,32,0,Caranx bartholomaei,Mycteroperca spp
+8,33,0,Caranx bartholomaei,Nicholsina usta
+8,34,0,Caranx bartholomaei,Ocyurus chrysurus
+8,35,0,Caranx bartholomaei,Pomacanthus arcuatus
+8,36,0,Caranx bartholomaei,Pomacanthus paru
+8,37,0,Caranx bartholomaei,Rhomboplites aurorubens
+8,38,0,Caranx bartholomaei,Scarus coelestinus
+8,39,0,Caranx bartholomaei,Scarus coeruleus
+8,4,0,Caranx bartholomaei,Anisotremus virginicus
+8,40,0,Caranx bartholomaei,Scarus guacamaia
+8,41,0,Caranx bartholomaei,Scarus iseri
+8,42,0,Caranx bartholomaei,Scarus juvenil
+8,43,0,Caranx bartholomaei,Scarus taeniopterus
+8,44,0,Caranx bartholomaei,Scarus vetula
+8,45,0,Caranx bartholomaei,Sparisoma aurofrenatum
+8,46,0,Caranx bartholomaei,Sparisoma chrysopterum
+8,47,0,Caranx bartholomaei,Sparisoma rubripinne FI
+8,48,0,Caranx bartholomaei,Sparisoma viride
+8,49,0,Caranx bartholomaei,Sparisoma viride FI
+8,5,0,Caranx bartholomaei,Azurina cyanea
+8,50,0,Caranx bartholomaei,Sphyraena barracuda
+8,51,0,Caranx bartholomaei,Urobatis jamaicensis
+8,52,0,Caranx bartholomaei,unidentifiable
+8,6,0,Caranx bartholomaei,Bodianus rufus
+8,7,0,Caranx bartholomaei,Calamus spp
+8,8,24,Caranx bartholomaei,Caranx bartholomaei
+8,9,0,Caranx bartholomaei,Caranx latus
+8,background,9,Caranx bartholomaei,background
+9,0,0,Caranx latus,fish
+9,1,0,Caranx latus,Abudefduf saxatilis
+9,10,0,Caranx latus,Caranx ruber
+9,11,0,Caranx latus,Cephalopholis cruentata
+9,12,0,Caranx latus,Chaetodon capistratus
+9,13,0,Caranx latus,Chaetodon ocellatus
+9,14,0,Caranx latus,Chaetodon sedentarius
+9,15,0,Caranx latus,Chaetodon striatus
+9,16,0,Caranx latus,Chromis scotti
+9,17,0,Caranx latus,Diodon spp
+9,18,0,Caranx latus,Epinephelus spp
+9,19,0,Caranx latus,Ginglymostoma cirratum
+9,2,0,Caranx latus,Acanthurus chirurgus
+9,20,0,Caranx latus,Haemulon flavolineatum
+9,21,0,Caranx latus,Haemulon juvenil
+9,22,0,Caranx latus,Haemulon plumierii
+9,23,0,Caranx latus,Haemulon plumierii juvenil
+9,24,0,Caranx latus,Haemulon sciurus
+9,25,0,Caranx latus,Halichoeres spp
+9,26,0,Caranx latus,Holacanthus spp
+9,27,0,Caranx latus,Kyphosus spp
+9,28,0,Caranx latus,Lachnolaimus maximus
+9,29,0,Caranx latus,Lutjanus analis
+9,3,0,Caranx latus,Acanthurus coeruleus
+9,30,0,Caranx latus,Lutjanus griseus
+9,31,0,Caranx latus,Lutjanus jocu
+9,32,0,Caranx latus,Mycteroperca spp
+9,33,0,Caranx latus,Nicholsina usta
+9,34,0,Caranx latus,Ocyurus chrysurus
+9,35,0,Caranx latus,Pomacanthus arcuatus
+9,36,0,Caranx latus,Pomacanthus paru
+9,37,0,Caranx latus,Rhomboplites aurorubens
+9,38,0,Caranx latus,Scarus coelestinus
+9,39,0,Caranx latus,Scarus coeruleus
+9,4,0,Caranx latus,Anisotremus virginicus
+9,40,0,Caranx latus,Scarus guacamaia
+9,41,0,Caranx latus,Scarus iseri
+9,42,0,Caranx latus,Scarus juvenil
+9,43,0,Caranx latus,Scarus taeniopterus
+9,44,0,Caranx latus,Scarus vetula
+9,45,0,Caranx latus,Sparisoma aurofrenatum
+9,46,0,Caranx latus,Sparisoma chrysopterum
+9,47,0,Caranx latus,Sparisoma rubripinne FI
+9,48,0,Caranx latus,Sparisoma viride
+9,49,0,Caranx latus,Sparisoma viride FI
+9,5,0,Caranx latus,Azurina cyanea
+9,50,0,Caranx latus,Sphyraena barracuda
+9,51,0,Caranx latus,Urobatis jamaicensis
+9,52,0,Caranx latus,unidentifiable
+9,6,0,Caranx latus,Bodianus rufus
+9,7,0,Caranx latus,Calamus spp
+9,8,0,Caranx latus,Caranx bartholomaei
+9,9,127,Caranx latus,Caranx latus
+9,background,33,Caranx latus,background
+background,0,0,background,fish
+background,1,21,background,Abudefduf saxatilis
+background,10,0,background,Caranx ruber
+background,11,0,background,Cephalopholis cruentata
+background,12,1,background,Chaetodon capistratus
+background,13,1,background,Chaetodon ocellatus
+background,14,0,background,Chaetodon sedentarius
+background,15,0,background,Chaetodon striatus
+background,16,0,background,Chromis scotti
+background,17,6,background,Diodon spp
+background,18,1,background,Epinephelus spp
+background,19,0,background,Ginglymostoma cirratum
+background,2,3,background,Acanthurus chirurgus
+background,20,0,background,Haemulon flavolineatum
+background,21,17,background,Haemulon juvenil
+background,22,21,background,Haemulon plumierii
+background,23,0,background,Haemulon plumierii juvenil
+background,24,1,background,Haemulon sciurus
+background,25,0,background,Halichoeres spp
+background,26,4,background,Holacanthus spp
+background,27,0,background,Kyphosus spp
+background,28,2,background,Lachnolaimus maximus
+background,29,1,background,Lutjanus analis
+background,3,3,background,Acanthurus coeruleus
+background,30,5,background,Lutjanus griseus
+background,31,0,background,Lutjanus jocu
+background,32,1,background,Mycteroperca spp
+background,33,3,background,Nicholsina usta
+background,34,2,background,Ocyurus chrysurus
+background,35,1,background,Pomacanthus arcuatus
+background,36,0,background,Pomacanthus paru
+background,37,8,background,Rhomboplites aurorubens
+background,38,2,background,Scarus coelestinus
+background,39,0,background,Scarus coeruleus
+background,4,4,background,Anisotremus virginicus
+background,40,0,background,Scarus guacamaia
+background,41,2,background,Scarus iseri
+background,42,2,background,Scarus juvenil
+background,43,1,background,Scarus taeniopterus
+background,44,0,background,Scarus vetula
+background,45,4,background,Sparisoma aurofrenatum
+background,46,1,background,Sparisoma chrysopterum
+background,47,0,background,Sparisoma rubripinne FI
+background,48,1,background,Sparisoma viride
+background,49,2,background,Sparisoma viride FI
+background,5,2,background,Azurina cyanea
+background,50,1,background,Sphyraena barracuda
+background,51,1,background,Urobatis jamaicensis
+background,52,20,background,unidentifiable
+background,6,0,background,Bodianus rufus
+background,7,1,background,Calamus spp
+background,8,2,background,Caranx bartholomaei
+background,9,19,background,Caranx latus
+background,background,0,background,background

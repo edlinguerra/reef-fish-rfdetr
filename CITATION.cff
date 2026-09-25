@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and the archived software release."
+title: "Reef-fish RF-DETR reproducibility package"
+type: software
+authors:
+  - family-names: "AUTHOR LIST TO BE CONFIRMED"
+version: "0.1.0"
+date-released: "2026-09-24"
+repository-code: "REPOSITORY URL TO BE ADDED"
+identifiers:
+  - type: doi
+    value: "SOFTWARE DOI TO BE ADDED"
+    description: "Versioned software archive"
+preferred-citation:
+  type: article
+  title: "Scaling spatiotemporal reef-fish monitoring with computer vision in the southern Gulf of Mexico"
+  authors:
+    - family-names: "AUTHOR LIST TO BE CONFIRMED"
+  journal: "JOURNAL TO BE ADDED"
+  year: 2026
+  doi: "ARTICLE DOI TO BE ADDED"

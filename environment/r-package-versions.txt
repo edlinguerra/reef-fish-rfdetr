@@ -1,0 +1,17 @@
+# R environment
+
+The corrected analyses and figure-production environment retained the following installed package versions:
+
+| Package | Retained version |
+|---|---:|
+| dplyr | 1.2.1 |
+| ggplot2 | 4.0.3 |
+| jsonlite | 2.0.0 |
+| purrr | 1.2.2 |
+| readr | 2.2.0 |
+| svglite | 2.2.2 |
+| tibble | 3.3.1 |
+| tidyr | 1.3.2 |
+| uwot | 0.2.5 |
+
+The exact R interpreter version used for the accepted analyses was not retained in the controlling audit. Base `grid` and graphics packages are also used. No `renv.lock` is supplied because generating one now would imply a level of environment recovery that the surviving record does not support.

@@ -1,0 +1,28 @@
+model:
+  family: RF-DETR
+  variant: Medium
+  class: RFDETRMedium
+  parameters: 33687458
+  encoder: dinov2_windowed_small
+  encoder_layers: 12
+  decoder_layers: 4
+  object_queries: 300
+  internal_num_classes: 53
+  evaluated_operational_categories: 52
+  non_operational_parent_category:
+    id: 0
+    name: fish
+  detector_resolution_px: 448
+initialization:
+  pretrained: true
+  local_filename: rf-detr-medium.pth
+  provenance: NOT_RECOVERED
+selection:
+  criterion: maximum_validation_coco_ap50_95_across_regular_and_ema
+  selected_state: EMA
+  selected_epoch_index: 4
+  validation_ap50_95: 0.5255759074475391
+  checkpoint_filename: checkpoint_best_total.pth
+test_attribution: AUTHOR_CONFIRMED_EVIDENCE_FAVORS_BEST_CHECKPOINT
+checkpoint_included: false
+exact_rfdetr_build: NOT_RECOVERED

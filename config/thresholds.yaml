@@ -1,0 +1,23 @@
+primary_rfdetr_evaluation:
+  metric_family: COCO_bbox
+  iou_range: "0.50:0.95"
+  max_detections: [1, 10, 100]
+  precision_recall_operating_point: NOT_RECOVERED
+diagnostic_matching:
+  saved_prediction_confidence_filter: 0.25
+  note: "No saved prediction was removed because retained scores were approximately 0.50 or higher."
+  match_iou_minimum: 0.50
+  assignment: one_to_one_best_unused_prediction_within_image
+archive_inference:
+  confidence_threshold: 0.50
+feature_space:
+  embedding_dimensions: 512
+  embedding_normalization: L2
+  cosine_distance: true
+  umap_neighbors: 15
+  umap_minimum_distance: 0.1
+  umap_random_seed: 42
+  neighborhood_k: 15
+  permutation_count: 999
+  low_f1_threshold: 0.25
+  high_false_negative_rate_threshold: 0.75

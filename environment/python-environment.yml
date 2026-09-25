@@ -1,0 +1,20 @@
+name: reef-fish-rfdetr
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.11.14
+  - pytorch=2.9.1
+  - cuda-version=12.8
+  - numpy
+  - pillow
+  - pip
+  - pip:
+      - roboflow==1.2.11
+      - rfdetr
+      - pycocotools
+
+# The exact RF-DETR, NumPy, Pillow, and pycocotools versions were not retained.
+# This file records the verified Python/PyTorch/CUDA/Roboflow versions and the
+# required unpinned packages; it is not claimed to recreate the original build.

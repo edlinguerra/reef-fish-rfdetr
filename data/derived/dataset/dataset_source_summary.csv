@@ -1,0 +1,7 @@
+split,source,exported_image_files,preaugmentation_source_images
+train,SAMP,26008,6502
+train,iNaturalist,8060,2015
+valid,SAMP,355,355
+valid,iNaturalist,343,343
+test,SAMP,185,185
+test,iNaturalist,335,335

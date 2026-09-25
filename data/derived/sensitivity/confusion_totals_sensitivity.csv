@@ -1,0 +1,4 @@
+analysis,images,TP,FP,FN,class_confusions,unmatched_predictions,unmatched_ground_truth
+corrected_520,520,1237,279,609,112,167,497
+cleaned_519,519,1236,279,609,112,167,497
+difference_519_minus_520,-1,-1,0,0,0,0,0

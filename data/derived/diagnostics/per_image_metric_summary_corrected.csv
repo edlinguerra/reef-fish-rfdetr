@@ -1,0 +1,3 @@
+analysis,images_total,images_with_defined_F1,images_with_defined_FN_rate,zero_performance_images,TP,FP,FN
+original_reconstructed,520,431,431,24,1237,167,420
+corrected,520,490,490,83,1237,279,609

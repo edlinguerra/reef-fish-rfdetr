@@ -1,0 +1,4 @@
+"outcome","count","proportion"
+"Correct-class match",1237,0.670097508125677
+"Wrong-class match",112,0.0606717226435536
+"Unmatched ground-truth object",497,0.269230769230769

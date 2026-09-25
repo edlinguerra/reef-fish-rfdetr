@@ -1,0 +1,9 @@
+quantity,value,unit,scope,note
+training_source_images,8517,source images,train,pre-augmentation
+validation_images,698,images,validation,not multiplied by augmentation
+test_images,520,images,held-out image-level test,not fully source- or sequence-independent
+total_preaugmentation_images,9735,images,all splits,8517 + 698 + 520
+training_outputs_per_source,4,exported files per source image,train,Roboflow output convention
+exported_training_files,34068,image files,train,4 x 8517
+training_samp_source_images,6502,source images,train,filename begins 2024 or 2025
+training_inaturalist_source_images,2015,source images,train,all remaining filenames

@@ -1,0 +1,4 @@
+split,image_files,annotated_images_in_csv,images_without_annotation_rows,csv_filenames_missing_image_file,annotated_objects,represented_classes,unique_source_identifiers,additional_exported_derivatives,source_group_size_min,source_group_size_median,source_group_size_max,metadata_dimensions,actual_dimensions,corrupt_image_files,preaugmentation_source_examples,unique_normalized_source_identifiers
+train,34068,25784,8284,0,311028,52,8502,25551,4,4.0,8,576x576:311028,576x576:34068,0,8517,8502
+valid,698,570,128,0,3082,52,698,0,1,1.0,1,576x576:3082,576x576:698,0,698,698
+test,520,490,30,0,1846,52,520,0,1,1.0,1,576x576:1846,576x576:520,0,520,520

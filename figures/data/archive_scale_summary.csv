@@ -1,0 +1,3 @@
+"measure","value","unit","scope","interpretation"
+"image_records","198965","image records","SAMP archive 2024-2025","records represented in saved archive output"
+"saved_detections","81601","model detections","SAMP archive 2024-2025","model outputs; not counts of unique fish individuals"

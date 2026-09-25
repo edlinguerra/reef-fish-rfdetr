@@ -1,0 +1,2 @@
+removed_image,removed_image_TP,removed_image_FP,removed_image_FN,removed_image_F1,removed_image_FN_rate,low_F1_images_520,low_F1_images_519,high_FN_images_520,high_FN_images_519,all_519_enrichment_p_values_non_significant
+Sparisoma-aurofrenatum_50_jpeg.rf.01a354eadafa43e014231167f64c0302.jpg,1,0,0,1,0,83,83,95,95,TRUE
