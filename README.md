@@ -39,14 +39,16 @@
 
 Sustained autonomous underwater monitoring can extend temporal coverage and spatial reach, but repeated sampling can generate image volumes that exceed manual interpretation capacity. Converting those images into taxonomically resolved observations becomes a processing bottleneck as monitoring intensifies.
 
-This repository contains the reproducible code, verified configuration, derived evaluation records, corrected diagnostics, leakage-sensitivity outputs, and figure inputs supporting an RF-DETR workflow for reef-fish taxon/morphotype detection. The workflow addresses the image-processing constraint on scaling spatiotemporal reef-fish monitoring while keeping model detections distinct from unique fish individuals or validated ecological estimates.
+This repository contains the code, configuration, derived evaluation records, corrected diagnostics, leakage-sensitivity outputs, and figure inputs for an RF-DETR workflow that detects reef-fish taxa and morphotypes. The workflow supports the interpretation of sustained underwater-image collections while keeping model detections distinct from counts of unique fish or validated ecological estimates.
+
+Complementary workflow support is provided by [cam2model](https://github.com/arturoSP/cam2model), a companion project developed by Edlin José Guerra Castro and Arturo Sanchez-Porras for organizing reproducible image-to-model processing.
 
 ### Where to start
 
 | Goal | Location |
 |---|---|
-| Reproduce headline checks | [`tests/`](tests/) |
-| Reproduce public-safe figure panels | [`scripts/figures/`](scripts/figures/) |
+| Run repository checks | [`tests/`](tests/) |
+| Generate reproducible figure panels | [`scripts/figures/`](scripts/figures/) |
 | Inspect corrected diagnostics | [`scripts/diagnostics/`](scripts/diagnostics/) |
 | Inspect model metadata and limitations | [`models/MODEL_CARD.md`](models/MODEL_CARD.md) |
 | Inspect external-image provenance | [`metadata/`](metadata/) |
@@ -65,23 +67,23 @@ This repository contains the reproducible code, verified configuration, derived 
 
 ### Test-set qualification
 
-The test partition is a held-out **image-level** set, not a fully source- or sequence-independent set. A post hoc audit found one train–test source-image duplicate. Removing it changed every paired metric produced by the available sensitivity evaluator by less than 0.00023 and did not change the confusion-matrix or CLIP–UMAP interpretation. The original 520-image RF-DETR metrics remain the primary reported results. Some SAMP images are temporally adjacent across splits; this represents potential dependence rather than exact leakage.
+The test partition is a held-out **image-level** set, not a fully source- or sequence-independent set. One source image occurred in both the training and test partitions. Excluding that image in a paired sensitivity analysis changed every evaluated metric by less than 0.00023 and did not change the confusion-matrix or CLIP–UMAP interpretation. The original 520-image RF-DETR metrics remain the primary reported results. Some SAMP images are temporally adjacent across splits, creating potential dependence without exact image duplication.
 
 ## Repository contents
 
 | Directory | Contents |
 |---|---|
 | `config/` | Operational class map, preprocessing and augmentation settings, detector/training configuration, and analysis thresholds. |
-| `data/derived/` | Dataset summaries, primary test table, corrected diagnostic outputs, retained embeddings, and leakage-sensitivity outputs. |
+| `data/derived/` | Dataset summaries, primary test table, corrected diagnostic outputs, CLIP embeddings, and leakage-sensitivity outputs. |
 | `metadata/` | Public external-image provenance manifest and coverage notes; no third-party image pixels. |
-| `scripts/` | Portable inference, evaluation, corrected diagnostics, leakage sensitivity, and public-safe figure workflows. |
+| `scripts/` | Portable inference, evaluation, corrected diagnostics, leakage sensitivity, and figure workflows. |
 | `figures/data/` | Plot-ready figure inputs and archive-scale summary. |
-| `figures/captions/` | Accepted draft figure captions. |
-| `models/` | Model card and checkpoint deposit information. |
-| `tests/` | Integrity checks for headline values and figure inputs. |
+| `figures/captions/` | Manuscript figure captions. |
+| `models/` | Model card and checkpoint metadata. |
+| `tests/` | Automated checks for reported values and figure inputs. |
 | `docs/` | Reproducibility, data availability, provenance, design, and licensing documentation. |
 
-This repository excludes raw SAMP photographs, third-party photographs, mixed Roboflow image exports, model checkpoints, working workbooks, local environments, and temporary files. The visual assets under `docs/assets/` are governed by the rights statements described in the licensing documentation.
+This repository excludes raw SAMP photographs, third-party photographs, mixed Roboflow image exports, model checkpoints, working workbooks, local environments, and temporary files.
 
 ## Quick verification
 
@@ -91,11 +93,11 @@ From the repository root:
 python tests/test_public_package.py
 ```
 
-The test checks Figure 3 model selection, Figure 4 totals and matrix dimensions, Figure 5 image and neighborhood counts, Table 1 values, Figure 2 numerical inputs, Figure 6 archive totals, ontology size, leakage sensitivity, and external-image provenance coverage.
+The command checks the values and dimensions used in Figures 2–6 and Table 1, together with ontology size, leakage-sensitivity results, and external-image provenance coverage.
 
 ## Reproducing figures
 
-R figure scripts use the retained package versions documented in [`environment/r-package-versions.txt`](environment/r-package-versions.txt):
+R package versions are listed in [`environment/r-package-versions.txt`](environment/r-package-versions.txt). Run the figure scripts from the repository root:
 
 ```bash
 Rscript scripts/figures/fig03_model_selection.R
@@ -117,24 +119,26 @@ Rscript scripts/diagnostics/vector_analysis_corrected.R
 Rscript scripts/leakage_sensitivity/test_leakage_sensitivity_diagnostics.R
 ```
 
-The diagnostic workflow applies its retained confidence filter of 0.25 and one-to-one matching at IoU ≥ 0.50. The saved predictions already have scores of approximately 0.50 or higher. Diagnostic TP, FP, and FN counts are not the numerators of the original RF-DETR headline precision and recall.
+The diagnostic workflow applies a confidence threshold of 0.25 and one-to-one matching at IoU ≥ 0.50. The saved predictions have scores of approximately 0.50 or higher. Diagnostic TP, FP, and FN counts are separate from the numerators used for the reported RF-DETR precision and recall.
 
-The standalone evaluator in `scripts/evaluation/evaluate_coco_predictions.py` supports the paired leakage-sensitivity calculations. It is **not** represented as the exact RF-DETR implementation that generated the four headline values in `results.json`; the exact RF-DETR package build and precision/recall operating-point implementation were not retained.
+The standalone evaluator in `scripts/evaluation/evaluate_coco_predictions.py` supports the paired leakage-sensitivity calculations. It uses a separate evaluation workflow from the RF-DETR evaluation that produced the four reported test metrics and should not be used to reproduce those headline values.
 
 ## Model availability
 
-The validation-selected checkpoint is `checkpoint_best_total.pth`, containing the epoch-index-4 EMA model. It is not included in this code repository. Its attribution to the final held-out test is author-confirmed and consistent with the retained run record, and the archive-inference script directly specifies the same checkpoint filename.
+The validation-selected checkpoint (`checkpoint_best_total.pth`) contains the epoch-index-4 EMA model used for the manuscript analyses and archive-scale inference. The checkpoint is distributed through the project's Zenodo release rather than through this GitHub repository.
 
-Model checkpoints and weights are not covered by the repository-wide licenses unless an explicit license is supplied with them. The project's single versioned reproducibility package is assigned Zenodo DOI **[10.5281/zenodo.22950727](https://doi.org/10.5281/zenodo.22950727)**. Consult the archived record and [`models/README.md`](models/README.md) for the model-related materials included with a release and their applicable terms. See also [`models/MODEL_CARD.md`](models/MODEL_CARD.md).
+Model documentation is provided in [`models/README.md`](models/README.md) and [`models/MODEL_CARD.md`](models/MODEL_CARD.md). Model weights are accompanied by their applicable license terms. The project release is associated with Zenodo DOI **[10.5281/zenodo.22950727](https://doi.org/10.5281/zenodo.22950727)**.
 
 ## Data availability
 
 - Third-party photographs, including images recorded in the project's iNaturalist source category, are **not redistributed**.
 - [`metadata/inaturalist_provenance_manifest.csv`](metadata/inaturalist_provenance_manifest.csv) provides project identifiers, operational labels, split membership, match status, and recovered source URLs where unique mappings were available.
-- The manifest recovers a unique valid URL for 2,372 of 2,693 final external-image records (88.08%); 319 mappings are ambiguous and 2 records lack a retained URL.
+- The manifest links 2,372 of 2,693 final external-image records (88.08%) to a unique valid URL; 319 mappings are ambiguous and 2 records lack a URL.
 - Raw SAMP imagery is not distributed unless an asset is explicitly released under a stated license.
-- Model checkpoints and weights are not included in this repository and require a separate explicit license when distributed.
-- The project's single versioned reproducibility package is assigned Zenodo DOI **[10.5281/zenodo.22950727](https://doi.org/10.5281/zenodo.22950727)**. The inventory for each archived version identifies the eligible materials it contains, which may include software, configuration files, reproducibility metadata, model documentation, eligible model-related materials, author-generated derived data, provenance manifests, diagnostic outputs, and plot-ready data.
+- Model checkpoints and weights are distributed through the project release rather than through this GitHub repository and are accompanied by their applicable license terms.
+- The project release is associated with Zenodo DOI **[10.5281/zenodo.22950727](https://doi.org/10.5281/zenodo.22950727)**.
+
+GitHub provides the living source repository, version history, code, scripts, configuration, tests, and documentation. The associated Zenodo release provides a versioned source snapshot together with the checkpoint, model materials, and included derived research outputs.
 
 Users should consult linked third-party sources under their current terms. A retained URL does not by itself establish creator attribution, license, continued availability, or permission to redistribute an image. See [`docs/DATA_AVAILABILITY.md`](docs/DATA_AVAILABILITY.md) and [`metadata/EXTERNAL_IMAGE_PROVENANCE.md`](metadata/EXTERNAL_IMAGE_PROVENANCE.md).
 
@@ -172,9 +176,9 @@ This research was supported by the Dirección General de Asuntos del Personal Ac
 
 This repository supports the manuscript **“Scaling spatiotemporal reef-fish monitoring with computer vision in the southern Gulf of Mexico.”**
 
-Source code and version history are maintained at [GitHub](https://github.com/edlinguerra/reef-fish-rfdetr). The corresponding versioned reproducibility package is assigned Zenodo DOI **[10.5281/zenodo.22950727](https://doi.org/10.5281/zenodo.22950727)**.
+Source code and version history are maintained at [GitHub](https://github.com/edlinguerra/reef-fish-rfdetr). The project release is associated with Zenodo DOI **[10.5281/zenodo.22950727](https://doi.org/10.5281/zenodo.22950727)**.
 
-If you use this software, derived research materials, or associated reproducibility resources, please cite the relevant software release and the published article.
+If you use these materials, please cite the Zenodo release and the associated article.
 
 ## License
 
