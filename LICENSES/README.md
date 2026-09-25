@@ -36,4 +36,4 @@ Model checkpoints and weights are not covered by PolyForm Noncommercial 1.0.0 or
 
 Reuse must comply with the attribution and notice terms of the applicable license. Preserve the project notice in [`../NOTICE`](../NOTICE), including acknowledgement of PAPIIT-UNAM project IN208124 and the manuscript authors/project source as appropriate.
 
-Source code and version history are maintained at [GitHub](https://github.com/edlinguerra/reef-fish-rfdetr). The project's single versioned reproducibility package is assigned Zenodo DOI [10.5281/zenodo.22950727](https://doi.org/10.5281/zenodo.22950727). Cite the relevant repository release and published article when reusing these materials.
+Source code and version history are maintained at [GitHub](https://github.com/edlinguerra/reef-fish-rfdetr). The project's `v1.0.0` reproducibility package is archived in Zenodo at [10.5281/zenodo.22950727](https://doi.org/10.5281/zenodo.22950727). Cite the relevant repository release and published article when reusing these materials.

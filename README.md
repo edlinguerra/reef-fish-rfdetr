@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white" alt="Python 3.11">
     <img src="https://img.shields.io/badge/R-analysis-276DC3?logo=r&logoColor=white" alt="R analysis">
     <img src="https://img.shields.io/badge/reproducibility-checks%20passed-2E7D32" alt="Reproducibility checks passed">
+    <a href="https://doi.org/10.5281/zenodo.22950727"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22950727.svg" alt="Zenodo DOI 10.5281/zenodo.22950727"></a>
   </p>
 </div>
 
@@ -125,20 +126,17 @@ The standalone evaluator in `scripts/evaluation/evaluate_coco_predictions.py` su
 
 ## Model availability
 
-The validation-selected checkpoint (`checkpoint_best_total.pth`) contains the epoch-index-4 EMA model used for the manuscript analyses and archive-scale inference. The checkpoint is distributed through the project's Zenodo release rather than through this GitHub repository.
+The validation-selected checkpoint (`checkpoint_best_total.pth`) contains the epoch-index-4 EMA model used for the manuscript analyses and archive-scale inference. The checkpoint is archived with the project's Zenodo release and is not stored in this GitHub repository.
 
-Model documentation is provided in [`models/README.md`](models/README.md) and [`models/MODEL_CARD.md`](models/MODEL_CARD.md). Model weights are accompanied by their applicable license terms. The project release is associated with Zenodo DOI **[10.5281/zenodo.22950727](https://doi.org/10.5281/zenodo.22950727)**.
+Model documentation is provided in [`models/README.md`](models/README.md) and [`models/MODEL_CARD.md`](models/MODEL_CARD.md). Model weights are accompanied by their applicable license terms.
 
 ## Data availability
 
-- Third-party photographs, including images recorded in the project's iNaturalist source category, are **not redistributed**.
-- [`metadata/inaturalist_provenance_manifest.csv`](metadata/inaturalist_provenance_manifest.csv) provides project identifiers, operational labels, split membership, match status, and recovered source URLs where unique mappings were available.
-- The manifest links 2,372 of 2,693 final external-image records (88.08%) to a unique valid URL; 319 mappings are ambiguous and 2 records lack a URL.
-- Raw SAMP imagery is not distributed unless an asset is explicitly released under a stated license.
-- Model checkpoints and weights are distributed through the project release rather than through this GitHub repository and are accompanied by their applicable license terms.
-- The project release is associated with Zenodo DOI **[10.5281/zenodo.22950727](https://doi.org/10.5281/zenodo.22950727)**.
+The reproducibility materials associated with this repository are archived in Zenodo at **[10.5281/zenodo.22950727](https://doi.org/10.5281/zenodo.22950727)**. The archive includes the versioned repository snapshot, additional derived outputs, and the validation-selected model checkpoint. Third-party reference photographs and raw SAMP image collections are not redistributed.
 
-GitHub provides the living source repository, version history, code, scripts, configuration, tests, and documentation. The associated Zenodo release provides a versioned source snapshot together with the checkpoint, model materials, and included derived research outputs.
+GitHub provides the living source repository, version history, code, scripts, configuration, documentation, tests, and small reproducibility data already tracked in the repository. Zenodo provides the immutable `v1.0.0` reproducibility release, including the source snapshot, additional derived outputs, and the validation-selected RF-DETR checkpoint.
+
+[`metadata/inaturalist_provenance_manifest.csv`](metadata/inaturalist_provenance_manifest.csv) provides project identifiers, operational labels, split membership, match status, and recovered source URLs where unique mappings were available. The manifest links 2,372 of 2,693 final external-image records (88.08%) to a unique valid URL; 319 mappings are ambiguous and 2 records lack a URL.
 
 Users should consult linked third-party sources under their current terms. A retained URL does not by itself establish creator attribution, license, continued availability, or permission to redistribute an image. See [`docs/DATA_AVAILABILITY.md`](docs/DATA_AVAILABILITY.md) and [`metadata/EXTERNAL_IMAGE_PROVENANCE.md`](metadata/EXTERNAL_IMAGE_PROVENANCE.md).
 
@@ -176,7 +174,7 @@ This research was supported by the Dirección General de Asuntos del Personal Ac
 
 This repository supports the manuscript **“Scaling spatiotemporal reef-fish monitoring with computer vision in the southern Gulf of Mexico.”**
 
-Source code and version history are maintained at [GitHub](https://github.com/edlinguerra/reef-fish-rfdetr). The project release is associated with Zenodo DOI **[10.5281/zenodo.22950727](https://doi.org/10.5281/zenodo.22950727)**.
+Source code and version history are maintained at [GitHub](https://github.com/edlinguerra/reef-fish-rfdetr). The versioned reproducibility package and validation-selected model checkpoint are archived in Zenodo at **[10.5281/zenodo.22950727](https://doi.org/10.5281/zenodo.22950727)**.
 
 If you use these materials, please cite the Zenodo release and the associated article.
 
@@ -187,5 +185,7 @@ Original source code and scripts authored for this repository are available unde
 Author-generated derived datasets, tables, manifests, metadata, and other eligible research outputs are available under [CC BY-NC-SA 4.0](LICENSES/CC-BY-NC-SA-4.0.txt), unless otherwise noted and only where the project has the rights to license them. Reuse requires attribution, is limited to non-commercial purposes, and derivative material must use the same license where the CC BY-NC-SA terms apply.
 
 Third-party images, institutional logos, upstream software and model assets, and other materials carrying separate rights statements are not covered by the repository-wide licenses described above. This includes iNaturalist and other externally sourced photographs; SAMP photographs unless explicitly released under a stated license; photographic previews or renders containing restricted imagery; third-party software; upstream RF-DETR source code and pretrained/base weights; and model checkpoints or weights without an accompanying explicit license. Their reuse is governed by the applicable source license, rights statement, or accompanying documentation.
+
+The validation-selected model checkpoint is distributed through the Zenodo release under the applicable model and upstream license terms documented with the archived materials.
 
 Reuse should acknowledge PAPIIT-UNAM project IN208124 and the manuscript authors and project source as appropriate. See [`LICENSES/README.md`](LICENSES/README.md) and [`NOTICE`](NOTICE) for the detailed scope and attribution notice.
