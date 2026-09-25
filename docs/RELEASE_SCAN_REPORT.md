@@ -34,4 +34,4 @@ URLs in `metadata/inaturalist_provenance_manifest.csv` are an intentional public
 
 ## Release decision
 
-The repository is suitable for local Git initialization and private remote staging. Public release still requires author confirmation of the code license, final citation metadata, repository URL, DOI placeholders, and any separately deposited checkpoint or SAMP image rights.
+The repository is suitable for local Git initialization and private remote staging. The code and derived-data licensing framework is now author-confirmed. Public release still requires final citation metadata, the repository URL, replacement of DOI placeholders when records exist, and resolution of any separately deposited checkpoint or SAMP image rights.

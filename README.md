@@ -175,10 +175,15 @@ Draft citation metadata with the confirmed author list are maintained in [`CITAT
 
 ## License
 
-A final source-code license has not yet been assigned. See [`LICENSE_PENDING.md`](LICENSE_PENDING.md). Any future code license will not automatically cover external images, SAMP images, linked third-party content, or the model checkpoint.
+Source code and scripts in this repository are available under the [PolyForm Noncommercial License 1.0.0](LICENSES/PolyForm-Noncommercial-1.0.0.txt). Author-generated derived data and metadata are available under [CC BY-NC-SA 4.0](LICENSES/CC-BY-NC-SA-4.0.txt), unless otherwise noted and only where the authors hold the necessary rights.
+
+Reuse must provide appropriate attribution to PAPIIT-UNAM project IN208124 and to the manuscript authors and project source as appropriate. Commercial use of the source code and licensed research data is not permitted under these licenses.
+
+Photographs, institutional logos, third-party images and software, and model weights may be subject to separate terms and are not automatically covered by these repository-wide licenses. The selected checkpoint remains subject to upstream license-compatibility review. See [`LICENSES/README.md`](LICENSES/README.md), [`NOTICE`](NOTICE), and [`docs/LICENSING_NOTES.md`](docs/LICENSING_NOTES.md).
 
 ## Status
 
-This repository is a curated reproducibility package under author review. Headline integrity tests pass, the local Git history is initialized, and no public repository, software DOI, research-data DOI, or journal publication is claimed here. Remaining release decisions include the code license, visual-asset rights confirmation, public repository URL, and DOI metadata.
+This repository is a curated reproducibility package under author review. Headline integrity tests pass, the local Git history is initialized, and no public repository, software DOI, research-data DOI, or journal publication is claimed here. Remaining release decisions include visual-asset rights confirmation, checkpoint license compatibility, the public repository URL, and DOI metadata.
 
 For detailed boundaries, consult [`docs/REPRODUCIBILITY_STATUS.md`](docs/REPRODUCIBILITY_STATUS.md), [`docs/RELEASE_SCAN_REPORT.md`](docs/RELEASE_SCAN_REPORT.md), and [`docs/SCRIPT_PROVENANCE.md`](docs/SCRIPT_PROVENANCE.md).
+
