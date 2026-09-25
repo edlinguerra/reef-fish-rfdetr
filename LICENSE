@@ -5,6 +5,6 @@ Source code and scripts in this repository are licensed under the PolyForm Nonco
 
 Author-generated derived datasets, metadata, manifests, ontology tables, and plot-ready data are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0), unless otherwise noted and only to the extent that the authors hold the rights required to license them. The canonical legal code is provided in `LICENSES/CC-BY-NC-SA-4.0.txt`.
 
-These repository-wide licenses do not automatically cover photographs, institutional logos, externally sourced imagery, third-party software, upstream RF-DETR base weights, or the trained RF-DETR checkpoint. See `LICENSES/README.md` and `docs/LICENSING_NOTES.md` for the material-by-material scope and exclusions.
+These repository-wide licenses do not automatically cover photographs, institutional logos or trademarks, externally sourced imagery, third-party software, upstream RF-DETR source code or pretrained/base weights, or model checkpoints and weights without an accompanying explicit license. See `LICENSES/README.md` for the material-by-material scope and exclusions.
 
 Reuse must preserve the notices and attribution required by the applicable license. See `NOTICE` for the project attribution notice.

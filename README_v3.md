@@ -21,19 +21,15 @@
 
 **Project affiliation:** Escuela Nacional de Estudios Superiores, Unidad Mérida, Universidad Nacional Autónoma de México (UNAM), Mérida, Yucatán, Mexico
 
-**Repository:** [https://github.com/edlinguerra/reef-fish-rfdetr](https://github.com/edlinguerra/reef-fish-rfdetr)
-
-**Repository maintainer:** Edlin José Guerra Castro
-
 <div align="center">
   <img src="docs/assets/GA_draft_v5.png" alt="Graphical abstract showing sustained underwater monitoring, RF-DETR structured detections, and archive-scale reef-fish monitoring" width="1000">
 </div>
 
-**Reproducibility:** Figures 3–5 can be regenerated from the included inputs; the numerical panels of Figures 2 and 6 can be regenerated without the restricted photographic assets. See [reproducibility documentation](docs/REPRODUCIBILITY_STATUS.md).
+**Reproducibility status:** The curated package passes its headline numerical and release-integrity checks. Figures 3–5 are reproducible from retained public inputs; the numerical panels of Figures 2 and 6 are reproducible without the restricted photographic assets. See [Reproducibility status](docs/REPRODUCIBILITY_STATUS.md).
 
 [Overview](#overview) · [Scientific record](#scientific-record) · [Repository contents](#repository-contents) · [Quick verification](#quick-verification)  
 [Reproducing figures](#reproducing-figures) · [Diagnostic workflows](#diagnostic-workflows) · [Model availability](#model-availability) · [Data availability](#data-availability)  
-[Funding](#funding) · [Citation](#citation) · [License](#license)
+[Funding](#funding) · [Citation](#citation) · [License](#license) · [Status](#status)
 
 ## Overview
 
@@ -50,7 +46,7 @@ This repository contains the reproducible code, verified configuration, derived 
 | Inspect corrected diagnostics | [`scripts/diagnostics/`](scripts/diagnostics/) |
 | Inspect model metadata and limitations | [`models/MODEL_CARD.md`](models/MODEL_CARD.md) |
 | Inspect external-image provenance | [`metadata/`](metadata/) |
-| Inspect reproducibility documentation | [`docs/`](docs/) |
+| Inspect reproducibility and release notes | [`docs/`](docs/) |
 
 ## Scientific record
 
@@ -79,9 +75,9 @@ The test partition is a held-out **image-level** set, not a fully source- or seq
 | `figures/captions/` | Accepted draft figure captions. |
 | `models/` | Model card and checkpoint deposit information. |
 | `tests/` | Integrity checks for headline values and figure inputs. |
-| `docs/` | Reproducibility, data availability, provenance, design, and licensing documentation. |
+| `docs/` | Reproducibility, data availability, provenance, design, and release records. |
 
-This repository excludes raw SAMP photographs, third-party photographs, mixed Roboflow image exports, model checkpoints, working workbooks, local environments, and temporary files. The visual assets under `docs/assets/` are governed by the rights statements described in the licensing documentation.
+The repository is a curated copy. It excludes raw SAMP photographs, third-party photographs, mixed Roboflow image exports, model checkpoints, private workbooks, historical runs, local environments, and temporary files, apart from the approved logos and graphical-abstract preview under `docs/assets/`.
 
 ## Quick verification
 
@@ -125,16 +121,16 @@ The standalone evaluator in `scripts/evaluation/evaluate_coco_predictions.py` su
 
 The validation-selected checkpoint is `checkpoint_best_total.pth`, containing the epoch-index-4 EMA model. It is not included in this code repository. Its attribution to the final held-out test is author-confirmed and consistent with the retained run record, and the archive-inference script directly specifies the same checkpoint filename.
 
-Model checkpoints and weights are not covered by the repository-wide licenses unless an explicit license is supplied with them. The project's single versioned reproducibility package is assigned Zenodo DOI **[10.5281/zenodo.22950727](https://doi.org/10.5281/zenodo.22950727)**. Consult the archived record and [`models/README.md`](models/README.md) for the model-related materials included with a release and their applicable terms. See also [`models/MODEL_CARD.md`](models/MODEL_CARD.md).
+The final checkpoint will be deposited separately in a DOI-bearing research-data/model repository after license compatibility and deposit conditions are confirmed. No model DOI currently exists. See [`models/MODEL_CARD.md`](models/MODEL_CARD.md) and [`models/README.md`](models/README.md).
 
 ## Data availability
 
 - Third-party photographs, including images recorded in the project's iNaturalist source category, are **not redistributed**.
 - [`metadata/inaturalist_provenance_manifest.csv`](metadata/inaturalist_provenance_manifest.csv) provides project identifiers, operational labels, split membership, match status, and recovered source URLs where unique mappings were available.
 - The manifest recovers a unique valid URL for 2,372 of 2,693 final external-image records (88.08%); 319 mappings are ambiguous and 2 records lack a retained URL.
-- Raw SAMP imagery is not distributed unless an asset is explicitly released under a stated license.
-- Model checkpoints and weights are not included in this repository and require a separate explicit license when distributed.
-- The project's single versioned reproducibility package is assigned Zenodo DOI **[10.5281/zenodo.22950727](https://doi.org/10.5281/zenodo.22950727)**. The inventory for each archived version identifies the eligible materials it contains, which may include software, configuration files, reproducibility metadata, model documentation, eligible model-related materials, author-generated derived data, provenance manifests, diagnostic outputs, and plot-ready data.
+- Raw SAMP imagery remains restricted pending institutional and project authorization for redistribution.
+- The final model checkpoint will be deposited separately once license compatibility is confirmed.
+- No Mendeley Data or Zenodo record is claimed to exist at this stage.
 
 Users should consult linked third-party sources under their current terms. A retained URL does not by itself establish creator attribution, license, continued availability, or permission to redistribute an image. See [`docs/DATA_AVAILABILITY.md`](docs/DATA_AVAILABILITY.md) and [`metadata/EXTERNAL_IMAGE_PROVENANCE.md`](metadata/EXTERNAL_IMAGE_PROVENANCE.md).
 
@@ -170,18 +166,19 @@ This research was supported by the Dirección General de Asuntos del Personal Ac
 
 ## Citation
 
-This repository supports the manuscript **“Scaling spatiotemporal reef-fish monitoring with computer vision in the southern Gulf of Mexico.”**
+Draft citation metadata with the confirmed author list are maintained in [`CITATION_v2.cff`](CITATION_v2.cff). The final release will support four related citation targets without treating any placeholder as an existing identifier:
 
-Source code and version history are maintained at [GitHub](https://github.com/edlinguerra/reef-fish-rfdetr). The corresponding versioned reproducibility package is assigned Zenodo DOI **[10.5281/zenodo.22950727](https://doi.org/10.5281/zenodo.22950727)**.
-
-If you use this software, derived research materials, or associated reproducibility resources, please cite the relevant software release and the published article.
+- **Manuscript:** journal, year, and article DOI to be confirmed.
+- **GitHub repository:** repository URL to be added after private staging and author approval.
+- **Versioned software archive:** future Zenodo software DOI to be added after release.
+- **Research-data/model package:** future Mendeley Data DOI to be added after deposit.
 
 ## License
 
-Original source code and scripts authored for this repository are available under the [PolyForm Noncommercial License 1.0.0](LICENSES/PolyForm-Noncommercial-1.0.0.txt), except where a file explicitly states otherwise. Commercial use is not permitted under this license.
+A final source-code license has not yet been assigned. See [`LICENSE_PENDING.md`](LICENSE_PENDING.md). Any future code license will not automatically cover external images, SAMP images, linked third-party content, or the model checkpoint.
 
-Author-generated derived datasets, tables, manifests, metadata, and other eligible research outputs are available under [CC BY-NC-SA 4.0](LICENSES/CC-BY-NC-SA-4.0.txt), unless otherwise noted and only where the project has the rights to license them. Reuse requires attribution, is limited to non-commercial purposes, and derivative material must use the same license where the CC BY-NC-SA terms apply.
+## Status
 
-Third-party images, institutional logos, upstream software and model assets, and other materials carrying separate rights statements are not covered by the repository-wide licenses described above. This includes iNaturalist and other externally sourced photographs; SAMP photographs unless explicitly released under a stated license; photographic previews or renders containing restricted imagery; third-party software; upstream RF-DETR source code and pretrained/base weights; and model checkpoints or weights without an accompanying explicit license. Their reuse is governed by the applicable source license, rights statement, or accompanying documentation.
+This repository is a curated reproducibility package under author review. Headline integrity tests pass, the local Git history is initialized, and no public repository, software DOI, research-data DOI, or journal publication is claimed here. Remaining release decisions include the code license, visual-asset rights confirmation, public repository URL, and DOI metadata.
 
-Reuse should acknowledge PAPIIT-UNAM project IN208124 and the manuscript authors and project source as appropriate. See [`LICENSES/README.md`](LICENSES/README.md) and [`NOTICE`](NOTICE) for the detailed scope and attribution notice.
+For detailed boundaries, consult [`docs/REPRODUCIBILITY_STATUS.md`](docs/REPRODUCIBILITY_STATUS.md), [`docs/RELEASE_SCAN_REPORT.md`](docs/RELEASE_SCAN_REPORT.md), and [`docs/SCRIPT_PROVENANCE.md`](docs/SCRIPT_PROVENANCE.md).

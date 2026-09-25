@@ -62,9 +62,9 @@ Three restrained badges indicate Python 3.11, R analysis, and passed reproducibi
 - The duplicate-image sensitivity result remains below 0.00023 for the paired available-evaluator metrics.
 - Diagnostic counts remain explicitly distinct from the primary RF-DETR evaluator.
 - Third-party photographs remain non-redistributed; public provenance metadata and recovered URLs are described instead.
-- Raw SAMP imagery remains restricted pending redistribution authorization.
-- The checkpoint remains external to GitHub and awaits a separate DOI-bearing deposit after license review.
-- No Mendeley Data, Zenodo, article DOI, or public-repository record is represented as already existing.
+- Raw SAMP imagery is not distributed unless an asset is explicitly released under a stated license.
+- The checkpoint remains external to GitHub and requires an explicit license if it is distributed.
+- The canonical GitHub repository is `https://github.com/edlinguerra/reef-fish-rfdetr`, and the single versioned reproducibility package is assigned Zenodo DOI `10.5281/zenodo.22950727`.
 
 ## Remaining visual-rights questions
 

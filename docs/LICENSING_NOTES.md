@@ -19,16 +19,14 @@ The unmodified plain-text licenses were retrieved from the official publishers o
 
 The files were not rewritten, summarized, or customized. Repository-specific scope and attribution statements are kept outside the canonical texts.
 
-## Exclusions and unresolved rights
+## Exclusions and separate rights
 
 The blanket licenses exclude third-party photographs, externally sourced imagery, institutional/project logos, SAMP photographs without separate authorization, image-dependent renders without explicit clearance, upstream RF-DETR implementation/base weights, third-party software, and files carrying their own terms.
 
-The trained checkpoint `checkpoint_best_total.pth` and any future archival alias remain **UPSTREAM LICENSE COMPATIBILITY REVIEW REQUIRED**. They are not covered by the repository-wide code or data licenses until compatibility with the RF-DETR implementation and base-weight terms is verified.
+The trained checkpoint `checkpoint_best_total.pth`, any archival alias, upstream RF-DETR implementation code, and base weights are not covered by the repository-wide code or data licenses. A checkpoint or model weight may be reused only when an explicit license is supplied with it.
 
 The public provenance manifest may be released under CC BY-NC-SA 4.0 as a project-authored metadata compilation where the authors have the relevant rights. The license does not extend to photographs or webpages linked from the manifest.
 
 The retained COCO files `data/derived/evaluation/test_ground_truth.coco.json` and `data/derived/evaluation/test_predictions.coco.json` contain an export-level `CC BY 4.0` metadata statement inherited from the Roboflow export. That embedded statement was not modified. The repository's CC BY-NC-SA 4.0 notice applies only to author-generated derived content where the authors have licensing authority and does not override previously applicable terms or grant rights to underlying third-party photographs. `scripts/inference/infer_archive.py` preserves any COCO license metadata supplied in its input; this behavior does not relicense the referenced images.
 
-## Historical pending record
-
-`LICENSE_PENDING.md` is retained as a historical marker but now states that the code/data license selection has been resolved. The unresolved checkpoint and visual-asset questions remain documented here rather than being treated as a reason to leave the code license undecided.
+The project's single versioned reproducibility package is assigned Zenodo DOI [10.5281/zenodo.22950727](https://doi.org/10.5281/zenodo.22950727). The archived record identifies the included materials and any material-specific terms supplied with them.

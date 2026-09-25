@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please cite the versioned reproducibility package and associated manuscript."
+message: "Please cite the associated manuscript and the archived software release."
 title: "Reef-fish RF-DETR reproducibility package"
 type: software
 authors:
@@ -27,9 +27,13 @@ authors:
     family-names: "Contreras-Chávez"
   - given-names: "Ximena Isabel"
     family-names: "Pérez-Meza"
-version: "1.0.0"
-repository-code: "https://github.com/edlinguerra/reef-fish-rfdetr"
-doi: "10.5281/zenodo.22950727"
+version: "0.1.0"
+date-released: "2026-09-24"
+repository-code: "REPOSITORY URL TO BE ADDED"
+identifiers:
+  - type: doi
+    value: "SOFTWARE DOI TO BE ADDED"
+    description: "Versioned software archive"
 preferred-citation:
   type: article
   title: "Scaling spatiotemporal reef-fish monitoring with computer vision in the southern Gulf of Mexico"
@@ -58,4 +62,6 @@ preferred-citation:
       family-names: "Contreras-Chávez"
     - given-names: "Ximena Isabel"
       family-names: "Pérez-Meza"
+  journal: "JOURNAL TO BE ADDED"
   year: 2026
+  doi: "ARTICLE DOI TO BE ADDED"
