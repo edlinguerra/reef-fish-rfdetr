@@ -106,8 +106,19 @@ def main() -> None:
     assert status["NOT_IN_FINAL_DATASET"] == 448
     close(2372 / 2693, 0.88080207946528, 1e-12)
 
+    allowed_visual_assets = {
+        Path("docs/assets/ENES_Merida.jpg"),
+        Path("docs/assets/cam2model_2.PNG"),
+        Path("docs/assets/GA_draft_v5.png"),
+    }
+    assert all((ROOT / path).is_file() for path in allowed_visual_assets)
     forbidden = {".jpg", ".jpeg", ".png", ".tif", ".tiff", ".webp", ".pth", ".pt", ".ckpt", ".zip"}
-    found = [path for path in ROOT.rglob("*") if path.is_file() and path.suffix.lower() in forbidden]
+    found = [
+        path for path in ROOT.rglob("*")
+        if path.is_file()
+        and path.suffix.lower() in forbidden
+        and path.relative_to(ROOT) not in allowed_visual_assets
+    ]
     assert not found, f"Forbidden image/model/archive files: {found}"
     print("PASS: public-package scientific and release-integrity checks completed.")
 
