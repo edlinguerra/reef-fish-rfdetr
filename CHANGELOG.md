@@ -2,7 +2,7 @@
 
 ## Unreleased
 
-- No changes released after v1.0.0.
+- Clarified that the model provides image-level counts of detected fish instances, while archive-wide detections do not represent uniquely identified individuals or validated population-abundance estimates.
 
 ## 1.0.0 — 2026-09-25
 

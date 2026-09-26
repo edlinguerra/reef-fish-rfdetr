@@ -2,7 +2,7 @@
 
 ## Intended use
 
-The model converts SAMP underwater imagery from Bajo de Diez into image-level detections for 51 fish taxon/morphotype classes plus an auxiliary `unidentifiable` category. It supports image screening and structured observation generation. It is not a validated estimator of abundance, a counter of unique individuals, or a model demonstrated to transfer across reefs or camera domains.
+The model converts SAMP underwater imagery from Bajo de Diez into image-level detections for 51 fish taxon/morphotype classes plus an auxiliary `unidentifiable` category. It supports image screening and structured observation generation. The model detects and counts visible fish instances within individual images. It does not perform individual identification or tracking across images. Therefore, detections accumulated across multiple images should not be interpreted as counts of unique individual fish or, without additional ecological validation, as estimates of population abundance. Transfer performance across different reefs or camera domains has not yet been evaluated.
 
 ## Architecture and selection
 
@@ -43,7 +43,7 @@ The test set is an image-level holdout, not fully source- or sequence-independen
 
 ## Deployment
 
-The archive-inference script uses `checkpoint_best_total.pth` and a confidence threshold of 0.50. The saved archive output represents 198,965 image records and 81,601 model detections. Raw archive images are not distributed, and the checkpoint is available through Zenodo rather than GitHub.
+The archive-inference script uses `checkpoint_best_total.pth` and a confidence threshold of 0.50. The saved archive output represents 198,965 image records and 81,601 fish-detection events across images, not 81,601 uniquely identified fish. Raw archive images are not distributed, and the checkpoint is available through Zenodo rather than GitHub.
 
 ## Limitations
 

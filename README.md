@@ -40,7 +40,7 @@
 
 Sustained autonomous underwater monitoring can extend temporal coverage and spatial reach, but repeated sampling can generate image volumes that exceed manual interpretation capacity. Converting those images into taxonomically resolved observations becomes a processing bottleneck as monitoring intensifies.
 
-This repository contains the code, configuration, derived evaluation records, corrected diagnostics, leakage-sensitivity outputs, and figure inputs for an RF-DETR workflow that detects reef-fish taxa and morphotypes. The workflow supports the interpretation of sustained underwater-image collections while keeping model detections distinct from counts of unique fish or validated ecological estimates.
+This repository contains the code, configuration, derived evaluation records, corrected diagnostics, leakage-sensitivity outputs, and figure inputs for an RF-DETR workflow that detects reef-fish taxa and morphotypes. The model detects and counts visible fish instances within individual images. It does not perform individual identification or tracking across images. Therefore, detections accumulated across multiple images should not be interpreted as counts of unique individual fish or, without additional ecological validation, as estimates of population abundance.
 
 [cam2model](https://github.com/arturoSP/cam2model) is a companion image-management and training-data preparation workflow maintained separately from this repository.
 
@@ -65,7 +65,7 @@ This repository contains the code, configuration, derived evaluation records, co
 - Model selection: epoch-index-4 EMA, chosen by maximum validation COCO AP@50:95 (0.526).
 - Held-out image-level test: 520 images and 1,846 ground-truth objects.
 - Reported test metrics: mAP@50 0.741; mAP@50:95 0.545; precision 0.794; recall 0.650.
-- Archive application: 198,965 image records and 81,601 saved detections at confidence threshold 0.50. Detections are model outputs, not counts of unique fish.
+- Archive application: 198,965 image records and 81,601 saved fish detections at confidence threshold 0.50. These are detection events across images and do not represent 81,601 unique individuals.
 
 ### Test-set qualification
 

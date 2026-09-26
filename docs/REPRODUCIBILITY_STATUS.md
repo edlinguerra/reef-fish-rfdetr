@@ -7,7 +7,7 @@
 - **Figure 3:** the validation table contains ten epochs (indices 0–9); the maximum EMA AP@50:95 is 0.526 at epoch index 4. Test metrics are not used in the selection plot.
 - **Figure 4:** the plotting table contains 52 × 53 class/outcome cells, and the ground-truth outcomes sum to 1,846 = 1,237 correct-class + 112 wrong-class + 497 unmatched.
 - **Figure 5:** the supplied data contain 520 images: 490 with ground truth, 30 without ground truth, and 59 with no saved detections. Among the ground-truth-containing images, 83 have F1 = 0 and 95 have FN rate ≥ 0.75. The four k = 15 neighborhood tests and their ratios and p-values are included.
-- **Figure 6 numerical Panel A:** the archive summary contains 198,965 image records and 81,601 saved detections. Panel B images and renders are not public.
+- **Figure 6 numerical Panel A:** the archive summary contains 198,965 image records and 81,601 saved fish detections. These are detection events across images, not uniquely identified fish or validated population-abundance estimates. Panel B images and renders are not public.
 - **Leakage sensitivity:** removal of the single duplicated source image changes each paired metric by less than 0.00023 with the repository evaluator.
 - **External-image provenance:** the manifest contains 2,372 `URL_RECOVERED`, 319 `AMBIGUOUS_MATCH`, and 2 `URL_MISSING` records among 2,693 final external-image records; 448 additional workbook records are marked `NOT_IN_FINAL_DATASET`.
 
