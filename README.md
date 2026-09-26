@@ -61,7 +61,7 @@ Complementary workflow support is provided by [cam2model](https://github.com/art
 - Operational ontology: 51 fish taxon/morphotype classes plus `unidentifiable` (52 evaluated categories). The COCO parent `fish` is non-operational.
 - Export preprocessing: 576 × 576 pixels; detector resolution: 448 pixels.
 - Training: 10 epochs on one NVIDIA RTX A2000 6 GB GPU in a Dell Precision 7920; approximately 17 h.
-- Model selection: epoch-index-4 EMA, chosen by maximum validation COCO AP@50:95 (0.5255759074475391).
+- Model selection: epoch-index-4 EMA, chosen by maximum validation COCO AP@50:95 (0.526).
 - Held-out image-level test: 520 images and 1,846 ground-truth objects.
 - Reported test metrics: mAP@50 0.741; mAP@50:95 0.545; precision 0.794; recall 0.650.
 - Archive application: 198,965 image records and 81,601 saved detections at confidence threshold 0.50. Detections are model outputs, not counts of unique fish.
