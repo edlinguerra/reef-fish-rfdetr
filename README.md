@@ -63,7 +63,7 @@ Complementary workflow support is provided by [cam2model](https://github.com/art
 - Training: 10 epochs on one NVIDIA RTX A2000 6 GB GPU in a Dell Precision 7920; approximately 17 h.
 - Model selection: epoch-index-4 EMA, chosen by maximum validation COCO AP@50:95 (0.5255759074475391).
 - Held-out image-level test: 520 images and 1,846 ground-truth objects.
-- Reported test metrics: mAP@50 0.7407811331; mAP@50:95 0.5448539545; precision 0.7944608346; recall 0.650000.
+- Reported test metrics: mAP@50 0.741; mAP@50:95 0.545; precision 0.794; recall 0.650.
 - Archive application: 198,965 image records and 81,601 saved detections at confidence threshold 0.50. Detections are model outputs, not counts of unique fish.
 
 ### Test-set qualification
