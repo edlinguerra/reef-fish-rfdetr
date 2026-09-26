@@ -1,5 +1,5 @@
-# Environment recovery status
+# Software environment
 
-`python-environment.yml` records the verified Python 3.11.14, PyTorch 2.9.1+cu128/CUDA 12.8 context and Roboflow 1.2.11, while leaving unrecovered package versions unpinned. `requirements-unpinned.txt` is therefore a dependency list, not a lock file.
+`python-environment.yml` documents Python 3.11.14, PyTorch 2.9.1+cu128, CUDA 12.8, and Roboflow 1.2.11. Packages without a recorded version remain unpinned, so `requirements-unpinned.txt` is a dependency list rather than a lock file.
 
-`r-package-versions.txt` records versions retained for the analysis packages. The exact R interpreter version used for the accepted analyses was not retained. A new lock file was not generated because it would describe the present workstation rather than the historical final-run environment.
+`r-package-versions.txt` lists the available package versions associated with the corrected analyses and figure workflows. The R interpreter version is not documented. No `renv.lock` is supplied, and the repository does not claim byte-identical recreation of the original R environment.

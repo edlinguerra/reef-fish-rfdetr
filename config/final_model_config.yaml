@@ -16,13 +16,14 @@ model:
 initialization:
   pretrained: true
   local_filename: rf-detr-medium.pth
-  provenance: NOT_RECOVERED
+  source_metadata_documented: false
 selection:
   criterion: maximum_validation_coco_ap50_95_across_regular_and_ema
   selected_state: EMA
   selected_epoch_index: 4
   validation_ap50_95: 0.5255759074475391
   checkpoint_filename: checkpoint_best_total.pth
-test_attribution: AUTHOR_CONFIRMED_EVIDENCE_FAVORS_BEST_CHECKPOINT
-checkpoint_included: false
-exact_rfdetr_build: NOT_RECOVERED
+test_model_state: validation_selected_epoch_4_ema
+checkpoint_in_github: false
+checkpoint_zenodo_doi: 10.5281/zenodo.22950727
+exact_rfdetr_build_documented: false

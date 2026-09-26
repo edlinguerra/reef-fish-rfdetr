@@ -1,8 +1,8 @@
 # R environment
 
-The corrected analyses and figure-production environment retained the following installed package versions:
+The corrected analyses and figure-production workflows use the following documented package versions:
 
-| Package | Retained version |
+| Package | Documented version |
 |---|---:|
 | dplyr | 1.2.1 |
 | ggplot2 | 4.0.3 |
@@ -14,4 +14,4 @@ The corrected analyses and figure-production environment retained the following 
 | tidyr | 1.3.2 |
 | uwot | 0.2.5 |
 
-The exact R interpreter version used for the accepted analyses was not retained in the controlling audit. Base `grid` and graphics packages are also used. No `renv.lock` is supplied because generating one now would imply a level of environment recovery that the surviving record does not support.
+The R interpreter version is not documented. Base `grid` and graphics packages are also used. No `renv.lock` is supplied, and the repository does not claim byte-identical recreation of the original R environment.

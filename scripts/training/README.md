@@ -1,5 +1,5 @@
-# Training workflow status
+# Training configuration
 
-The exact launcher that initiated the authoritative ten-epoch v17 run was not retained as a standalone script. The surviving edited `train_rfdetr_peces_Bajo_10.py` points to a separate `output_1` directory and three epochs, so it is intentionally excluded rather than misrepresented as the final-run launcher.
+The final RF-DETR Medium model was trained for ten epochs. Its architecture, optimization settings, model-selection criterion, and hardware context are documented in [`../../config/training.yaml`](../../config/training.yaml) and [`../../config/final_model_config.yaml`](../../config/final_model_config.yaml).
 
-The verified expanded run configuration is transcribed in `config/training.yaml` and `config/final_model.yaml`. Those files support accurate description and reconstruction of the recorded settings, but do not guarantee byte-identical retraining because the exact RF-DETR package build, optimizer class, original split-allocation procedure, and complete random-state controls were not recovered.
+This repository does not include a standalone final-run launcher and does not claim byte-identical retraining. The exact RF-DETR package build, optimizer class, original split-allocation procedure, and complete random-state context are not documented. The published configuration supports transparent description of the training setup and interpretation of the supplied checkpoint and evaluation products.

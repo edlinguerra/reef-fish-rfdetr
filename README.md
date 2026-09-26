@@ -42,7 +42,7 @@ Sustained autonomous underwater monitoring can extend temporal coverage and spat
 
 This repository contains the code, configuration, derived evaluation records, corrected diagnostics, leakage-sensitivity outputs, and figure inputs for an RF-DETR workflow that detects reef-fish taxa and morphotypes. The workflow supports the interpretation of sustained underwater-image collections while keeping model detections distinct from counts of unique fish or validated ecological estimates.
 
-Complementary workflow support is provided by [cam2model](https://github.com/arturoSP/cam2model), a companion project developed by Edlin José Guerra Castro and Arturo Sanchez-Porras for organizing reproducible image-to-model processing.
+[cam2model](https://github.com/arturoSP/cam2model) is a companion image-management and training-data preparation workflow maintained separately from this repository.
 
 ### Where to start
 
@@ -51,6 +51,7 @@ Complementary workflow support is provided by [cam2model](https://github.com/art
 | Run repository checks | [`tests/`](tests/) |
 | Generate reproducible figure panels | [`scripts/figures/`](scripts/figures/) |
 | Inspect corrected diagnostics | [`scripts/diagnostics/`](scripts/diagnostics/) |
+| Map scripts to manuscript analyses | [`docs/WORKFLOWS.md`](docs/WORKFLOWS.md) |
 | Inspect model metadata and limitations | [`models/MODEL_CARD.md`](models/MODEL_CARD.md) |
 | Inspect external-image provenance | [`metadata/`](metadata/) |
 | Inspect reproducibility documentation | [`docs/`](docs/) |
@@ -82,9 +83,9 @@ The test partition is a held-out **image-level** set, not a fully source- or seq
 | `figures/captions/` | Manuscript figure captions. |
 | `models/` | Model card and checkpoint metadata. |
 | `tests/` | Automated checks for reported values and figure inputs. |
-| `docs/` | Reproducibility, data availability, provenance, design, and licensing documentation. |
+| `docs/` | Reproducibility scope, workflow coverage, data availability, and licensing documentation. |
 
-This repository excludes raw SAMP photographs, third-party photographs, mixed Roboflow image exports, model checkpoints, working workbooks, local environments, and temporary files.
+This GitHub repository excludes raw SAMP photographs, third-party photographs, mixed Roboflow image exports, model checkpoints, working workbooks, local environments, and temporary files. The validation-selected checkpoint and additional derived outputs are distributed through the versioned Zenodo release described below.
 
 ## Quick verification
 

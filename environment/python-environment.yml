@@ -15,6 +15,6 @@ dependencies:
       - rfdetr
       - pycocotools
 
-# The exact RF-DETR, NumPy, Pillow, and pycocotools versions were not retained.
-# This file records the verified Python/PyTorch/CUDA/Roboflow versions and the
-# required unpinned packages; it is not claimed to recreate the original build.
+# RF-DETR, NumPy, Pillow, and pycocotools are intentionally unpinned because
+# their exact versions are not documented. This environment specification does
+# not claim byte-identical recreation of the training build.

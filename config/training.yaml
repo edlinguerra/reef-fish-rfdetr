@@ -44,4 +44,4 @@ early_stopping_patience: 10
 early_stopping_minimum_delta: 0.001
 training_completed_all_epochs: true
 training_duration: "17:16:24"
-optimizer_class: NOT_RECOVERED
+optimizer_class_documented: false

@@ -16,6 +16,6 @@ training_augmentation:
   brightness_percent: "-10 to +10"
   exposure_percent: "-5 to +5"
   noise_max_percent_of_pixels: 1
-  operation_specific_probabilities: NOT_RECOVERED
+  operation_specific_probabilities_documented: false
 validation_and_test_outputs_per_source_image: 1
 detector_resolution_px: 448

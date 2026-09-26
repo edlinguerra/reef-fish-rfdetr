@@ -2,10 +2,10 @@ primary_rfdetr_evaluation:
   metric_family: COCO_bbox
   iou_range: "0.50:0.95"
   max_detections: [1, 10, 100]
-  precision_recall_operating_point: NOT_RECOVERED
+  precision_recall_operating_point_documented: false
 diagnostic_matching:
   saved_prediction_confidence_filter: 0.25
-  note: "No saved prediction was removed because retained scores were approximately 0.50 or higher."
+  note: "All saved prediction scores were approximately 0.50 or higher, so filtering at 0.25 retained every saved detection."
   match_iou_minimum: 0.50
   assignment: one_to_one_best_unused_prediction_within_image
 archive_inference:
